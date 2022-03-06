@@ -1,0 +1,566 @@
+[  
+  { 
+    "latitudeitude": "30.0444",
+    "longitudeitude": "31.2357",
+    "name1": "القاهرة",
+    "name2": "cairo",
+    "cities ": [
+      {
+        "latitude": "30.1071",
+        "longitude": "31.2912",
+        "name1": "الأميرية، القاهرة",
+        "name2": "al-amiriyyah"
+      },
+      {
+        "latitude": "29.9793",
+        "longitude": "31.3027",
+        "name1": "البساتين، القاهرة",
+        "name2": "basateen"
+      },
+      {
+        "latitude": "29.7756",
+        "longitude": "31.3256",
+        "name1": "التبين، القاهرة",
+        "name2": "tebeen"
+      },
+      {
+        "latitude": "29.9801",
+        "longitude": "31.4328",
+        "name1": "التجمع الثالث، القاهرة",
+        "name2": "the-3rd-district"
+      },
+      {
+        "latitude": "30.05274",
+        "longitude": "31.26376",
+        "name1": "الجمالية، القاهرة",
+        "name2": "gamaleya"
+      },
+      {
+        "latitude": "31.1967431589",	
+        "longitude": "29.9269059458",
+        "name1": "الحلمية، القاهرة",
+        "name2": "helmeya"
+      },
+      {
+        "latitude": "30.0812558",
+        "longitude": "31.2511902",
+        "name1": "الحلمية الجديدة، القاهرة",
+        "name2": "helmeya-al-gadeda"
+      },
+      {
+        "latitude": "25.1972",
+        "longitude": "55.2744",
+        "name1": "الخليفة، القاهرة",
+        "name2": "khalifa"
+      },
+      {
+        "latitude": "30.0560",
+        "longitude": "31.2719",
+        "name1": "الدراسة، القاهرة",
+        "name2": "darrasa"
+      },
+      {
+        "latitude": "30.0400",
+        "longitude": "31.2598",
+        "name1": "الدرب الأحمر، القاهرة",
+        "name2": "darb-al-ahmar"
+      },
+      {
+        "latitude": "39.7857",
+        "longitude": "19.7723",
+        "name1": "الروضة، القاهرة",
+        "name2": "roda"
+      },
+      {
+        "latitude": "30.0945910011", 
+        "longitude": "31.2707329126",
+        "name1": "الزاوية الحمراء، القاهرة",
+        "name2": "zawya-al-hamra"
+      },
+      {
+        "latitude": "30.0609",
+        "longitude": "31.2197",
+        "name1": "الزمالك، القاهرة",
+        "name2": "zamalek"
+      },
+      {
+        "latitude": "30.1074",
+        "longitude": "31.3157",
+        "name1": "الزيتون، القاهرة",
+        "name2": "zaytoun"
+      },
+      {
+        "latitude": "30.082779",
+        "longitude": "31.252253",
+        "name1": "الساحل، القاهرة",
+        "name2": "sahel"
+      },
+      {
+        "latitude": "33.4430",
+        "longitude": "36.3336",
+        "name1": "السيدة زينب، القاهرة",
+        "name2": "sayeda-zeinab"
+      },
+      {
+        "latitude": "30.0838813154",	
+        "longitude": "31.2577555846",
+        "name1": "الشرابية، القاهرة",
+        "name2": "sharabeya"
+      },
+      {
+        "latitude": "30.2927",
+        "longitude": "31.7423",
+        "name1": "العاشر من رمضان، القاهرة",
+        "name2": "10th-ramadan-city"
+      },
+      {
+        "latitude": "new-capital-city",
+        "longitude": "31.6979",
+        "name1": "العاصمة الإدارية الجديدة، القاهرة",
+        "name2": "new-capital-city"
+      },
+      {
+        "latitude": "30.5349",
+        "longitude": "31.7171",
+        "name1": "العباسية، القاهرة",
+        "name2": "abasiya"
+      },
+      {
+        "latitude": "30.2283",
+        "longitude": "31.4799",
+        "name1": "العبور، القاهرة",
+        "name2": "obour-city"
+      },
+      {
+        "latitude": "30.00419",
+        "longitude": "31.43849",
+        "name1": "العتبة، القاهرة",
+        "name2": "ataba"
+      },
+      {
+        "latitude": "30.0646",
+        "longitude": "31.4479",
+        "name1": "القاهرة الجديدة -  التجمع الأول، القاهرة",
+        "name2": "First-Settlement"
+      },
+      {
+        "latitude": "30.1178",
+        "longitude": "31.6171",
+        "name1": "القاهرة الجديدة - الأندلس، القاهرة",
+        "name2": "new-cairo-andalous"
+      },
+      {
+        "latitude": "30.0085",
+        "longitude": "31.4285",
+        "name1": "القاهرة الجديدة - التجمع الخامس، القاهرة",
+        "name2": "fifth-settlement"
+      },
+      {
+        "latitude": "30.005493",
+        "longitude": "31.477898",
+        "name1": "القاهرة الجديدة - لوتس، القاهرة",
+        "name2": "new-cairo-lotus"
+      },
+      {
+        "latitude": "30.0660",
+        "longitude": "31.4856",
+        "name1": "القاهرة الجديدة - مدينة الرحاب، القاهرة",
+        "name2": "rehab-city"
+      },
+      {
+        "latitude": "29.9916",
+        "longitude": "31.4071",
+        "name1": "القطامية، القاهرة",
+        "name2": "katameya"
+      },
+      {
+        "latitude": "30.0833",
+        "longitude": "31.3500",
+        "name1": "الماظة، القاهرة",
+        "name2": "almazah"
+      },
+      {
+        "latitude": "30.1521",
+        "longitude": "31.3357",
+        "name1": "المرج، القاهرة",
+        "name2": "al marj"
+      },
+      {
+        "latitude": "30.1254",
+        "longitude": "31.3181",
+        "name1": "المطرية، القاهرة",
+        "name2": "matareya"
+      },
+      {
+        "latitude": "29.9602",
+        "longitude": "31.2569",
+        "name1": "المعادي، القاهرة",
+        "name2": "maadi"
+      },
+      {
+        "latitude": "31.6583",
+        "longitude": "35.1900",
+        "name1": "المعصره، القاهرة",
+        "name2": "ma-sara"
+      },
+      {
+        "latitude": "30.0217",
+        "longitude": "31.3033",
+        "name1": "المقطم، القاهرة",
+        "name2": "mokattam"
+      },
+      {
+        "latitude": "30.0313374167",
+        "longitude": "31.2344195176",
+        "name1": "المنيرة الجديدة، القاهرة",
+        "name2": "mounira-al-gadeda"
+      },
+      {
+        "latitude": "30.0214",
+        "longitude": "31.2269",
+        "name1": "المنيل، القاهرة",
+        "name2": "al-manial"
+      },
+      {
+        "latitude": "30.0488477",
+        "longitude": "31.2561819",
+        "name1": "الموسكي، القاهرة",
+        "name2": "moski"
+      },
+      {
+        "latitude": "30.043917",
+        "longitude": "31.010492",
+        "name1": "النزهة، القاهرة",
+        "name2": "nozha-cairo"
+      },
+      {
+        "latitude": "30.0704",
+        "longitude": "31.2827",
+        "name1": "الوايلي، القاهرة",
+        "name2": "waili"
+      },
+      {
+        "latitude": "30.0541",
+        "longitude": "31.2559",
+        "name1": "باب الشعرية، القاهرة",
+        "name2": "bab-al-shereia"
+      },
+      {
+        "latitude": "30.0631",
+        "longitude": "31.2312",
+        "name1": "بولاق، القاهرة",
+        "name2": "boulaq"
+      },
+      {
+        "latitude": "30.0607",
+        "longitude": "31.5514",
+        "name1": "بيت الوطن، القاهرة",
+        "name2": "bait-el-watan"
+      },
+      {
+        "latitude": "30.0381",
+        "longitude": "31.2326",
+        "name1": "جاردن سيتي، القاهرة",
+        "name2": "garden-city"
+      },
+      {
+        "latitude": "30.0858",
+        "longitude": "31.2784",
+        "name1": "حدائق القبة، القاهرة",
+        "name2": "hadayek-al-kobba"
+      },
+      {
+        "latitude": "29.8971",
+        "longitude": "31.3040",
+        "name1": "حدائق حلوان، القاهرة",
+        "name2": "hadayek-helwan"
+      },
+      {
+        "latitude": "29.8403",
+        "longitude": "31.2982",
+        "name1": "حلوان، القاهرة",
+        "name2": "helwan"
+      },
+      {
+        "latitude": "29.9906171",
+        "longitude": "31.2316763",
+        "name1": "دار السلام، القاهرة",
+        "name2": "dar-al-salaam"
+      },
+      {
+        "latitude": "30.058166434",
+        "longitude": "31.2416657",
+        "name1": "رمسيس و امتداد رمسيس، القاهرة",
+        "name2": "ramses-ramses-extension"
+      },
+      {
+        "latitude": "30.0772",
+        "longitude": "31.2369",
+        "name1": "روض الفرج، القاهرة",
+        "name2": "rod-al-farag"
+      },
+      {
+        "latitude": "29.9632427",
+        "longitude": "31.3177059",
+        "name1": "زهراء المعادى، القاهرة",
+        "name2": "zahraa-al-maadi"
+      },
+      {
+        "latitude": "30.1234",
+        "longitude": "31.2609",
+        "name1": "شبرا، القاهرة",
+        "name2": "shubra"
+      },
+      {
+        "latitude": "30.1033",
+        "longitude": "30.1033",
+        "name1": "شيراتون، القاهرة",
+        "name2": "Sheraton"
+      },
+      {
+        "latitude": "29.9384",
+        "longitude": "31.3198",
+        "name1": "طرة، القاهرة",
+        "name2": "tura"
+      },
+      {
+        "latitude": "30.1451",
+        "longitude": "31.3187",
+        "name1": "عزبة النخل، القاهرة",
+        "name2": "izbat-an-nakhl"
+      },
+      {
+        "latitude": "30.2071",
+        "longitude": "31.4475",
+        "name1": "عين شمس، القاهرة",
+        "name2": "ain-shams"
+      },
+      {
+        "latitude": "30.0438",
+        "longitude": "31.2296",
+        "name1": "قصر النيل، القاهرة",
+        "name2": "qasr-al-nil"
+      },
+      {
+        "latitude": "29.8579",
+        "longitude": "31.3885",
+        "name1": "مدينة 15 مايو، القاهرة",
+        "name2": "15-may-city"
+      },
+      {
+        "latitude": "30.1718",
+        "longitude": "31.4065",
+        "name1": "مدينة السلام، القاهرة",
+        "name2": "salam-city"
+      },
+      {
+        "latitude": "30.1419",
+        "longitude": "31.6285",
+        "name1": "مدينة الشروق، القاهرة",
+        "name2": "shorouk-city"
+      },
+      {
+        "latitude": "30.1653",
+        "longitude": "31.5513",
+        "name1": "مدينة المستقبل، القاهرة",
+        "name2": "future-city"
+      },
+      {
+        "latitude": "30.1422",
+        "longitude": "31.7414",
+        "name1": "مدينة بدر، القاهرة",
+        "name2": "Badr-City"
+      },
+      {
+        "latitude": "30.0511",
+        "longitude": "31.3656",
+        "name1": "مدينة نصر، القاهرة",
+        "name2": "nasr-city"
+      },
+      {
+        "latitude": "30.0956",
+        "longitude": "31.6349",
+        "name1": "مدينتي، القاهرة",
+        "name2": "Madinaty"
+      },
+      {
+        "latitude": "30.1412",
+        "longitude": "31.2869",
+        "name1": "مسطرد، القاهرة",
+        "name2": "musturad"
+      },
+      {
+        "latitude": "30.1123",
+        "longitude": "31.3439",
+        "name1": "مصر الجديدة، القاهرة",
+        "name2": "heliopolis"
+      },
+      {
+        "latitude": "30.0011",
+        "longitude": "31.2316",
+        "name1": "مصر القديمة، القاهرة",
+        "name2": "masr-al-kadema"
+      },
+      {
+        "latitude": "30.1659",
+        "longitude": "31.6890",
+        "name1": "هليوبوليس الجديدة، القاهرة",
+        "name2": "new-heliopolis"
+      },
+      {
+        "latitude": "30.0467",
+        "longitude": "31.2347",
+        "name1": "وسط القاهرة، القاهرة",
+        "name2": "downtown-cairo"
+      }
+    ]
+  },  
+  {
+    "latitude": "24.0889",
+    "longitude": "32.8998",
+    "name1": "أسوان",
+    "name2": "aswan",
+    "cities ": [
+      {
+        "latitude": "24.1319",
+        "longitude": "32.8902",
+        "name1": "ابو الريش، أسوان",
+        "name2": "abou-al-reish"
+      },
+      {
+        "latitude": "22.3460",
+        "longitude": "31.6156",
+        "name1": "ابو سمبل، أسوان",
+        "name2": "abou-simbel"
+      },
+      {
+        "latitude": "24.9792",
+        "longitude": "32.8758",
+        "name1": "ادفو، أسوان",
+        "name2": "edfu"
+      },
+      {
+        "latitude": "25.1380318853",
+        "longitude": "32.722533904",
+        "name1": "البصيلية، أسوان",
+        "name2": "basiliah"
+      },
+      {
+        "latitude": "24.907478",
+        "longitude": "32.885047",
+        "name1": "الرديسية، أسوان",
+        "name2": "rdesiah"
+      },
+      {
+        "latitude": "25.1941",
+        "longitude": "32.6798",
+        "name1": "السباعية، أسوان",
+        "name2": "sebaeiah"
+      },
+      {
+        "latitude": "24.4079",
+        "longitude": "32.9229",
+        "name1": "دراو، أسوان",
+        "name2": "daraw"
+      },
+      {
+        "latitude": "23.9643605",
+        "longitude": "32.8355147296",
+        "name1": "صحارى، أسوان",
+        "name2": "sahara"
+      },
+      {
+        "latitude": "3523.96095",
+        "longitude": "32.8674",
+        "name1": "كلابشة، أسوان",
+        "name2": "kalabsha"
+      },
+      {
+        "latitude": "24.4698",
+        "longitude": "32.9381",
+        "name1": "كوم امبو، أسوان",
+        "name2": "kom-ombo"
+      },
+      {
+        "latitude": "24.545056",
+        "longitude": "33.046379",
+        "name1": "نصر النوبة، أسوان",
+        "name2": "nasr-al-noba"
+      }
+    ]
+  },
+  {
+    "latitude": "27.1783",
+    "longitude": "31.1859",
+    "longitude": "أسيوط",
+    "name2": "asyut",
+    "cities ": [
+      {
+        "latitude": "27.2674",
+        "longitude": "31.1519",
+        "name1": "أبنوب، أسيوط",
+        "name2": "abnub"
+      },
+      {
+        "latitude": "27.04595",
+        "longitude": "31.32115",
+        "name1": "أبو تيج، أسيوط",
+        "name2": "abu-teeg"
+      },
+      {
+        "latitude": "27.2811003",
+        "longitude": "31.293368",
+        "name1": "أسيوط الجديدة، أسيوط",
+        "name2": "new-assiut"
+      },
+      {
+        "latitude": "26.9887",
+        "longitude": "31.3942",
+        "name1": "البدارى، أسيوط",
+        "name2": "badari"
+      },
+      {
+        "latitude": "26.8735",
+        "longitude": "31.3260",
+        "name1": "الغنايم، أسيوط",
+        "name2": "ghanayem"
+      },
+      {
+        "latitude": "27.2011",
+        "longitude": "31.2397",
+        "name1": "الفتح، أسيوط",
+        "name2": "fateh"
+      },
+      {
+        "latitude": "27.4393",
+        "longitude": "30.8171",
+        "name1": "القوصيه، أسيوط",
+        "name2": "qusiya"
+      },
+      {
+        "latitude": "27.5541",
+        "longitude": "30.8084",
+        "name1": "ديروط، أسيوط",
+        "name2": "dairut"
+      },
+      {
+        "latitude": "27.0451",
+        "longitude": "31.3370",
+        "name1": "ساحل سليم، أسيوط",
+        "name2": "sahel-selim"
+      },
+      {
+        "latitude": "26.9635",
+        "longitude": "31.3790",
+        "name1": "صدفا، أسيوط",
+        "name2": "sedfa"
+      },
+      {
+        "latitude": "27.3114",
+        "longitude": "30.9715",
+        "name1": "منفلوط، أسيوط",
+        "name2": "manfalut"
+      }
+    ]
+  }
+]
