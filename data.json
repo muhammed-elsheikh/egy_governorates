@@ -492,7 +492,7 @@
   {
     "latitude": "27.1783",
     "longitude": "31.1859",
-    "longitude": "أسيوط",
+    "name1": "أسيوط",
     "name2": "asyut",
     "cities ": [
       {
@@ -560,6 +560,388 @@
         "longitude": "30.9715",
         "name1": "منفلوط، أسيوط",
         "name2": "manfalut"
+      }
+    ]
+  },
+  {
+    "latitude": "31.2001",
+    "longitude": "29.9187",
+    "name1": "الإسكندرية",
+    "name2": "Alexandria",
+    "cities ": [
+      {
+        "latitude": "31.3114",
+        "longitude": "30.0603",
+        "name1": "أبو قير، الإسكندرية",
+        "name2": "Abu Qir"
+      },
+      {
+        "latitude": "31.2051",
+        "longitude": "29.9054",
+        "name1": "الأزاريطة، الإسكندرية",
+        "name2": "El Azarita"
+      },
+      {
+        "latitude": "31.2116",
+        "longitude": "29.9261",
+        "name1": "الإبراهيمية، الإسكندرية",
+        "name2": "Al Ibrahimiyyah"
+      },
+      {
+        "latitude": "31.2529",
+        "longitude": "29.9773",
+        "name1": "الجمرك، الإسكندرية",
+        "name2": "El Gomrok"
+      },
+      {
+        "latitude": "31.1975",
+        "longitude": "29.9286",
+        "name1": "الحضرة، الإسكندرية",
+        "name2": "Al Hadrah"
+      },
+      {
+        "latitude": "31.1230",
+        "longitude": "29.8179",
+        "name1": "الدخيلة، الإسكندرية",
+        "name2": "Ad Dakhilah"
+      },
+      {
+        "latitude": "31.2388",
+        "longitude": "29.9926",
+        "name1": "السيوف، الإسكندرية",
+        "name2": "El Soyof"
+      },
+      {
+        "latitude": "30.63183",
+        "longitude": "31.93902",
+        "name1": "الصالحية، الإسكندرية",
+        "name2": "Salehia"
+      },
+      {
+        "latitude": "31.22483425",
+        "longitude": "29.967981782361",
+        "name1": "الظاهرية، الإسكندرية",
+        "name2": "Al Zaherya"
+      },
+      {
+        "latitude": "31.1042",
+        "longitude": "29.7663",
+        "name1": "العامرية، الإسكندرية",
+        "name2": "Amreya"
+      },
+      {
+        "latitude": "31.2050",
+        "longitude": "29.9064",
+        "name1": "العصافرة، الإسكندرية",
+        "name2": "Asafra"
+      },
+      {
+        "latitude": "31.1980",
+        "longitude": "29.9018",
+        "name1": "العطارين، الإسكندرية",
+        "name2": "Al Attarin"
+      },
+      {
+        "latitude": "109",
+        "longitude": "العوايد",
+        "name1": "العوايد، الإسكندرية",
+        "name2": "awayed"
+      },
+      {
+        "latitude": "31.2007",
+        "longitude": "29.9304",
+        "name1": "القباري، الإسكندرية",
+        "name2": "Kabbary"
+      },
+      {
+        "latitude": "31.1819",
+        "longitude": "29.9059",
+        "name1": "اللبان، الإسكندرية",
+        "name2": "Labban"
+      },
+      {
+        "latitude": "31.2884",
+        "longitude": "30.0306",
+        "name1": "المعمورة، الإسكندرية",
+        "name2": "Al Mamurah"
+      },
+      {
+        "latitude": "31.1447",
+        "longitude": "29.8472",
+        "name1": "المكس، الإسكندرية",
+        "name2": "Al Max"
+      },
+      {
+        "latitude": "31.2885",
+        "longitude": "30.0160",
+        "name1": "المنتزه، الإسكندرية",
+        "name2": "Montaza"
+      },
+      {
+        "latitude": "31.2748",
+        "longitude": "30.0062",
+        "name1": "المندرة، الإسكندرية",
+        "name2": "El-Mandara"
+      },
+      {
+        "latitude": "31.1975",
+        "longitude": "29.8888",
+        "name1": "المنشية، الإسكندرية",
+        "name2": "Mansheya"
+      },
+      {
+        "latitude": "31.13699",
+        "longitude": "29.82318",
+        "name1": "النخيل، الإسكندرية",
+        "name2": "El-Nakheel"
+      },
+      {
+        "latitude": "31.1986",
+        "longitude": "31.1986",
+        "name1": "النزهة، الإسكندرية",
+        "name2": "Nozha"
+      },
+      {
+        "latitude": "31.1665",
+        "longitude": "29.8688",
+        "name1": "الورديان، الإسكندرية",
+        "name2": "Wardian"
+      },
+      {
+        "latitude": "31.2384",
+        "longitude": "29.9670",
+        "name1": "باكوس، الإسكندرية",
+        "name2": "Bacos"
+      },
+      {
+        "latitude": "31.2049074",
+        "longitude": "29.8748668",
+        "name1": "بحرى والأنفوشى، الإسكندرية",
+        "name2": "Al-Anfoushy"
+      },
+      {
+        "latitude": "30.9150",
+        "longitude": "29.5456",
+        "name1": "برج العرب، الإسكندرية",
+        "name2": "Borg Al Arab"
+      },
+      {
+        "latitude": "31.2343",
+        "longitude": "29.9601",
+        "name1": "بولكلي، الإسكندرية",
+        "name2": "Bolkly"
+      },
+      {
+        "latitude": "31.2396",
+        "longitude": "29.9603",
+        "name1": "جليم، الإسكندرية",
+        "name2": "Glim"
+      },
+      {
+        "latitude": "31.2428",
+        "longitude": "29.9694",
+        "name1": "جناكليس، الإسكندرية",
+        "name2": "Gianaclis"
+      },
+      {
+        "latitude": "31.1992",
+        "longitude": "29.8686",
+        "name1": "رأس التين، الإسكندرية",
+        "name2": "Ras el-Tin"
+      },
+      {
+        "latitude": "31.2240",
+        "longitude": "29.9396",
+        "name1": "رشدي، الإسكندرية",
+        "name2": "Roshdy"
+      },
+      {
+        "latitude": "31.2381",
+        "longitude": "29.9679",
+        "name1": "زيزينيا، الإسكندرية",
+        "name2": "Zezenia"
+      },
+      {
+        "latitude": "31.235665",
+        "longitude": "29.957221",
+        "name1": "سابا باشا، الإسكندرية",
+        "name2": "Saba Pasha"
+      },
+      {
+        "latitude": "31.2470",
+        "longitude": "29.9697",
+        "name1": "سان ستيفانو، الإسكندرية",
+        "name2": "San Stefano"
+      },
+      {
+        "latitude": "31.2216",
+        "longitude": "29.9343",
+        "name1": "سبورتنج، الإسكندرية",
+        "name2": "Sporting"
+      },
+      {
+        "latitude": "31.23435",
+        "longitude": "29.94974",
+        "name1": "ستانلي، الإسكندرية",
+        "name2": "Stanley"
+      },
+      {
+        "latitude": "31.2155",
+        "longitude": "29.9420",
+        "name1": "سموحة، الإسكندرية",
+        "name2": "Smouha"
+      },
+      {
+        "latitude": "31.252066",
+        "longitude": "29.994464",
+        "name1": "سيدي بشر، الإسكندرية",
+        "name2": "Sidi Bishr"
+      },
+      {
+        "latitude": "31.2213",
+        "longitude": "29.9379",
+        "name1": "سيدي جابر، الإسكندرية",
+        "name2": "Sidi Gabir"
+      },
+      {
+        "latitude": "31.2088",
+        "longitude": "29.9129",
+        "name1": "شاطبي، الإسكندرية",
+        "name2": "Shatby"
+      },
+      {
+        "latitude": "31.240325",
+        "longitude": "29.972405",
+        "name1": "شدس، الإسكندرية",
+        "name2": "Shods"
+      },
+      {
+        "latitude": "31.2725234823",
+        "longitude": "30.0085400417",
+        "name1": "طوسون، الإسكندرية",
+        "name2": "Tosson"
+      },
+      {
+        "latitude": "31.0988",
+        "longitude": "29.7667",
+        "name1": "عجمي، الإسكندرية",
+        "name2": "El-Agamy"
+      },
+      {
+        "latitude": "31.2290",
+        "longitude": "29.9609",
+        "name1": "فلمنج، الإسكندرية",
+        "name2": "Flemig"
+      },
+      {
+        "latitude": "31.248617",
+        "longitude": "29.969745",
+        "name1": "فيكتوريا، الإسكندرية",
+        "name2": "Victoria"
+      },
+      {
+        "latitude": "31.220289",
+        "longitude": "29.942107",
+        "name1": "كامب شيزار، الإسكندرية",
+        "name2": "Camp Shezar"
+      },
+      {
+        "latitude": "31.177266",
+        "longitude": "29.896874",
+        "name1": "كرموز، الإسكندرية",
+        "name2": "Karmoz"
+      },
+      {
+        "latitude": "31.224876",
+        "longitude": "29.954585",
+        "name1": "كفر عبدو، الإسكندرية",
+        "name2": "afr Abdu"
+      },
+      {
+        "latitude": "31.2244",
+        "longitude": "29.9355",
+        "name1": "كليوباترا، الإسكندرية",
+        "name2": "Cleopatra"
+      },
+      {
+        "latitude": "31.196687",
+        "longitude": "29.90564",
+        "name1": "كوم الدكة، الإسكندرية",
+        "name2": "Kom El Deka"
+      },
+      {
+        "latitude": "31.0330597",
+        "longitude": "30.4673339",
+        "name1": "لوران، الإسكندرية",
+        "name2": "Louran"
+      },
+      {
+        "latitude": "31.1840",
+        "longitude": "29.9365",
+        "name1": "محرّم بيك، الإسكندرية",
+        "name2": "Moharam Bek"
+      },
+      {
+        "latitude": "31.201459",
+        "longitude": "29.901005",
+        "name1": "محطة الرمل، الإسكندرية",
+        "name2": "Mahatet El Raml"
+      },
+      {
+        "latitude": "31.2681",
+        "longitude": "29.9898",
+        "name1": "ميامي، الإسكندرية",
+        "name2": "Miami"
+      },
+      {
+        "latitude": "31.1880",
+        "longitude": "29.8862",
+        "name1": "مينا البصل، الإسكندرية",
+        "name2": "Mina Al Basal"
+      }
+    ]
+  },
+  {
+    "latitude": "25.6872",
+    "longitude": "32.6396",
+    "name1": "الأقصر",
+    "name2": "Luxor",
+    "cities ": [
+      {
+        "latitude": "25.6207",
+        "longitude": "32.5453",
+        "name1": "أرمنت، الأقصر",
+        "name2": "Armant"
+      },
+      {
+        "latitude": "25.2941",
+        "longitude": "32.5477",
+        "name1": "إسنا، الأقصر",
+        "name2": "Esna"
+      },
+      {
+        "latitude": "25.6639",
+        "longitude": "32.6314",
+        "name1": "البياضية، الأقصر",
+        "name2": "Bayadeya"
+      },
+      {
+        "latitude": "25.74766094",
+        "longitude": "32.67350712",
+        "name1": "الزينية، الأقصر",
+        "name2": "AZ Zayniyyah"
+      },
+      {
+        "latitude": "25.5825",
+        "longitude": "32.5326",
+        "name1": "الطود، الأقصر",
+        "name2": "Al Toud City"
+      },
+      {
+        "latitude": "25.7297",
+        "longitude": "32.6447",
+        "name1": "القرنه، الأقصر",
+        "name2": "Al Qarnah"
       }
     ]
   }
