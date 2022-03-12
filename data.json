@@ -2026,6 +2026,516 @@
     ]
   },
   {
+    "latitude": "24.5456",
+    "longitude": "27.1735",
+    "name1": "الوادي الجديد",
+    "name2": "New Valley",
+    "cities ": [
+      {
+        "latitude": "25.4390",
+        "longitude": "30.5586",
+        "name1": "الخارجة، الوادي الجديد",
+        "name2": "Kharga"
+      },
+      {
+        "latitude": "25.5444",
+        "longitude": "28.9288",
+        "name1": "الداخلة، الوادي الجديد",
+        "name2": "Dakhla"
+      },
+      {
+        "latitude": "27.0567",
+        "longitude": "27.9703",
+        "name1": "الفرافرة، الوادي الجديد",
+        "name2": "Farafra"
+      },
+      {
+        "latitude": "25.5625",
+        "longitude": "29.2644",
+        "name1": "بلاط، الوادي الجديد",
+        "name2": "Balat"
+      },
+      {
+        "latitude": "25.4950",
+        "longitude": "28.9795",
+        "name1": "مدينة موط، الوادي الجديد",
+        "name2": "Mut"
+      }
+    ]
+  },
+  {
+    "latitude": "29.0661",
+    "longitude": "31.0994",
+    "name1": "بني سويف",
+    "name2": "Beni Suef",
+    "cities ": [
+      {
+        "latitude": "29.0934",
+        "longitude": "31.0206",
+        "name1": "إهناسيا، بني سويف",
+        "name2": "Ihnasiyah"
+      },
+      {
+        "latitude": "28.8234",
+        "longitude": "30.8988",
+        "name1": "الفشن، بني سويف",
+        "name2": "Al Fashn"
+      },
+      {
+        "latitude": "29.3480",
+        "longitude": "31.2101",
+        "name1": "الواسطى، بني سويف",
+        "name2": "El Wasta"
+      },
+      {
+        "latitude": "28.9216",
+        "longitude": "30.9807",
+        "name1": "ببا، بني سويف",
+        "name2": "Biba"
+      },
+      {
+        "latitude": "28.9914",
+        "longitude": "31.1481",
+        "name1": "بني سويف الجديدة، بني سويف",
+        "name2": "New Beni Suef"
+      },
+      {
+        "latitude": "28.9187",
+        "longitude": "30.8154",
+        "name1": "سمسطا، بني سويف",
+        "name2": "Sumusta"
+      },
+      {
+        "latitude": "29.1493",
+        "longitude": "31.1294",
+        "name1": "ناصر، بني سويف",
+        "name2": "Naser"
+      }
+    ]
+  },
+  {
+    "latitude": "31.2653",
+    "longitude": "32.3019",
+    "name1": "بورسعيد",
+    "name2": "port-Said",
+    "cities ": [
+      {
+        "latitude": "31.253947",
+        "longitude": "32.274525",
+        "name1": "حي الجنوب، بورسعيد",
+        "name2": "Gharb District"
+      },
+      {
+        "latitude": "31.2626",
+        "longitude": "32.2586",
+        "name1": "حي الزهور، بورسعيد",
+        "name2": "Al-Zohour District"
+      },
+      {
+        "latitude": "31.2575",
+        "longitude": "32.3022",
+        "name1": "حي الشرق، بورسعيد",
+        "name2": "Al-Sharq District"
+      },
+      {
+        "latitude": "31.2522",
+        "longitude": "32.2818",
+        "name1": "حي الضواحي، بورسعيد",
+        "name2": "Al-Dawahy District"
+      },
+      {
+        "latitude": "31.2448",
+        "longitude": "32.2694",
+        "name1": "حي العرب، بورسعيد",
+        "name2": "Al-Arab District"
+      },
+      {
+        "latitude": "31.2674",
+        "longitude": "32.2852",
+        "name1": "حي المناخ، بورسعيد",
+        "name2": "Al-Manakh District"
+      },
+      {
+        "latitude": "31.2488",
+        "longitude": "32.3170",
+        "name1": "مدينة بورفؤاد، بورسعيد",
+        "name2": "Port Fuad"
+      }
+    ]
+  },
+  {
+    "latitude": "29.3102",
+    "longitude": "34.1532",
+    "name1": "جنوب سيناء",
+    "name2": "South Sinai",
+    "cities ": [
+      {
+        "latitude": "28.8907",
+        "longitude": "33.1887",
+        "name1": "أبو رديس، جنوب سيناء",
+        "name2": "Abu Rudeis"
+      },
+      {
+        "latitude": "29.0474",
+        "longitude": "33.1063",
+        "name1": "أبو زنيمة، جنوب سيناء",
+        "name2": "Abu Zenima"
+      },
+      {
+        "latitude": "28.5091",
+        "longitude": "34.5136",
+        "name1": "دهب، جنوب سيناء",
+        "name2": "Dahab"
+      },
+      {
+        "latitude": "29.5933",
+        "longitude": "32.7178",
+        "name1": "رأس سدر، جنوب سيناء",
+        "name2": "Ras Sedr" 
+      },
+      {
+        "latitude": "28.5609",
+        "longitude": "33.9480",
+        "name1": "سانت كاترين، جنوب سيناء",
+        "name2": "Saint Catherine"
+      },
+      {
+        "latitude": "27.9654",
+        "longitude": "34.3618",
+        "name1": "شرم الشيخ، جنوب سيناء",
+        "name2": "Sharm El-Sheikh"
+      },
+      {
+        "latitude": "29.4925",
+        "longitude": "34.8969",
+        "name1": "طابا، جنوب سيناء",
+        "name2": "Taba"
+      },
+      {
+        "latitude": "28.2410",
+        "longitude": "33.6230",
+        "name1": "طور سيناء، جنوب سيناء",
+        "name2": "El Tor"
+      },
+      {
+        "latitude": "28.9734",
+        "longitude": "34.6534",
+        "name1": "نويبع، جنوب سيناء",
+        "name2": "Nuweibaa"
+      }
+    ]
+  },
+  {
+    "latitude": "31.4175",
+    "longitude": "31.8144",
+    "name1": "دمياط",
+    "name2": "Damietta",
+    "cities ": [
+      {
+        "latitude": "31.322612",
+        "longitude": "31.758833",
+        "name1": "الروضة، دمياط",
+        "name2": "El-Rawda"
+      },
+      {
+        "latitude": "31.2088",
+        "longitude": "31.6358",
+        "name1": "الزرقا، دمياط",
+        "name2": "AZ Zarqa"
+      },
+      {
+        "latitude": "31.23867",
+        "longitude": "31.65379",
+        "name1": "السرو، دمياط",
+        "name2": "Assarw"
+      },
+      {
+        "latitude": "245",
+        "longitude": "دمياط الجديدة",
+        "name1": "دمياط الجديدة، دمياط",
+        "name2": "new-damietta"
+      },
+      {
+        "latitude": "31.5043",
+        "longitude": "31.8282",
+        "name1": "رأس البر، دمياط",
+        "name2": "Ras El-Bar"
+      },
+      {
+        "latitude": "31.5039",
+        "longitude": "31.8385",
+        "name1": "عزبة البرج، دمياط",
+        "name2": "Izbat Al Burj"
+      },
+      {
+        "latitude": "31.2956",
+        "longitude": "31.7309",
+        "name1": "فارسكور، دمياط",
+        "name2": "Fareskour"
+      },
+      {
+        "latitude": "31.4008",
+        "longitude": "31.7299",
+        "name1": "كفر البطيخ، دمياط",
+        "name2": "Kafr Al Battikh"
+      },
+      {
+        "latitude": "31.3540",
+        "longitude": "31.6841",
+        "name1": "كفر سعد، دمياط",
+        "name2": "Kafr Saad"
+      },
+      {
+        "latitude": "31.2884",
+        "longitude": "31.6772",
+        "name1": "ميت أبوغالب، دمياط",
+        "name2": "Mit Abu Ghaleb"
+      }
+    ]
+  },
+  {
+    "latitude": "26.5591",
+    "longitude": "31.6957",
+    "name1": "سوهاج",
+    "name2": "Sohag",
+    "cities ": [
+      {
+        "latitude": "26.5626",
+        "longitude": "31.7449",
+        "name1": "أخميم، سوهاج",
+        "name2": "Akhmim"
+      },
+      {
+        "latitude": "26.2354",
+        "longitude": "32.0030",
+        "name1": "البلينا، سوهاج",
+        "name2": "Al Balyana"
+      },
+      {
+        "latitude": "26.3937",
+        "longitude": "31.8218",
+        "name1": "العسيرات، سوهاج",
+        "name2": "El-Usayrat"
+      },
+      {
+        "latitude": "26.6985",
+        "longitude": "31.6020",
+        "name1": "المراغة، سوهاج",
+        "name2": "El Maragha"
+      },
+      {
+        "latitude": "26.4790",
+        "longitude": "31.8022",
+        "name1": "المنشاة، سوهاج",
+        "name2": "Al Minshah"
+      },
+      {
+        "latitude": "26.3419",
+        "longitude": "31.8876",
+        "name1": "جرجا، سوهاج",
+        "name2": "Girga"
+      },
+      {
+        "latitude": "26.6794",
+        "longitude": "31.4905",
+        "name1": "جهينة، سوهاج",
+        "name2": "Juhaynah"
+      },
+      {
+        "latitude": "26.2737",
+        "longitude": "32.0667",
+        "name1": "دارالسلام، سوهاج",
+        "name2": "Dar El-Salam"
+      },
+      {
+        "latitude": "26.664926",
+        "longitude": "31.671143",
+        "name1": "ساقلتة، سوهاج",
+        "name2": "Saqultah"
+      },
+      {
+        "latitude": "26.8896",
+        "longitude": "31.4428",
+        "name1": "طما، سوهاج",
+        "name2": "Tama"
+      },
+      {
+        "latitude": "26.7640",
+        "longitude": "31.4982",
+        "name1": "طهطا، سوهاج",
+        "name2": "Tahta"
+      }
+    ]
+  },
+  {
+    "latitude": "30.2824",
+    "longitude": "33.6176",
+    "name1": "شمال سيناء",
+    "name2": "North Sinai",
+    "cities ": [
+      {
+        "latitude": "30.4585",
+        "longitude": "33.7755",
+        "name1": "الحسنة، شمال سيناء",
+        "name2": "Hasna"
+      },
+      {
+        "latitude": "31.211944",
+        "longitude": "34.110556",
+        "name1": "الشيخ زويد، شمال سيناء",
+        "name2": "Sheikh Zuweid"
+      },
+      {
+        "latitude": "31.1321",
+        "longitude": "33.8033",
+        "name1": "العريش، شمال سيناء",
+        "name2": "Arish"
+      },
+      {
+        "latitude": "31.018056",
+        "longitude": "33.011111",
+        "name1": "بئر العبد، شمال سيناء",
+        "name2": "Bir al-Abd"
+      },
+      {
+        "latitude": "31.2803",
+        "longitude": "34.2402",
+        "name1": "رفح، شمال سيناء",
+        "name2": "Rafah"
+      },
+      {
+        "latitude": "29.9093",
+        "longitude": "33.7448",
+        "name1": "نخل، شمال سيناء",
+        "name2": "Nekhel"
+      }
+    ]
+  },
+  {
+    "latitude": "26.1551",
+    "longitude": "32.7160",
+    "name1": "قنا",
+    "name2": "Qena",
+    "cities ": [
+      {
+        "latitude": "26.1209",
+        "longitude": "32.0956",
+        "name1": "أبو تشت، قنا",
+        "name2": "Abu Tisht"
+      },
+      {
+        "latitude": "26.0873",
+        "longitude": "32.4230",
+        "name1": "الوقف، قنا",
+        "name2": "Al Waqf"
+      },
+      {
+        "latitude": "26.128815",
+        "longitude": "32.467799",
+        "name1": "دشنا. قنا",
+        "name2": "Dishna"
+      },
+      {
+        "latitude": "26.0556",
+        "longitude": "32.1675",
+        "name1": "فرشوط، قنا",
+        "name2": "Farshut"
+      },
+      {
+        "latitude": "26.0002",
+        "longitude": "32.8159",
+        "name1": "قفط، قنا",
+        "name2": "Qift"
+      },
+      {
+        "latitude": "25.9181",
+        "longitude": "32.7597",
+        "name1": "قوص، قنا",
+        "name2": "Qus"
+      },
+      {
+        "latitude": "26.0452",
+        "longitude": "32.2428",
+        "name1": "نجع حمادي، قنا",
+        "name2": "Nagaa Hammadi"
+      },
+      {
+        "latitude": "25.9005",
+        "longitude": "32.7227",
+        "name1": "نقادة، قنا",
+        "name2": "Naqadah"
+      }
+    ]
+  },
+  {
+    "latitude": "31.1107",
+    "longitude": "30.9388",
+    "name1": "كفر الشيخ",
+    "name2": "Kafr El-Shaikh",
+    "cities ": [
+      {
+        "latitude": "31.5672",
+        "longitude": "31.1481",
+        "name1": "البرلس، كفر الشيخ",
+        "name2": "Burullus"
+      },
+      {
+        "latitude": "31.3113",
+        "longitude": "31.1463",
+        "name1": "الحامول، كفر الشيخ",
+        "name2": "El-Hamoul"
+      },
+      {
+        "latitude": "31.2368",
+        "longitude": "30.9454",
+        "name1": "الرياض، كفر الشيخ",
+        "name2": "El-Reyad"
+      },
+      {
+        "latitude": "31.5555",
+        "longitude": "31.0944",
+        "name1": "بلطيم، كفر الشيخ",
+        "name2": "Baltim"
+      },
+      {
+        "latitude": "31.1724",
+        "longitude": "31.2215",
+        "name1": "بيلا، كفر الشيخ",
+        "name2": "Biyala"
+      },
+      {
+        "latitude": "31.1341",
+        "longitude": "30.6460",
+        "name1": "دسوق، كفر الشيخ",
+        "name2": "Desouk"
+      },
+      {
+        "latitude": "31.2693",
+        "longitude": "30.7873",
+        "name1": "سيدى سالم، كفر الشيخ",
+        "name2": "Sidi Salem" 
+      },
+      {
+        "latitude": "31.2031",
+        "longitude": "30.5468",
+        "name1": "فوه، كفر الشيخ",
+        "name2": "Fouh"
+      },
+      {
+        "latitude": "31.0481",
+        "longitude": "30.8534",
+        "name1": "قلين، كفر الشيخ",
+        "name2": "Qillin"
+      },
+      {
+        "latitude": "31.3025",
+        "longitude": "30.5213",
+        "name1": "مطوبس، كفر الشيخ",
+        "name2": "Motobas"
+      }
+    ]
+  },
+  {
     "latitude": "25.6872",
     "longitude": "32.6396",
     "name1": "الأقصر",
