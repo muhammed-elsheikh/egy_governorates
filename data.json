@@ -1642,64 +1642,386 @@
         "name2": "New Salhia"
       },
       {
-        "latitude": "40",
-        "longitude": "العاشر من رمضان",
+        "latitude": "30.2927",
+        "longitude": "31.7423",
         "name1": "العاشر من رمضان، الشرقية",
-        "name2": "10th-of-ramadan"
+        "name2": "10th of Ramadan"
       },
       {
-        "latitude": "31",
-        "longitude": "القرين",
+        "latitude": "30.6115",
+        "longitude": "30.6115",
         "name1": "القرين، الشرقية",
-        "name2": "qareen"
+        "name2": "Al Qorin"
       },
       {
-        "latitude": "30",
-        "longitude": "القنايات",
+        "latitude": "30.6151",
+        "longitude": "31.4596",
         "name1": "القنايات، الشرقية",
-        "name2": "alqnayat"
+        "name2": "Alqnayat"
       },
       {
-        "latitude": "35",
-        "longitude": "بلبيس",
+        "latitude": "30.4196",
+        "longitude": "31.5619",
         "name1": "بلبيس، الشرقية",
-        "name2": "bilbeis"
+        "name2": "Belbes"
       },
       {
-        "latitude": "36",
-        "longitude": "ديرب نجم",
+        "latitude": "30.7532",
+        "longitude": "31.4428",
         "name1": "ديرب نجم، الشرقية",
-        "name2": "deyerb-negm"
+        "name2": "Dyarb Negm"
       },
       {
-        "latitude": "37",
-        "longitude": "فاقوس",
+        "latitude": "30.7293",
+        "longitude": "30.7293",
         "name1": "فاقوس، الشرقية",
-        "name2": "faqous"
+        "name2": "Faqus"
       },
       {
-        "latitude": "39",
-        "longitude": "كفر صقر",
+        "latitude": "30.7926",
+        "longitude": "31.6235",
         "name1": "كفر صقر، الشرقية",
-        "name2": "kafr-saqr"
+        "name2": "Kafr Saqr"
       },
       {
-        "latitude": "41",
-        "longitude": "مشتول السوق",
+        "latitude": "30.3585",
+        "longitude": "31.3803",
         "name1": "مشتول السوق، الشرقية",
-        "name2": "mashtool-al-souk"
+        "name2": "Mashtul as Suq"
       },
       {
-        "latitude": "42",
-        "longitude": "منيا القمح",
+        "latitude": "30.5131",
+        "longitude": "31.3460",
         "name1": "منيا القمح، الشرقية",
-        "name2": "minya-al-qamh"
+        "name2": "Minya Al Qamh"
       },
       {
-        "latitude": "38",
-        "longitude": "ههيا",
+        "latitude": "30.6719",
+        "longitude": "31.5914",
         "name1": "ههيا، الشرقية",
-        "name2": "hihya"
+        "name2": "Hihya"
+      }
+    ]
+  },
+  {
+    "latitude": "30.8754",
+    "longitude": "31.0335",
+    "name1": "الغربية",
+    "name2": "Gharbia",
+    "cities ": [
+      {
+        "latitude": "30.7536",
+        "longitude": "31.1023",
+        "name1": "السنطة، الغربية",
+        "name2": "El Santa"
+      },
+      {
+        "latitude": "30.9697",
+        "longitude": "31.1681",
+        "name1": "المحلة الكبرى، الغربية",
+        "name2": "El-Mahalla El-Kubra"
+      },
+      {
+        "latitude": "30.9399",
+        "longitude": "30.8176",
+        "name1": "بسيون، الغربية",
+        "name2": "Basioun"
+      },
+      {
+        "latitude": "30.7127",
+        "longitude": "31.2400",
+        "name1": "زفتى، الغربية",
+        "name2": "Zifta"
+      },
+      {
+        "latitude": "30.9606",
+        "longitude": "31.2438",
+        "name1": "سمنود، الغربية",
+        "name2": "Samanoud"
+      },
+      {
+        "latitude": "30.7865",
+        "longitude": "31.0004",
+        "name1": "طنطا، الغربية",
+        "name2": "Tanta"
+      },
+      {
+        "latitude": "30.9697",
+        "longitude": "30.9572",
+        "name1": "قطور، الغربية",
+        "name2": "Qutur"
+      },
+      {
+        "latitude": "30.8285",
+        "longitude": "30.8138",
+        "name1": "كفر الزيات، الغربية",
+        "name2": "kafr-al-zayat"
+      }
+    ]
+  },
+  {
+    "latitude": "29.3565",
+    "longitude": "30.6200",
+    "name1": "الفيوم",
+    "name2": "Faiyum",
+    "cities ": [
+      {
+        "latitude": "29.2379",
+        "longitude": "30.7913",
+        "name1": "أطسا، الفيوم",
+        "name2": "ITSA"
+      },
+      {
+        "latitude": "29.3523",
+        "longitude": "30.6693",
+        "name1": "إبشواي، الفيوم",
+        "name2": "Ibshway"
+      },
+      {
+        "latitude": "29.2312",
+        "longitude": "30.9028",
+        "name1": "الفيوم الجديدة، الفيوم",
+        "name2": "New fayoum"
+      },
+      {
+        "latitude": "30.866667",
+        "longitude": "29.407222",
+        "name1": "سنورس، الفيوم",
+        "name2": "Sinnuras"
+      },
+      {
+        "latitude": "29.4765",
+        "longitude": "30.9596",
+        "name1": "طامية، الفيوم",
+        "name2": "Tamiyyah"
+      },
+      {
+        "latitude": "29.3619184",
+        "longitude": "30.4447615",
+        "name1": "يوسف الصديق، الفيوم",
+        "name2": "Yousef El Seddik"
+      }
+    ]
+  },
+  {
+    "latitude": "30.3292",
+    "longitude": "31.2168",
+    "name1": "القليوبية",
+    "name2": "Al Qalyubia",
+    "cities ": [
+      {
+        "latitude": "30.2201",
+        "longitude": "31.3689",
+        "name1": "الخانكة، القليوبية",
+        "name2": "Al Khankah"
+      },
+      {
+        "latitude": "30.1616",
+        "longitude": "31.3112",
+        "name1": "الخصوص، القليوبية",
+        "name2": "Al Khosous"
+      },
+      {
+        "latitude": "30.2283",
+        "longitude": "31.4799",
+        "name1": "العبور، القليوبية",
+        "name2": "El Obour"
+      },
+      {
+        "latitude": "30.193583",
+        "longitude": "31.132064",
+        "name1": "القناطر الخيرية، القليوبية",
+        "name2": "El Qanater El Khayreya"
+      },
+      {
+        "latitude": "30.4660",
+        "longitude": "31.1848",
+        "name1": "بنها، القليوبية",
+        "name2": "Banha"
+      },
+      {
+        "latitude": "30.1367",
+        "longitude": "31.2745",
+        "name1": "بهتيم، القليوبية",
+        "name2": "Bahtim"
+      },
+      {
+        "latitude": "30.1782",
+        "longitude": "31.2941",
+        "name1": "زاويه النجار، القليوبية",
+        "name2": "Zawya El-Naggar"
+      },
+      {
+        "latitude": "30.1234",
+        "longitude": "31.2609",
+        "name1": "شبرا الخيمة، القليوبية",
+        "name2": "Shubra Al Khaymah"
+      },
+      {
+        "latitude": "30.2977",
+        "longitude": "31.2970",
+        "name1": "شبين القناطر، القليوبية",
+        "name2": "Shibin el-Qanater"
+      },
+      {
+        "latitude": "30.3534",
+        "longitude": "31.2018",
+        "name1": "طوخ، القليوبية",
+        "name2": "Toukh"
+      },
+      {
+        "latitude": "30.1798",
+        "longitude": "31.2068",
+        "name1": "قليوب، القليوبية",
+        "name2": "Qalyub"
+      },
+      {
+        "latitude": "30.2826",
+        "longitude": "31.2086",
+        "name1": "قها، القليوبية",
+        "name2": "Qaha"
+      },
+      {
+        "latitude": "30.5490",
+        "longitude": "31.2655",
+        "name1": "كفر شكر، القليوبية",
+        "name2": "Kafr Shukr"
+      }
+    ]
+  },
+  {
+    "latitude": "30.5972",
+    "longitude": "30.9876",
+    "name1": "المنوفية",
+    "name2": "Menofia",
+    "cities ": [
+      {
+        "latitude": "30.2944",
+        "longitude": "31.0335",
+        "name1": "أشمون، المنوفية",
+        "name2": "Ashmoun"
+      },
+      {
+        "latitude": "30.4301",
+        "longitude": "31.0364",
+        "name1": "الباجور، المنوفية",
+        "name2": "El-Bagour"
+      },
+      {
+        "latitude": "30.3594",
+        "longitude": "30.5327",
+        "name1": "السادات، المنوفية",
+        "name2": "El Sadat"
+      },
+      {
+        "latitude": "30.5921",
+        "longitude": "30.9008",
+        "name1": "الشهداء، المنوفية",
+        "name2": "Shuhada"
+      },
+      {
+        "latitude": "31.084785",
+        "longitude": "30.63385",
+        "name1": "بركة السبع، المنوفية",
+        "name2": "Berket El-Sabaa"
+      },
+      {
+        "latitude": "30.6792",
+        "longitude": "30.9419",
+        "name1": "تلا، المنوفية",
+        "name2": "Tala"
+      },
+      {
+        "latitude": "30.969167",
+        "longitude": "30.442222",
+        "name1": "سرس الليان، المنوفية",
+        "name2": "Sers Al-Lyan"
+      },
+      {
+        "latitude": "30.5503",
+        "longitude": "31.0106",
+        "name1": "شبين الكوم، المنوفية",
+        "name2": "Shebeen El-Kom"
+      },
+      {
+        "latitude": "30.5625",
+        "longitude": "31.1599",
+        "name1": "قويسنا، المنوفية",
+        "name2": "Quwaysna"
+      },
+      {
+        "latitude": "30.4641",
+        "longitude": "30.9358",
+        "name1": "منوف، المنوفية",
+        "name2": "Minuf"
+      },
+      {
+        "latitude": "30.5254",
+        "longitude": "31.0945",
+        "name1": "ميت العز، المنوفية",
+        "name2": "Mit El-Ezz"
+      }
+    ]
+  },
+  {
+    "latitude": "28.0871",
+    "longitude": "30.7618",
+    "name1": "المنيا",
+    "name2": "Minya",
+    "cities ": [
+      {
+        "latitude": "27.9305",
+        "longitude": "30.8385",
+        "name1": "أبو قرقاص، المنيا",
+        "name2": "Abu Qurqas"
+      },
+      {
+        "latitude": "28.7182",
+        "longitude": "30.7350",
+        "name1": "العدوة، المنيا",
+        "name2": "El Idwa"
+      },
+      {
+        "latitude": "28.0976",
+        "longitude": "30.8154",
+        "name1": "المنيا الجديدة، المنيا",
+        "name2": "New Minya"
+      },
+      {
+        "latitude": "28.4917",
+        "longitude": "30.8026",
+        "name1": "بني مزار، المنيا",
+        "name2": "Bani Mazar"
+      },
+      {
+        "latitude": "27.6403",
+        "longitude": "30.8517",
+        "name1": "دير مواس، المنيا",
+        "name2": "Dayr Mawas"
+      },
+      {
+        "latitude": "28.3140",
+        "longitude": "30.7101",
+        "name1": "سمالوط، المنيا",
+        "name2": "Samalut"
+      },
+      {
+        "latitude": "28.4173",
+        "longitude": "30.7818",
+        "name1": "مطاي، المنيا",
+        "name2": "Matay"
+      },
+      {
+        "latitude": "28.6485",
+        "longitude": "30.8375",
+        "name1": "مغاغة، المنيا",
+        "name2": "Maghagha"
+      },
+      {
+        "latitude": "27.7359",
+        "longitude": "30.8448",
+        "name1": "ملوي، المنيا",
+        "name2": "Mallawi"
       }
     ]
   },
