@@ -1440,6 +1440,270 @@
     ]
   },
   {
+    "latitude": "31.1656",
+    "longitude": "31.4913",
+    "name1": "الدقهلية",
+    "name2": "Dakahlia",
+    "cities ": [
+      {
+        "latitude": "30.9421",
+        "longitude": "31.2924",
+        "name1": "أجا، الدقهلية",
+        "name2": "Aga"
+      },
+      {
+        "latitude": "30.8414",
+        "longitude": "31.3142",
+        "name1": "أخطاب، الدقهلية",
+        "name2": "Ikhtab"
+      },
+      {
+        "latitude": "31.1768",
+        "longitude": "31.8639",
+        "name1": "الجمالية، الدقهلية",
+        "name2": "Al Jamaliyah"
+      },
+      {
+        "latitude": "30.8829",
+        "longitude": "31.4599",
+        "name1": "السنبلاوين، الدقهلية",
+        "name2": "El-Senbellawein"
+      },
+      {
+        "latitude": "31.183333",
+        "longitude": "32.033333",
+        "name1": "المطرية، الدقهلية",
+        "name2": "El Matareya"
+      },
+      {
+        "latitude": "31.1195",
+        "longitude": "31.9416",
+        "name1": "المنزلة، الدقهلية",
+        "name2": "Al Manzalah"
+      },
+      {
+        "latitude": "31.0409",
+        "longitude": "31.3785",
+        "name1": "المنصورة، الدقهلية",
+        "name2": "Mansoura"
+      },
+      {
+        "latitude": "31.2164",
+        "longitude": "31.3605",
+        "name1": "بلقاس، الدقهلية",
+        "name2": "Belkas"
+      },
+      {
+        "latitude": "31.0192",
+        "longitude": "31.6511",
+        "name1": "بني عبيد، الدقهلية",
+        "name2": "Beni Ebeid"
+      },
+      {
+        "latitude": "30.94384",
+        "longitude": "31.52926",
+        "name1": "تمى الامديد، الدقهلية",
+        "name2": "Temay El Amdeed"
+      },
+      {
+        "latitude": "31.4412",
+        "longitude": "31.5364",
+        "name1": "جمصه، الدقهلية",
+        "name2": "Gamasa"
+      },
+      {
+        "latitude": "371",
+        "longitude": "دكرنس",
+        "name1": "دكرنس، الدقهلية",
+        "name2": "dikirnis"
+      },
+      {
+        "latitude": "31.0857",
+        "longitude": "31.5888",
+        "name1": "شربين، الدقهلية",
+        "name2": "Dikirnis"
+      },
+      {
+        "latitude": "31.0549",
+        "longitude": "31.3802",
+        "name1": "طلخا، الدقهلية",
+        "name2": "talkha"
+      },
+      {
+        "latitude": "31.1714",
+        "longitude": "31.6967",
+        "name1": "منية النصر، الدقهلية",
+        "name2": "Menyet El Nasr"
+      },
+      {
+        "latitude": "31.164994",
+        "longitude": "31.797021",
+        "name1": "ميت سلسيل، الدقهلية",
+        "name2": "Mit Salsil"
+      },
+      {
+        "latitude": "30.708340",
+        "longitude": "31.261998",
+        "name1": "ميت غمر، الدقهلية",
+        "name2": "Mit Ghamr"
+      },
+      {
+        "latitude": "31.103699",
+        "longitude": "31.300904",
+        "name1": "نبروه، الدقهلية",
+        "name2": "Nabaruh"
+      }
+    ]
+  },
+  {
+    "latitude": "29.9668",
+    "longitude": "32.5498",
+    "name1": "السويس",
+    "name2": "suez",
+    "cities ": [
+      {
+        "latitude": "29.6725",
+        "longitude": "32.3370",
+        "name1": "العين السخنة، السويس",
+        "name2": "Ain Sokhna"
+      },
+      {
+        "latitude": "30.091361",
+        "longitude": "32.644646",
+        "name1": "حى الجناين، السويس",
+        "name2": "Al Ganayen"
+      },
+      {
+        "latitude": "29.984376",
+        "longitude": "32.537502",
+        "name1": "حي الأربعين، السويس",
+        "name2": "Arbaeen"
+      },
+      {
+        "latitude": "29.447257",
+        "longitude": "32.400830",
+        "name1": "حي عتاقة، السويس",
+        "name2": "Attaka"
+      },
+      {
+        "latitude": "30.119330",
+        "longitude": "32.147295",
+        "name1": "فيصل، السويس",
+        "name2": "Faisal"
+      }
+    ]
+  },
+  {
+    "latitude": "30.7327",
+    "longitude": "31.7195",
+    "name1": "الشرقية",
+    "name2": "Ash Sharqia",
+    "cities ": [
+      {
+        "latitude": "30.5442",
+        "longitude": "31.6799",
+        "name1": "أبو حماد، الشرقية",
+        "name2": "Abou Hammad"
+      },
+      {
+        "latitude": "30.7209",
+        "longitude": "31.6716",
+        "name1": "أبو كبير، الشرقية",
+        "name2": "Abu Kibir"
+      },
+      {
+        "latitude": "30.9319",
+        "longitude": "31.6983",
+        "name1": "أولاد صقر، الشرقية",
+        "name2": "Awlad Saqr"
+      },
+      {
+        "latitude": "30.7200",
+        "longitude": "31.5650",
+        "name1": "الإبراهيمية، الشرقية",
+        "name2": "El Ibrahimiya"
+      },
+      {
+        "latitude": "30.8611",
+        "longitude": "31.9198",
+        "name1": "الحسينية، الشرقية",
+        "name2": "El Husseiniya"
+      },
+      {
+        "latitude": "30.5765",
+        "longitude": "31.5041",
+        "name1": "الزقازيق، الشرقية",
+        "name2": "Zagazig"
+      },
+      {
+        "latitude": "30.6361",
+        "longitude": "31.9416",
+        "name1": "الصالحية الجديدة، الشرقية",
+        "name2": "New Salhia"
+      },
+      {
+        "latitude": "40",
+        "longitude": "العاشر من رمضان",
+        "name1": "العاشر من رمضان، الشرقية",
+        "name2": "10th-of-ramadan"
+      },
+      {
+        "latitude": "31",
+        "longitude": "القرين",
+        "name1": "القرين، الشرقية",
+        "name2": "qareen"
+      },
+      {
+        "latitude": "30",
+        "longitude": "القنايات",
+        "name1": "القنايات، الشرقية",
+        "name2": "alqnayat"
+      },
+      {
+        "latitude": "35",
+        "longitude": "بلبيس",
+        "name1": "بلبيس، الشرقية",
+        "name2": "bilbeis"
+      },
+      {
+        "latitude": "36",
+        "longitude": "ديرب نجم",
+        "name1": "ديرب نجم، الشرقية",
+        "name2": "deyerb-negm"
+      },
+      {
+        "latitude": "37",
+        "longitude": "فاقوس",
+        "name1": "فاقوس، الشرقية",
+        "name2": "faqous"
+      },
+      {
+        "latitude": "39",
+        "longitude": "كفر صقر",
+        "name1": "كفر صقر، الشرقية",
+        "name2": "kafr-saqr"
+      },
+      {
+        "latitude": "41",
+        "longitude": "مشتول السوق",
+        "name1": "مشتول السوق، الشرقية",
+        "name2": "mashtool-al-souk"
+      },
+      {
+        "latitude": "42",
+        "longitude": "منيا القمح",
+        "name1": "منيا القمح، الشرقية",
+        "name2": "minya-al-qamh"
+      },
+      {
+        "latitude": "38",
+        "longitude": "ههيا",
+        "name1": "ههيا، الشرقية",
+        "name2": "hihya"
+      }
+    ]
+  },
+  {
     "latitude": "25.6872",
     "longitude": "32.6396",
     "name1": "الأقصر",
