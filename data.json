@@ -1,2558 +1,2558 @@
-[  
-  { 
-    "Latitude": 30.0444,
-    "Longitude": 31.2357,
-    "name1": "القاهرة",
-    "name2": "Cairo",
-    "cities": [
-      {
-        "Latitude": 30.1071,
-        "Longitude": 31.2912,
-        "name1": "الأميرية، القاهرة",
-        "name2": "Amiriyyah"
-      },
-      {
-        "Latitude": 29.9793,
-        "Longitude": 31.3027,
-        "name1": "البساتين، القاهرة",
-        "name2": "Basateen"
-      },
-      {
-        "Latitude": 29.7756,
-        "Longitude": 31.3256,
-        "name1": "التبين، القاهرة",
-        "name2": "Tebeen"
-      },
-      {
-        "Latitude": 29.9801,
-        "Longitude": 31.4328,
-        "name1": "التجمع الثالث، القاهرة",
-        "name2": "The 3rd District"
-      },
-      {
-        "Latitude": 30.05274,
-        "Longitude": 31.26376,
-        "name1": "الجمالية، القاهرة",
-        "name2": "Gamaleya"
-      },
-      {
-        "Latitude": 31.1967431589,	
-        "Longitude": 29.9269059458,
-        "name1": "الحلمية، القاهرة",
-        "name2": "Helmeya"
-      },
-      {
-        "Latitude": 30.0812558,
-        "Longitude": 31.2511902,
-        "name1": "الحلمية الجديدة، القاهرة",
-        "name2": "Alhelmeya Algadeda"
-      },
-      {
-        "Latitude": 25.1972,
-        "Longitude": 55.2744,
-        "name1": "الخليفة، القاهرة",
-        "name2": "Khalifa"
-      },
-      {
-        "Latitude": 30.0560,
-        "Longitude": 31.2719,
-        "name1": "الدراسة، القاهرة",
-        "name2": "Darrasa"
-      },
-      {
-        "Latitude": 30.0400,
-        "Longitude": 31.2598,
-        "name1": "الدرب الأحمر، القاهرة",
-        "name2": "Darb Al-ahmar"
-      },
-      {
-        "Latitude": 30.0945910011, 
-        "Longitude": 31.2707329126,
-        "name1": "الزاوية الحمراء، القاهرة",
-        "name2": "Alzawya Al-hamra"
-      },
-      {
-        "Latitude": 30.0609,
-        "Longitude": 31.2197,
-        "name1": "الزمالك، القاهرة",
-        "name2": "Zamalek"
-      },
-      {
-        "Latitude": 30.1074,
-        "Longitude": 31.3157,
-        "name1": "الزيتون، القاهرة",
-        "name2": "Zaytoun"
-      },
-      {
-        "Latitude": 30.082779,
-        "Longitude": 31.252253,
-        "name1": "الساحل، القاهرة",
-        "name2": "Al-sahel"
-      },
-      {
-        "Latitude": 33.4430,
-        "Longitude": 36.3336,
-        "name1": "السيدة زينب، القاهرة",
-        "name2": "Al-sayeda Zeinab"
-      },
-      {
-        "Latitude": 30.0838813154,	
-        "Longitude": 31.2577555846,
-        "name1": "الشرابية، القاهرة",
-        "name2": "Al-sharabeya"
-      },
-      {
-        "Latitude": 30.2927,
-        "Longitude": 31.7423,
-        "name1": "العاشر من رمضان، القاهرة",
-        "name2": "10th Ramadan City"
-      },
-      {
-        "Latitude": 30.0116,
-        "Longitude": 31.6979,
-        "name1": "العاصمة الإدارية الجديدة، القاهرة",
-        "name2": "New Capital City"
-      },
-      {
-        "Latitude": 30.5349,
-        "Longitude": 31.7171,
-        "name1": "العباسية، القاهرة",
-        "name2": "Abasiya"
-      },
-      {
-        "Latitude": 30.2283,
-        "Longitude": 31.4799,
-        "name1": "العبور، القاهرة",
-        "name2": "Obour City"
-      },
-      {
-        "Latitude": 30.00419,
-        "Longitude": 31.43849,
-        "name1": "العتبة، القاهرة",
-        "name2": "Ataba"
-      },
-      {
-        "Latitude": 30.0646,
-        "Longitude": 31.4479,
-        "name1": "القاهرة الجديدة -  التجمع الأول، القاهرة",
-        "name2": "First Settlement"
-      },
-      {
-        "Latitude": 30.1178,
-        "Longitude": 31.6171,
-        "name1": "القاهرة الجديدة - الأندلس، القاهرة",
-        "name2": "New Cairo Andalous"
-      },
-      {
-        "Latitude": 30.0085,
-        "Longitude": 31.4285,
-        "name1": "القاهرة الجديدة - التجمع الخامس، القاهرة",
-        "name2": "Fifth Settlement"
-      },
-      {
-        "Latitude": 30.005493,
-        "Longitude": 31.477898,
-        "name1": "القاهرة الجديدة - لوتس، القاهرة",
-        "name2": "New Cairo Lotus"
-      },
-      {
-        "Latitude": 30.0660,
-        "Longitude": 31.4856,
-        "name1": "القاهرة الجديدة - مدينة الرحاب، القاهرة",
-        "name2": "Rehab City"
-      },
-      {
-        "Latitude": 29.9916,
-        "Longitude": 31.4071,
-        "name1": "القطامية، القاهرة",
-        "name2": "Katameya"
-      },
-      {
-        "Latitude": 30.0833,
-        "Longitude": 31.3500,
-        "name1": "الماظة، القاهرة",
-        "name2": "Almazah"
-      },
-      {
-        "Latitude": 30.1521,
-        "Longitude": 31.3357,
-        "name1": "المرج، القاهرة",
-        "name2": "Al-marj"
-      },
-      {
-        "Latitude": 30.1254,
-        "Longitude": 31.3181,
-        "name1": "المطرية، القاهرة",
-        "name2": "Matareya"
-      },
-      {
-        "Latitude": 29.9602,
-        "Longitude": 31.2569,
-        "name1": "المعادي، القاهرة",
-        "name2": "Maadi"
-      },
-      {
-        "Latitude": 31.6583,
-        "Longitude": 35.1900,
-        "name1": "المعصره، القاهرة",
-        "name2": "Ma-sara"
-      },
-      {
-        "Latitude": 30.0217,
-        "Longitude": 31.3033,
-        "name1": "المقطم، القاهرة",
-        "name2": "Al-Mokattam"
-      },
-      {
-        "Latitude": 30.0313374167,
-        "Longitude": 31.2344195176,
-        "name1": "المنيرة الجديدة، القاهرة",
-        "name2": "Al-mounira Al-gadeda"
-      },
-      {
-        "Latitude": 30.0214,
-        "Longitude": 31.2269,
-        "name1": "المنيل، القاهرة",
-        "name2": "Al-manial"
-      },
-      {
-        "Latitude": 30.0488477,
-        "Longitude": 31.2561819,
-        "name1": "الموسكي، القاهرة",
-        "name2": "Moski"
-      },
-      {
-        "Latitude": 30.043917,
-        "Longitude": 31.010492,
-        "name1": "النزهة، القاهرة",
-        "name2": "Nozha Cairo"
-      },
-      {
-        "Latitude": 30.0704,
-        "Longitude": 31.2827,
-        "name1": "الوايلي، القاهرة",
-        "name2": "Waili"
-      },
-      {
-        "Latitude": 30.0541,
-        "Longitude": 31.2559,
-        "name1": "باب الشعرية، القاهرة",
-        "name2": "Bab Al-shereia"
-      },
-      {
-        "Latitude": 30.0631,
-        "Longitude": 31.2312,
-        "name1": "بولاق، القاهرة",
-        "name2": "Boulaq"
-      },
-      {
-        "Latitude": 30.0607,
-        "Longitude": 31.5514,
-        "name1": "بيت الوطن، القاهرة",
-        "name2": "Bait El-watan"
-      },
-      {
-        "Latitude": 30.0381,
-        "Longitude": 31.2326,
-        "name1": "جاردن سيتي، القاهرة",
-        "name2": "Garden City"
-      },
-      {
-        "Latitude": 30.0858,
-        "Longitude": 31.2784,
-        "name1": "حدائق القبة، القاهرة",
-        "name2": "Hadayek Al-kobba"
-      },
-      {
-        "Latitude": 29.8971,
-        "Longitude": 31.3040,
-        "name1": "حدائق حلوان، القاهرة",
-        "name2": "Hadayek Helwan"
-      },
-      {
-        "Latitude": 29.8403,
-        "Longitude": 31.2982,
-        "name1": "حلوان، القاهرة",
-        "name2": "Helwan"
-      },
-      {
-        "Latitude": 29.9906171,
-        "Longitude": 31.2316763,
-        "name1": "دار السلام، القاهرة",
-        "name2": "Dar Al-salaam"
-      },
-      {
-        "Latitude": 30.058166434,
-        "Longitude": 31.2416657,
-        "name1": "رمسيس و امتداد رمسيس، القاهرة",
-        "name2": "Ramses Ramses Extension"
-      },
-      {
-        "Latitude": 30.0772,
-       "Longitude": 31.2369,
-        "name1": "روض الفرج، القاهرة",
-        "name2": "Rod Al-farag"
-      },
-      {
-        "Latitude": 29.9632427,
-       "Longitude": 31.3177059,
-        "name1": "زهراء المعادى، القاهرة",
-        "name2": "Zahraa Al-maadi"
-      },
-      {
-        "Latitude": 30.1234,
-       "Longitude": 31.2609,
-        "name1": "شبرا، القاهرة",
-        "name2": "Shubra"
-      },
-      {
-        "Latitude": 30.1033,
-       "Longitude": 30.1033,
-        "name1": "شيراتون، القاهرة",
-        "name2": "Sheraton"
-      },
-      {
-        "Latitude": 29.9384,
-       "Longitude": 31.3198,
-        "name1": "طرة، القاهرة",
-        "name2": "Tura"
-      },
-      {
-        "Latitude": 30.1451,
-       "Longitude": 31.3187,
-        "name1": "عزبة النخل، القاهرة",
-        "name2": "Izbat An-nakhl"
-      },
-      {
-        "Latitude": 30.2071,
-       "Longitude": 31.4475,
-        "name1": "عين شمس، القاهرة",
-        "name2": "Ain Shams"
-      },
-      {
-        "Latitude": 30.0438,
-       "Longitude": 31.2296,
-        "name1": "قصر النيل، القاهرة",
-        "name2": "Qasr Al-nil"
-      },
-      {
-        "Latitude": 29.8579,
-       "Longitude": 31.3885,
-        "name1": "مدينة 15 مايو، القاهرة",
-        "name2": "15 May City"
-      },
-      {
-        "Latitude": 30.1718,
-       "Longitude": 31.4065,
-        "name1": "مدينة السلام، القاهرة",
-        "name2": "Salam City"
-      },
-      {
-        "Latitude": 30.1419,
-       "Longitude": 31.6285,
-        "name1": "مدينة الشروق، القاهرة",
-        "name2": "Shorouk City"
-      },
-      {
-        "Latitude": 30.1653,
-       "Longitude": 31.5513,
-        "name1": "مدينة المستقبل، القاهرة",
-        "name2": "Future City"
-      },
-      {
-        "Latitude": 30.1422,
-       "Longitude": 31.7414,
-        "name1": "مدينة بدر، القاهرة",
-        "name2": "Badr-City"
-      },
-      {
-        "Latitude": 30.0511,
-       "Longitude": 31.3656,
-        "name1": "مدينة نصر، القاهرة",
-        "name2": "Nasr City"
-      },
-      {
-        "Latitude": 30.0956,
-       "Longitude": 31.6349,
-        "name1": "مدينتي، القاهرة",
-        "name2": "Madinaty"
-      },
-      {
-        "Latitude": 30.1412,
-       "Longitude": 31.2869,
-        "name1": "مسطرد، القاهرة",
-        "name2": "Musturad"
-      },
-      {
-        "Latitude": 30.1123,
-       "Longitude": 31.3439,
-        "name1": "مصر الجديدة، القاهرة",
-        "name2": "Heliopolis"
-      },
-      {
-        "Latitude": 30.0011,
-       "Longitude": 31.2316,
-        "name1": "مصر القديمة، القاهرة",
-        "name2": "Masr Al-kadema"
-      },
-      {
-        "Latitude": 30.1659,
-       "Longitude": 31.6890,
-        "name1": "هليوبوليس الجديدة، القاهرة",
-        "name2": "New Heliopolis"
-      },
-      {
-        "Latitude": 30.0467,
-       "Longitude": 31.2347,
-        "name1": "وسط القاهرة، القاهرة",
-        "name2": "Downtown Cairo"
-      }
-    ]
-  },  
-  {
-    "Latitude": 24.0889,
-    "Longitude": 32.8998,
-    "name1": "أسوان",
-    "name2": "Aswan",
-    "cities": [
-      {
-        "Latitude": 24.1319,
-        "Longitude": 32.8902,
-        "name1": "ابو الريش، أسوان",
-        "name2": "Abou Al-reish"
-      },
-      {
-        "Latitude": 22.3460,
-        "Longitude": 31.6156,
-        "name1": "ابو سمبل، أسوان",
-        "name2": "Abou Simbel"
-      },
-      {
-        "Latitude": 24.9792,
-        "Longitude": 32.8758,
-        "name1": "ادفو، أسوان",
-        "name2": "Edfu"
-      },
-      {
-        "Latitude": 25.1380318853,
-        "Longitude": 32.722533904,
-        "name1": "البصيلية، أسوان",
-        "name2": "Basiliah"
-      },
-      {
-        "Latitude": 24.907478,
-        "Longitude": 32.885047,
-        "name1": "الرديسية، أسوان",
-        "name2": "Rdesiah"
-      },
-      {
-        "Latitude": 25.1941,
-        "Longitude": 32.6798,
-        "name1": "السباعية، أسوان",
-        "name2": "Sebaeiah"
-      },
-      {
-        "Latitude": 24.4079,
-        "Longitude": 32.9229,
-        "name1": "دراو، أسوان",
-        "name2": "Daraw"
-      },
-      {
-        "Latitude": 23.9643605,
-        "Longitude": 32.8355147296,
-        "name1": "صحارى، أسوان",
-        "name2": "Sahara"
-      },
-      {
-        "Latitude": 3523.96095,
-        "Longitude": 32.8674,
-        "name1": "كلابشة، أسوان",
-        "name2": "Kalabsha"
-      },
-      {
-        "Latitude": 24.4698,
-        "Longitude": 32.9381,
-        "name1": "كوم امبو، أسوان",
-        "name2": "Kom Ombo"
-      },
-      {
-        "Latitude": 24.545056,
-        "Longitude": 33.046379,
-        "name1": "نصر النوبة، أسوان",
-        "name2": "Nasr Al-noba"
-      }
-    ]
-  },
-  {
-    "Latitude": 27.1783,
-    "Longitude": 31.1859,
-    "name1": "أسيوط",
-    "name2": "Asyut",
-    "cities": [
-      {
-        "Latitude": 27.2674,
-        "Longitude": 31.1519,
-        "name1": "أبنوب، أسيوط",
-        "name2": "Abnub"
-      },
-      {
-        "Latitude": 27.04595,
-        "Longitude": 31.32115,
-        "name1": "أبو تيج، أسيوط",
-        "name2": "Abu Teeg"
-      },
-      {
-        "Latitude": 27.2811003,
-        "Longitude": 31.293368,
-        "name1": "أسيوط الجديدة، أسيوط",
-        "name2": "New Assiut"
-      },
-      {
-        "Latitude": 26.9887,
-        "Longitude": 31.3942,
-        "name1": "البدارى، أسيوط",
-        "name2": "Badari"
-      },
-      {
-        "Latitude": 26.8735,
-        "Longitude": 31.3260,
-        "name1": "الفتح، أسيوط",
-        "name2": "Fateh"
-      },
-      {
-        "Latitude": 27.4393,
-        "Longitude": 30.8171,
-        "name1": "القوصيه، أسيوط",
-        "name2": "Qusiya"
-      },
-      {
-        "Latitude": 27.5541,
-        "Longitude": 30.8084,
-        "name1": "ديروط، أسيوط",
-        "name2": "Dairut"
-      },
-      {
-        "Latitude": 27.0451,
-        "Longitude": 31.3370,
-        "name1": "ساحل سليم، أسيوط",
-        "name2": "Sahel-selim"
-      },
-      {
-        "Latitude": 26.9635,
-        "Longitude": 31.3790,
-        "name1": "صدفا، أسيوط",
-        "name2": "Sedfa"
-      },
-      {
-        "Latitude": 27.3114,
-        "Longitude": 30.9715,
-        "name1": "منفلوط، أسيوط",
-        "name2": "Manfalut"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.2001,
-    "Longitude": 29.9187,
-    "name1": "الإسكندرية",
-    "name2": "Alexandria",
-    "cities": [
-      {
-        "Latitude": 31.3114,
-        "Longitude": 30.0603,
-        "name1": "أبو قير، الإسكندرية",
-        "name2": "Abu Qir"
-      },
-      {
-        "Latitude": 31.2051,
-        "Longitude": 29.9054,
-        "name1": "الأزاريطة، الإسكندرية",
-        "name2": "El Azarita"
-      },
-      {
-        "Latitude": 31.2116,
-        "Longitude": 29.9261,
-        "name1": "الإبراهيمية، الإسكندرية",
-        "name2": "Al Ibrahimiyyah"
-      },
-      {
-        "Latitude": 31.2529,
-        "Longitude": 29.9773,
-        "name1": "الجمرك، الإسكندرية",
-        "name2": "El Gomrok"
-      },
-      {
-        "Latitude": 31.1975,
-        "Longitude": 29.9286,
-        "name1": "الحضرة، الإسكندرية",
-        "name2": "Al Hadrah"
-      },
-      {
-        "Latitude": 31.1230,
-        "Longitude": 29.8179,
-        "name1": "الدخيلة، الإسكندرية",
-        "name2": "Ad Dakhilah"
-      },
-      {
-        "Latitude": 31.2388,
-        "Longitude": 29.9926,
-        "name1": "السيوف، الإسكندرية",
-        "name2": "El Soyof"
-      },
-      {
-        "Latitude": 30.63183,
-        "Longitude": 31.93902,
-        "name1": "الصالحية، الإسكندرية",
-        "name2": "Salehia"
-      },
-      {
-        "Latitude": 31.22483425,
-        "Longitude": 29.967981782361,
-        "name1": "الظاهرية، الإسكندرية",
-        "name2": "Al Zaherya"
-      },
-      {
-        "Latitude": 31.1042,
-        "Longitude": 29.7663,
-        "name1": "العامرية، الإسكندرية",
-        "name2": "Amreya"
-      },
-      {
-        "Latitude": 31.2050,
-        "Longitude": 29.9064,
-        "name1": "العصافرة، الإسكندرية",
-        "name2": "Asafra"
-      },
-      {
-        "Latitude": 31.1980,
-        "Longitude": 29.9018,
-        "name1": "العطارين، الإسكندرية",
-        "name2": "Al Attarin"
-      },
-      {
-        "Latitude": 31.2186,
-        "Longitude": 29.9939,
-        "name1": "العوايد، الإسكندرية",
-        "name2": "awayed"
-      },
-      {
-        "Latitude": 31.2007,
-        "Longitude": 29.9304,
-        "name1": "القباري، الإسكندرية",
-        "name2": "Kabbary"
-      },
-      {
-        "Latitude": 31.1819,
-        "Longitude": 29.9059,
-        "name1": "اللبان، الإسكندرية",
-        "name2": "Labban"
-      },
-      {
-        "Latitude": 31.2884,
-        "Longitude": 30.0306,
-        "name1": "المعمورة، الإسكندرية",
-        "name2": "Al Mamurah"
-      },
-      {
-        "Latitude": 31.1447,
-        "Longitude": 29.8472,
-        "name1": "المكس، الإسكندرية",
-        "name2": "Al Max"
-      },
-      {
-        "Latitude": 31.2885,
-        "Longitude": 30.0160,
-        "name1": "المنتزه، الإسكندرية",
-        "name2": "Montaza"
-      },
-      {
-        "Latitude": 31.2748,
-        "Longitude": 30.0062,
-        "name1": "المندرة، الإسكندرية",
-        "name2": "El-Mandara"
-      },
-      {
-        "Latitude": 31.1975,
-        "Longitude": 29.8888,
-        "name1": "المنشية، الإسكندرية",
-        "name2": "Mansheya"
-      },
-      {
-        "Latitude": 31.13699,
-        "Longitude": 29.82318,
-        "name1": "النخيل، الإسكندرية",
-        "name2": "El-Nakheel"
-      },
-      {
-        "Latitude": 31.1986,
-        "Longitude": 31.1986,
-        "name1": "النزهة، الإسكندرية",
-        "name2": "Nozha"
-      },
-      {
-        "Latitude": 31.1665,
-        "Longitude": 29.8688,
-        "name1": "الورديان، الإسكندرية",
-        "name2": "Wardian"
-      },
-      {
-        "Latitude": 31.2384,
-        "Longitude": 29.9670,
-        "name1": "باكوس، الإسكندرية",
-        "name2": "Bacos"
-      },
-      {
-        "Latitude": 31.2049074,
-        "Longitude": 29.8748668,
-        "name1": "بحرى والأنفوشى، الإسكندرية",
-        "name2": "Al-Anfoushy"
-      },
-      {
-        "Latitude": 30.9150,
-        "Longitude": 29.5456,
-        "name1": "برج العرب، الإسكندرية",
-        "name2": "Borg Al Arab"
-      },
-      {
-        "Latitude": 31.2343,
-        "Longitude": 29.9601,
-        "name1": "بولكلي، الإسكندرية",
-        "name2": "Bolkly"
-      },
-      {
-        "Latitude": 31.2396,
-        "Longitude": 29.9603,
-        "name1": "جليم، الإسكندرية",
-        "name2": "Glim"
-      },
-      {
-        "Latitude": 31.2428,
-        "Longitude": 29.9694,
-        "name1": "جناكليس، الإسكندرية",
-        "name2": "Gianaclis"
-      },
-      {
-        "Latitude": 31.1992,
-        "Longitude": 29.8686,
-        "name1": "رأس التين، الإسكندرية",
-        "name2": "Ras el-Tin"
-      },
-      {
-        "Latitude": 31.2240,
-        "Longitude": 29.9396,
-        "name1": "رشدي، الإسكندرية",
-        "name2": "Roshdy"
-      },
-      {
-        "Latitude": 31.2381,
-        "Longitude": 29.9679,
-        "name1": "زيزينيا، الإسكندرية",
-        "name2": "Zezenia"
-      },
-      {
-        "Latitude": 31.235665,
-        "Longitude": 29.957221,
-        "name1": "سابا باشا، الإسكندرية",
-        "name2": "Saba Pasha"
-      },
-      {
-        "Latitude": 31.2470,
-        "Longitude": 29.9697,
-        "name1": "سان ستيفانو، الإسكندرية",
-        "name2": "San Stefano"
-      },
-      {
-        "Latitude": 31.2216,
-        "Longitude": 29.9343,
-        "name1": "سبورتنج، الإسكندرية",
-        "name2": "Sporting"
-      },
-      {
-        "Latitude": 31.23435,
-        "Longitude": 29.94974,
-        "name1": "ستانلي، الإسكندرية",
-        "name2": "Stanley"
-      },
-      {
-        "Latitude": 31.2155,
-        "Longitude": 29.9420,
-        "name1": "سموحة، الإسكندرية",
-        "name2": "Smouha"
-      },
-      {
-        "Latitude": 31.252066,
-        "Longitude": 29.994464,
-        "name1": "سيدي بشر، الإسكندرية",
-        "name2": "Sidi Bishr"
-      },
-      {
-        "Latitude": 31.2213,
-        "Longitude": 29.9379,
-        "name1": "سيدي جابر، الإسكندرية",
-        "name2": "Sidi Gabir"
-      },
-      {
-        "Latitude": 31.2088,
-        "Longitude": 29.9129,
-        "name1": "شاطبي، الإسكندرية",
-        "name2": "Shatby"
-      },
-      {
-        "Latitude": 31.240325,
-        "Longitude": 29.972405,
-        "name1": "شدس، الإسكندرية",
-        "name2": "Shods"
-      },
-      {
-        "Latitude": 31.2725234823,
-        "Longitude": 30.0085400417,
-        "name1": "طوسون، الإسكندرية",
-        "name2": "Tosson"
-      },
-      {
-        "Latitude": 31.0988,
-        "Longitude": 29.7667,
-        "name1": "عجمي، الإسكندرية",
-        "name2": "El-Agamy"
-      },
-      {
-        "Latitude": 31.2290,
-        "Longitude": 29.9609,
-        "name1": "فلمنج، الإسكندرية",
-        "name2": "Flemig"
-      },
-      {
-        "Latitude": 31.248617,
-        "Longitude": 29.969745,
-        "name1": "فيكتوريا، الإسكندرية",
-        "name2": "Victoria"
-      },
-      {
-        "Latitude": 31.220289,
-        "Longitude": 29.942107,
-        "name1": "كامب شيزار، الإسكندرية",
-        "name2": "Camp Shezar"
-      },
-      {
-        "Latitude": 31.177266,
-        "Longitude": 29.896874,
-        "name1": "كرموز، الإسكندرية",
-        "name2": "Karmoz"
-      },
-      {
-        "Latitude": 31.224876,
-        "Longitude": 29.954585,
-        "name1": "كفر عبدو، الإسكندرية",
-        "name2": "afr Abdu"
-      },
-      {
-        "Latitude": 31.2244,
-        "Longitude": 29.9355,
-        "name1": "كليوباترا، الإسكندرية",
-        "name2": "Cleopatra"
-      },
-      {
-        "Latitude": 31.196687,
-        "Longitude": 29.90564,
-        "name1": "كوم الدكة، الإسكندرية",
-        "name2": "Kom El Deka"
-      },
-      {
-        "Latitude": 31.0330597,
-        "Longitude": 30.4673339,
-        "name1": "لوران، الإسكندرية",
-        "name2": "Louran"
-      },
-      {
-        "Latitude": 31.1840,
-        "Longitude": 29.9365,
-        "name1": "محرّم بيك، الإسكندرية",
-        "name2": "Moharam Bek"
-      },
-      {
-        "Latitude": 31.201459,
-        "Longitude": 29.901005,
-        "name1": "محطة الرمل، الإسكندرية",
-        "name2": "Mahatet El Raml"
-      },
-      {
-        "Latitude": 31.2681,
-        "Longitude": 29.9898,
-        "name1": "ميامي، الإسكندرية",
-        "name2": "Miami"
-      },
-      {
-        "Latitude": 31.1880,
-        "Longitude": 29.8862,
-        "name1": "مينا البصل، الإسكندرية",
-        "name2": "Mina Al Basal"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.5965,
-    "Longitude": 32.2715,
-    "name1": "الإسماعيلية",
-    "name2": "Ismailia",
-    "cities": [
-      {
-        "Latitude": 30.496352,
-        "Longitude": 32.166182,
-        "name1": "أبوصوير، الإسماعيلية",
-        "name2": "Abu Swear"
-      },
-      {
-        "Latitude": 30.4644,
-        "Longitude": 31.9473,
-        "name1": "التل الكبير، الإسماعيلية",
-        "name2": "Tell El Kebir"
-      },
-      {
-        "Latitude": 30.569398,
-        "Longitude": 31.936177,
-        "name1": "القصاصين، الإسماعيلية",
-        "name2": "Qassaseen"
-      },
-      {
-        "Latitude": 30.861265,
-        "Longitude": 32.343197,
-        "name1": "القنطرة شرق، الإسماعيلية",
-        "name2": "Kantara East"
-      },
-      {
-        "Latitude": 30.859202,
-        "Longitude": 32.338991,
-        "name1": "القنطرة غرب، الإسماعيلية",
-        "name2": "Kantara West"
-      },
-      {
-        "Latitude": 30.295447,
-        "Longitude": 32.314695,
-        "name1": "فايد، الإسماعيلية",
-        "name2": "Fayed"
-      }
-    ]
-  },
-  {
-    "Latitude": 20.2802,
-    "Longitude": 38.5126,
-    "name1": "البحر الأحمر",
-    "name2": "Red Sea",
-    "cities": [
-      {
-        "Latitude": 27.2579,
-        "Longitude": 33.8116,
-        "name1": "الغردقة - أخرى، البحر الأحمر",
-        "name2": "Hurghada"
-      },
-      {
-        "Latitude": 27.4025,
-        "Longitude": 33.6511,
-        "name1": "الغردقة - الجونة، البحر الأحمر",
-        "name2": "El Gouna"
-      },
-      {
-        "Latitude": 26.1014,
-        "Longitude": 34.2803,
-        "name1": "القصير، البحر الأحمر",
-        "name2": "Quseer"
-      },
-      {
-        "Latitude": 28.3627,
-        "Longitude": 33.0795,
-        "name1": "رأس غارب، البحر الأحمر",
-        "name2": "Ras Ghareb"
-      },
-      {
-        "Latitude": 26.7500,
-        "Longitude": 33.9360,
-        "name1": "سفاجا، البحر الأحمر",
-        "name2": "Safaga"
-      },
-      {
-        "Latitude": 27.0370,
-        "Longitude": 33.8523,
-        "name1": "سهل حشيش، البحر الأحمر",
-        "name2": "Sahl Hasheesh"
-      },
-      {
-        "Latitude": 23.1088,
-        "Longitude": 35.5626,
-        "name1": "شلاتين، البحر الأحمر",
-        "name2": "Shalateen"
-      },
-      {
-        "Latitude": 25.0676,
-        "Longitude": 34.8790,
-        "name1": "مرسى علم، البحر الأحمر",
-        "name2": "Marsa Alam"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.8481,
-    "Longitude": 30.3436,
-    "name1": "البحيرة",
-    "name2": "El Beheira",
-    "cities": [
-      {
-        "Latitude": 30.9118,
-        "Longitude": 30.1719,
-        "name1": "أبو المطامير، البحيرة",
-        "name2": "Abu Al Matamir"
-      },
-      {
-        "Latitude": 31.1008,
-        "Longitude": 30.3159,
-        "name1": "أبو حمص، البحيرة",
-        "name2": "Abu Hummus"
-      },
-      {
-        "Latitude": 31.3040,
-        "Longitude": 30.3065,
-        "name1": "إدكو، البحيرة",
-        "name2": "Idku"
-      },
-      {
-        "Latitude": 30.8272,
-        "Longitude": 30.8272,
-        "name1": "الدلنجات، البحيرة",
-        "name2": "Ad Dilinjat"
-      },
-      {
-        "Latitude": 31.0952,
-        "Longitude": 30.6315,
-        "name1": "الرحمانية، البحيرة",
-        "name2": "AR Rahmaneyah"
-      },
-      {
-        "Latitude": 31.1826,
-        "Longitude": 30.5250,
-        "name1": "المحمودية، البحيرة",
-        "name2": "El-Mahmoudeya"
-      },
-      {
-        "Latitude": 30.7150,
-        "Longitude": 30.7454,
-        "name1": "النوبارية الجديدة، البحيرة",
-        "name2": "Nubaria Canal"
-      },
-      {
-        "Latitude": 30.8860,
-        "Longitude": 30.8860,
-        "name1": "ايتاي البارود، البحيرة",
-        "name2": "Itay Al Barud"
-      },
-      {
-        "Latitude": 30.5826,
-        "Longitude": 30.5826,
-        "name1": "بدر، البحيرة",
-        "name2": "Badr"
-      },
-      {
-        "Latitude": 30.9138,
-        "Longitude": 30.2947,
-        "name1": "حوش عيسى، البحيرة",
-        "name2": "Housh Eissa"
-      },
-      {
-        "Latitude": 31.0425,
-        "Longitude": 30.4728,
-        "name1": "دمنهور، البحيرة",
-        "name2": "Damanhour"
-      },
-      {
-        "Latitude": 31.3940,
-        "Longitude": 31.3940,
-        "name1": "رشيد، البحيرة",
-        "name2": "Rasheed"
-      },
-      {
-        "Latitude": 31.0283,
-        "Longitude": 30.7130,
-        "name1": "شبراخيت، البحيرة",
-        "name2": "Shubrakhit"
-      },
-      {
-        "Latitude": 31.1340,
-        "Longitude": 30.1336,
-        "name1": "كفر الدوار، البحيرة",
-        "name2": "Kafr El-Dawar"
-      },
-      {
-        "Latitude": 30.7634,
-        "Longitude": 30.6968,
-        "name1": "كوم حمادة، البحيرة",
-        "name2": "Kawm Hamadah"
-      },
-      {
-        "Latitude": 30.4698,
-        "Longitude": 30.2743,
-        "name1": "وادي النطرون، البحيرة",
-        "name2": "Natrn Valley"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.3543,
-    "Longitude": 27.2373,
-    "name1": "مرسي مطروح",
-    "name2": "Marsa Matruh",
-    "cities": [
-      {
-        "Latitude": 30.8421,
-        "Longitude": 29.3941,
-        "name1": "الحمام، مطروح",
-        "name2": "El-Hamam"
-      },
-      {
-        "Latitude": 31.333333,
-        "Longitude": 27.216667,
-        "name1": "الساحل الشمالي، مطروح",
-        "name2": "North-Coast"
-      },
-      {
-        "Latitude": 31.5750,
-        "Longitude": 25.1593,
-        "name1": "السلوم، مطروح",
-        "name2": "El Salloum"
-      },
-      {
-        "Latitude": 31.0275,
-        "Longitude": 28.4429,
-        "name1": "الضبعة، مطروح",
-        "name2": "El Dabaa"
-      },
-      {
-        "Latitude": 30.8225,
-        "Longitude": 28.9543,
-        "name1": "العلمين، مطروح",
-        "name2": "El-Alamein"
-      },
-      {
-        "Latitude": 31.4060,
-        "Longitude": 26.5862,
-        "name1": "النجيلة، مطروح",
-        "name2": "El Negaila"
-      },
-      {
-        "Latitude": 31.6104,
-        "Longitude": 25.9249,
-        "name1": "براني، مطروح",
-        "name2": "Sidi Barrani"
-      },
-      {
-        "Latitude": 29.2032,
-        "Longitude": 25.5195,
-        "name1": "سيوة، مطروح",
-        "name2": "Siwa Oasis"
-      },
-      {
-        "Latitude": 30.8260,
-        "Longitude": 28.9936,
-        "name1": "مارينا العلمين، مطروح",
-        "name2": "Marina El-Alamein"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.0131,
-    "Longitude": 31.2089,
-    "name1": "الجيزة",
-    "name2": "Giza",
-    "cities": [
-      {
-        "Latitude": 29.9285,
-        "Longitude": 30.9188,
-        "name1": "6 أكتوبر، الجيزة",
-        "name2": "6th of October"
-      },
-      {
-        "Latitude": 29.9773,
-        "Longitude": 31.1325,
-        "name1": "أبو رواش، الجيزة",
-        "name2": "Abu Rawash"
-      },
-      {
-        "Latitude": 30.0544,
-        "Longitude": 31.1854,
-        "name1": "أرض اللواء، الجيزة",
-        "name2": "Ard El-Lewa"
-      },
-      {
-        "Latitude": 30.1175,
-        "Longitude": 31.1383,
-        "name1": "أوسيم، الجيزة",
-        "name2": "Ausim"
-      },
-      {
-        "Latitude": 30.0816,
-        "Longitude": 31.1950,
-        "name1": "إمبابة، الجيزة",
-        "name2": "Imbabah"
-      },
-      {
-        "Latitude": 29.8504,
-        "Longitude": 31.2767,
-        "name1": "البدرشين، الجيزة",
-        "name2": "Badrshein"
-      },
-      {
-        "Latitude": 30.0793,
-        "Longitude": 31.1591,
-        "name1": "البراجيل، الجيزة",
-        "name2": "El-Baragil"
-      },
-      {
-        "Latitude": 29.9675,
-        "Longitude": 31.1729,
-        "name1": "الحرانية، الجيزة",
-        "name2": "El Haraneya"
-      },
-      {
-        "Latitude": 29.8977,
-        "Longitude": 31.2569,
-        "name1": "الحوامدية، الجيزة",
-        "name2": "El-Hawamdeya"
-      },
-      {
-        "Latitude": 30.0395,
-        "Longitude": 31.2025,
-        "name1": "الدقى، الجيزة",
-        "name2": "Ad Doqi"
-      },
-      {
-        "Latitude": 29.9888933,
-        "Longitude": 31.1297881,
-        "name1": "الرماية، الجيزة",
-        "name2": "Al Remaya"
-      },
-      {
-        "Latitude": 30.0492,
-        "Longitude": 30.9762,
-        "name1": "الشيخ زايد، الجيزة",
-        "name2": "Sheikh Zayed"
-      },
-      {
-        "Latitude": 30.066111,
-        "Longitude": 31.202778,
-        "name1": "الصحفيين، الجيزة",
-        "name2": "sahafieen"
-      },
-      {
-        "Latitude": 29.5750,
-        "Longitude": 31.2816,
-        "name1": "الصف، الجيزة",
-        "name2": "El-Saf"
-      },
-      {
-        "Latitude": 30.0511,
-        "Longitude": 31.2126,
-        "name1": "العجوزة، الجيزة",
-        "name2": "Al Agouzah"
-      },
-      {
-        "Latitude": 29.8769,
-        "Longitude": 31.2569,
-        "name1": "العزيزية، الجيزة",
-        "name2": "Al Azizeyah"
-      },
-      {
-        "Latitude": 29.9971,
-        "Longitude": 31.2060,
-        "name1": "العمرانية، الجيزة",
-        "name2": "Omrania"
-      },
-      {
-        "Latitude": 29.6235,
-        "Longitude": 31.2598,
-        "name1": "العياط، الجيزة",
-        "name2": "Al-Ayat"
-      },
-      {
-        "Latitude": 29.997576,
-        "Longitude": 31.215628,
-        "name1": "القرية الفرعونية، الجيزة",
-        "name2": "pharaonic-village"
-      },
-      {
-        "Latitude": 30.0729,
-        "Longitude": 31.2138,
-        "name1": "الكيت كات، الجيزة",
-        "name2": "Kit Kat"
-      },
-      {
-        "Latitude": 30.1375,
-        "Longitude": 31.0712,
-        "name1": "المنصورية، الجيزة",
-        "name2": "Al Mansouria"
-      },
-      {
-        "Latitude": 29.981055,
-        "Longitude": 31.212333,
-        "name1": "المنيب، الجيزة",
-        "name2": "El-Monib"
-      },
-      {
-        "Latitude": 30.0480,
-        "Longitude": 31.1997,
-        "name1": "المهندسين، الجيزة",
-        "name2": "Mohandessin"
-      },
-      {
-        "Latitude": 29.9773,
-        "Longitude": 31.1325,
-        "name1": "الهرم، الجيزة",
-        "name2": "El-Haram"
-      },
-      {
-        "Latitude": 30.1147,
-        "Longitude": 31.2226,
-        "name1": "الوراق، الجيزة",
-        "name2": "El Warraq"
-      },
-      {
-        "Latitude": 30.0856,
-        "Longitude": 31.1820,
-        "name1": "بشتيل، الجيزة",
-        "name2": "Bashtil"
-      },
-      {
-        "Latitude": 30.3177,
-        "Longitude": 30.8403,
-        "name1": "بني سلامة، الجيزة",
-        "name2": "Bani Salamah"
-      },
-      {
-        "Latitude": 30.0373,
-        "Longitude": 31.1911,
-        "name1": "بولاق الدكرور، الجيزة",
-        "name2": "Boulaq Ad Dakrour"
-      },
-      {
-        "Latitude": 29.9648,
-        "Longitude": 31.1997,
-        "name1": "ترسا، الجيزة",
-        "name2": "Tersa"
-      },
-      {
-        "Latitude": 29.982,
-        "Longitude": 31.224,
-        "name1": "جزيرة الدهب، الجيزة",
-        "name2": "Dahab Island"
-      },
-      {
-        "Latitude": 29.965937,
-        "Longitude": 31.097488,
-        "name1": "حدائق الاهرام، الجيزة",
-        "name2": "Pyramids Gardens"
-      },
-      {
-        "Latitude": 29.7971,
-        "Longitude": 31.2433,
-        "name1": "دهشور، الجيزة",
-        "name2": "Dahshur"
-      },
-      {
-        "Latitude": 29.9965,
-        "Longitude": 31.2126,
-        "name1": "ساقية مكى، الجيزة",
-        "name2": "Saqiyet Mekki"
-      },
-      {
-        "Latitude": 29.8685,
-        "Longitude": 31.2168,
-        "name1": "سقارة، الجيزة",
-        "name2": "Saqqara"
-      },
-      {
-        "Latitude": 30.0258,
-        "Longitude": 31.1653,
-        "name1": "صفط، الجيزة",
-        "name2": "Saft Al Laban"
-      },
-      {
-        "Latitude": 29.984893,
-        "Longitude": 30.960609,
-        "name1": "غرب سوميد، الجيزة",
-        "name2": "West Somid"
-      },
-      {
-        "Latitude": 30.017437,
-        "Longitude": 31.203758,
-        "name1": "فيصل، الجيزة",
-        "name2": "Faisal"
-      },
-      {
-        "Latitude": 30.0309,
-        "Longitude": 31.1112,
-        "name1": "كرداسة، الجيزة",
-        "name2": "Kirdasah"
-      },
-      {
-        "Latitude": 30.0152,
-        "Longitude": 31.1811,
-        "name1": "كفر طهرمس، الجيزة",
-        "name2": "Kafr Tohormos"
-      },
-      {
-        "Latitude": 29.6262638,
-        "Longitude": 31.2258766,
-        "name1": "مريوطية، الجيزة",
-        "name2": "Al Maryotaya"
-      },
-      {
-        "Latitude": 30.0608,
-        "Longitude": 31.1954,
-        "name1": "ميت عقبة، الجيزة",
-        "name2": "Mit Akaba"
-      },
-      {
-        "Latitude": 30.0489,
-        "Longitude": 31.1367,
-        "name1": "ناهيا، الجيزة",
-        "name2": "Nahia"
-      },
-      {
-        "Latitude": 30.3187,
-        "Longitude": 30.9065,
-        "name1": "وردان، الجيزة",
-        "name2": "Wardan"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.1656,
-    "Longitude": 31.4913,
-    "name1": "الدقهلية",
-    "name2": "Dakahlia",
-    "cities": [
-      {
-        "Latitude": 30.9421,
-        "Longitude": 31.2924,
-        "name1": "أجا، الدقهلية",
-        "name2": "Aga"
-      },
-      {
-        "Latitude": 30.8414,
-        "Longitude": 31.3142,
-        "name1": "أخطاب، الدقهلية",
-        "name2": "Ikhtab"
-      },
-      {
-        "Latitude": 31.1768,
-        "Longitude": 31.8639,
-        "name1": "الجمالية، الدقهلية",
-        "name2": "Al Jamaliyah"
-      },
-      {
-        "Latitude": 30.8829,
-        "Longitude": 31.4599,
-        "name1": "السنبلاوين، الدقهلية",
-        "name2": "El-Senbellawein"
-      },
-      {
-        "Latitude": 31.183333,
-        "Longitude": 32.033333,
-        "name1": "المطرية، الدقهلية",
-        "name2": "El Matareya"
-      },
-      {
-        "Latitude": 31.1195,
-        "Longitude": 31.9416,
-        "name1": "المنزلة، الدقهلية",
-        "name2": "Al Manzalah"
-      },
-      {
-        "Latitude": 31.0409,
-        "Longitude": 31.3785,
-        "name1": "المنصورة، الدقهلية",
-        "name2": "Mansoura"
-      },
-      {
-        "Latitude": 31.2164,
-        "Longitude": 31.3605,
-        "name1": "بلقاس، الدقهلية",
-        "name2": "Belkas"
-      },
-      {
-        "Latitude": 31.0192,
-        "Longitude": 31.6511,
-        "name1": "بني عبيد، الدقهلية",
-        "name2": "Beni Ebeid"
-      },
-      {
-        "Latitude": 30.94384,
-        "Longitude": 31.52926,
-        "name1": "تمى الامديد، الدقهلية",
-        "name2": "Temay El Amdeed"
-      },
-      {
-        "Latitude": 31.4412,
-        "Longitude": 31.5364,
-        "name1": "جمصه، الدقهلية",
-        "name2": "Gamasa"
-      },
-      {
-        "Latitude": 31.0857,
-        "Longitude": 31.5888,
-        "name1": "دكرنس، الدقهلية",
-        "name2": "dikirnis"
-      },
-      {
-        "Latitude": 31.0857,
-        "Longitude": 31.5888,
-        "name1": "شربين، الدقهلية",
-        "name2": "Dikirnis"
-      },
-      {
-        "Latitude": 31.0549,
-        "Longitude": 31.3802,
-        "name1": "طلخا، الدقهلية",
-        "name2": "talkha"
-      },
-      {
-        "Latitude": 31.1714,
-        "Longitude": 31.6967,
-        "name1": "منية النصر، الدقهلية",
-        "name2": "Menyet El Nasr"
-      },
-      {
-        "Latitude": 31.164994,
-        "Longitude": 31.797021,
-        "name1": "ميت سلسيل، الدقهلية",
-        "name2": "Mit Salsil"
-      },
-      {
-        "Latitude": 30.708340,
-        "Longitude": 31.261998,
-        "name1": "ميت غمر، الدقهلية",
-        "name2": "Mit Ghamr"
-      },
-      {
-        "Latitude": 31.103699,
-        "Longitude": 31.300904,
-        "name1": "نبروه، الدقهلية",
-        "name2": "Nabaruh"
-      }
-    ]
-  },
-  {
-    "Latitude": 29.9668,
-    "Longitude": 32.5498,
-    "name1": "السويس",
-    "name2": "Suez",
-    "cities": [
-      {
-        "Latitude": 29.6725,
-        "Longitude": 32.3370,
-        "name1": "العين السخنة، السويس",
-        "name2": "Ain Sokhna"
-      },
-      {
-        "Latitude": 30.091361,
-        "Longitude": 32.644646,
-        "name1": "حى الجناين، السويس",
-        "name2": "Al Ganayen"
-      },
-      {
-        "Latitude": 29.984376,
-        "Longitude": 32.537502,
-        "name1": "حي الأربعين، السويس",
-        "name2": "Arbaeen"
-      },
-      {
-        "Latitude": 29.447257,
-        "Longitude": 32.400830,
-        "name1": "حي عتاقة، السويس",
-        "name2": "Attaka"
-      },
-      {
-        "Latitude": 30.119330,
-        "Longitude": 32.147295,
-        "name1": "فيصل، السويس",
-        "name2": "Faisal Suez"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.7327,
-    "Longitude": 31.7195,
-    "name1": "الشرقية",
-    "name2": "Ash Sharqia",
-    "cities": [
-      {
-        "Latitude": 30.5442,
-        "Longitude": 31.6799,
-        "name1": "أبو حماد، الشرقية",
-        "name2": "Abou Hammad"
-      },
-      {
-        "Latitude": 30.7209,
-        "Longitude": 31.6716,
-        "name1": "أبو كبير، الشرقية",
-        "name2": "Abu Kibir"
-      },
-      {
-        "Latitude": 30.9319,
-        "Longitude": 31.6983,
-        "name1": "أولاد صقر، الشرقية",
-        "name2": "Awlad Saqr"
-      },
-      {
-        "Latitude": 30.7200,
-        "Longitude": 31.5650,
-        "name1": "الإبراهيمية، الشرقية",
-        "name2": "El Ibrahimiya"
-      },
-      {
-        "Latitude": 30.8611,
-        "Longitude": 31.9198,
-        "name1": "الحسينية، الشرقية",
-        "name2": "El Husseiniya"
-      },
-      {
-        "Latitude": 30.5765,
-        "Longitude": 31.5041,
-        "name1": "الزقازيق، الشرقية",
-        "name2": "Zagazig"
-      },
-      {
-        "Latitude": 30.6361,
-        "Longitude": 31.9416,
-        "name1": "الصالحية الجديدة، الشرقية",
-        "name2": "New Salhia"
-      },
-      {
-        "Latitude": 30.2927,
-        "Longitude": 31.7423,
-        "name1": "العاشر من رمضان، الشرقية",
-        "name2": "10th of Ramadan"
-      },
-      {
-        "Latitude": 30.6115,
-        "Longitude": 30.6115,
-        "name1": "القرين، الشرقية",
-        "name2": "Al Qorin"
-      },
-      {
-        "Latitude": 30.6151,
-        "Longitude": 31.4596,
-        "name1": "القنايات، الشرقية",
-        "name2": "Alqnayat"
-      },
-      {
-        "Latitude": 30.4196,
-        "Longitude": 31.5619,
-        "name1": "بلبيس، الشرقية",
-        "name2": "Belbes"
-      },
-      {
-        "Latitude": 30.7532,
-        "Longitude": 31.4428,
-        "name1": "ديرب نجم، الشرقية",
-        "name2": "Dyarb Negm"
-      },
-      {
-        "Latitude": 30.7293,
-        "Longitude": 30.7293,
-        "name1": "فاقوس، الشرقية",
-        "name2": "Faqus"
-      },
-      {
-        "Latitude": 30.7926,
-        "Longitude": 31.6235,
-        "name1": "كفر صقر، الشرقية",
-        "name2": "Kafr Saqr"
-      },
-      {
-        "Latitude": 30.3585,
-        "Longitude": 31.3803,
-        "name1": "مشتول السوق، الشرقية",
-        "name2": "Mashtul as Suq"
-      },
-      {
-        "Latitude": 30.5131,
-        "Longitude": 31.3460,
-        "name1": "منيا القمح، الشرقية",
-        "name2": "Minya Al Qamh"
-      },
-      {
-        "Latitude": 30.6719,
-        "Longitude": 31.5914,
-        "name1": "ههيا، الشرقية",
-        "name2": "Hihya"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.8754,
-    "Longitude": 31.0335,
-    "name1": "الغربية",
-    "name2": "Gharbia",
-    "cities": [
-      {
-        "Latitude": 30.7536,
-        "Longitude": 31.1023,
-        "name1": "السنطة، الغربية",
-        "name2": "El Santa"
-      },
-      {
-        "Latitude": 30.9697,
-        "Longitude": 31.1681,
-        "name1": "المحلة الكبرى، الغربية",
-        "name2": "El-Mahalla El-Kubra"
-      },
-      {
-        "Latitude": 30.9399,
-        "Longitude": 30.8176,
-        "name1": "بسيون، الغربية",
-        "name2": "Basioun"
-      },
-      {
-        "Latitude": 30.7127,
-        "Longitude": 31.2400,
-        "name1": "زفتى، الغربية",
-        "name2": "Zifta"
-      },
-      {
-        "Latitude": 30.9606,
-        "Longitude": 31.2438,
-        "name1": "سمنود، الغربية",
-        "name2": "Samanoud"
-      },
-      {
-        "Latitude": 30.7865,
-        "Longitude": 31.0004,
-        "name1": "طنطا، الغربية",
-        "name2": "Tanta"
-      },
-      {
-        "Latitude": 30.9697,
-        "Longitude": 30.9572,
-        "name1": "قطور، الغربية",
-        "name2": "Qutur"
-      },
-      {
-        "Latitude": 30.8285,
-        "Longitude": 30.8138,
-        "name1": "كفر الزيات، الغربية",
-        "name2": "kafr-al-zayat"
-      }
-    ]
-  },
-  {
-    "Latitude": 29.3565,
-    "Longitude": 30.6200,
-    "name1": "الفيوم",
-    "name2": "Faiyum",
-    "cities": [
-      {
-        "Latitude": 29.2379,
-        "Longitude": 30.7913,
-        "name1": "أطسا، الفيوم",
-        "name2": "ITSA"
-      },
-      {
-        "Latitude": 29.3523,
-        "Longitude": 30.6693,
-        "name1": "إبشواي، الفيوم",
-        "name2": "Ibshway"
-      },
-      {
-        "Latitude": 29.2312,
-        "Longitude": 30.9028,
-        "name1": "الفيوم الجديدة، الفيوم",
-        "name2": "New fayoum"
-      },
-      {
-        "Latitude": 30.866667,
-        "Longitude": 29.407222,
-        "name1": "سنورس، الفيوم",
-        "name2": "Sinnuras"
-      },
-      {
-        "Latitude": 29.4765,
-        "Longitude": 30.9596,
-        "name1": "طامية، الفيوم",
-        "name2": "Tamiyyah"
-      },
-      {
-        "Latitude": 29.3619184,
-        "Longitude": 30.4447615,
-        "name1": "يوسف الصديق، الفيوم",
-        "name2": "Yousef El Seddik"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.3292,
-    "Longitude": 31.2168,
-    "name1": "القليوبية",
-    "name2": "Al Qalyubia",
-    "cities": [
-      {
-        "Latitude": 30.2201,
-        "Longitude": 31.3689,
-        "name1": "الخانكة، القليوبية",
-        "name2": "Al Khankah"
-      },
-      {
-        "Latitude": 30.1616,
-        "Longitude": 31.3112,
-        "name1": "الخصوص، القليوبية",
-        "name2": "Al Khosous"
-      },
-      {
-        "Latitude": 30.2283,
-        "Longitude": 31.4799,
-        "name1": "العبور، القليوبية",
-        "name2": "El Obour"
-      },
-      {
-        "Latitude": 30.193583,
-        "Longitude": 31.132064,
-        "name1": "القناطر الخيرية، القليوبية",
-        "name2": "El Qanater El Khayreya"
-      },
-      {
-        "Latitude": 30.4660,
-        "Longitude": 31.1848,
-        "name1": "بنها، القليوبية",
-        "name2": "Banha"
-      },
-      {
-        "Latitude": 30.1367,
-        "Longitude": 31.2745,
-        "name1": "بهتيم، القليوبية",
-        "name2": "Bahtim"
-      },
-      {
-        "Latitude": 30.1782,
-        "Longitude": 31.2941,
-        "name1": "زاويه النجار، القليوبية",
-        "name2": "Zawya El-Naggar"
-      },
-      {
-        "Latitude": 30.1234,
-        "Longitude": 31.2609,
-        "name1": "شبرا الخيمة، القليوبية",
-        "name2": "Shubra Al Khaymah"
-      },
-      {
-        "Latitude": 30.2977,
-        "Longitude": 31.2970,
-        "name1": "شبين القناطر، القليوبية",
-        "name2": "Shibin el-Qanater"
-      },
-      {
-        "Latitude": 30.3534,
-        "Longitude": 31.2018,
-        "name1": "طوخ، القليوبية",
-        "name2": "Toukh"
-      },
-      {
-        "Latitude": 30.1798,
-        "Longitude": 31.2068,
-        "name1": "قليوب، القليوبية",
-        "name2": "Qalyub"
-      },
-      {
-        "Latitude": 30.2826,
-        "Longitude": 31.2086,
-        "name1": "قها، القليوبية",
-        "name2": "Qaha"
-      },
-      {
-        "Latitude": 30.5490,
-        "Longitude": 31.2655,
-        "name1": "كفر شكر، القليوبية",
-        "name2": "Kafr Shukr"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.5972,
-    "Longitude": 30.9876,
-    "name1": "المنوفية",
-    "name2": "Menofia",
-    "cities": [
-      {
-        "Latitude": 30.2944,
-        "Longitude": 31.0335,
-        "name1": "أشمون، المنوفية",
-        "name2": "Ashmoun"
-      },
-      {
-        "Latitude": 30.4301,
-        "Longitude": 31.0364,
-        "name1": "الباجور، المنوفية",
-        "name2": "El-Bagour"
-      },
-      {
-        "Latitude": 30.3594,
-        "Longitude": 30.5327,
-        "name1": "السادات، المنوفية",
-        "name2": "El Sadat"
-      },
-      {
-        "Latitude": 30.5921,
-        "Longitude": 30.9008,
-        "name1": "الشهداء، المنوفية",
-        "name2": "Shuhada"
-      },
-      {
-        "Latitude": 31.084785,
-        "Longitude": 30.63385,
-        "name1": "بركة السبع، المنوفية",
-        "name2": "Berket El-Sabaa"
-      },
-      {
-        "Latitude": 30.6792,
-        "Longitude": 30.9419,
-        "name1": "تلا، المنوفية",
-        "name2": "Tala"
-      },
-      {
-        "Latitude": 30.969167,
-        "Longitude": 30.442222,
-        "name1": "سرس الليان، المنوفية",
-        "name2": "Sers Al-Lyan"
-      },
-      {
-        "Latitude": 30.5503,
-        "Longitude": 31.0106,
-        "name1": "شبين الكوم، المنوفية",
-        "name2": "Shebeen El-Kom"
-      },
-      {
-        "Latitude": 30.5625,
-        "Longitude": 31.1599,
-        "name1": "قويسنا، المنوفية",
-        "name2": "Quwaysna"
-      },
-      {
-        "Latitude": 30.4641,
-        "Longitude": 30.9358,
-        "name1": "منوف، المنوفية",
-        "name2": "Minuf"
-      },
-      {
-        "Latitude": 30.5254,
-        "Longitude": 31.0945,
-        "name1": "ميت العز، المنوفية",
-        "name2": "Mit El-Ezz"
-      }
-    ]
-  },
-  {
-    "Latitude": 28.0871,
-    "Longitude": 30.7618,
-    "name1": "المنيا",
-    "name2": "Minya",
-    "cities": [
-      {
-        "Latitude": 27.9305,
-        "Longitude": 30.8385,
-        "name1": "أبو قرقاص، المنيا",
-        "name2": "Abu Qurqas"
-      },
-      {
-        "Latitude": 28.7182,
-        "Longitude": 30.7350,
-        "name1": "العدوة، المنيا",
-        "name2": "El Idwa"
-      },
-      {
-        "Latitude": 28.0976,
-        "Longitude": 30.8154,
-        "name1": "المنيا الجديدة، المنيا",
-        "name2": "New Minya"
-      },
-      {
-        "Latitude": 28.4917,
-        "Longitude": 30.8026,
-        "name1": "بني مزار، المنيا",
-        "name2": "Bani Mazar"
-      },
-      {
-        "Latitude": 27.6403,
-        "Longitude": 30.8517,
-        "name1": "دير مواس، المنيا",
-        "name2": "Dayr Mawas"
-      },
-      {
-        "Latitude": 28.3140,
-        "Longitude": 30.7101,
-        "name1": "سمالوط، المنيا",
-        "name2": "Samalut"
-      },
-      {
-        "Latitude": 28.4173,
-        "Longitude": 30.7818,
-        "name1": "مطاي، المنيا",
-        "name2": "Matay"
-      },
-      {
-        "Latitude": 28.6485,
-        "Longitude": 30.8375,
-        "name1": "مغاغة، المنيا",
-        "name2": "Maghagha"
-      },
-      {
-        "Latitude": 27.7359,
-        "Longitude": 30.8448,
-        "name1": "ملوي، المنيا",
-        "name2": "Mallawi"
-      }
-    ]
-  },
-  {
-    "Latitude": 24.5456,
-    "Longitude": 27.1735,
-    "name1": "الوادي الجديد",
-    "name2": "New Valley",
-    "cities": [
-      {
-        "Latitude": 25.4390,
-        "Longitude": 30.5586,
-        "name1": "الخارجة، الوادي الجديد",
-        "name2": "Kharga"
-      },
-      {
-        "Latitude": 25.5444,
-        "Longitude": 28.9288,
-        "name1": "الداخلة، الوادي الجديد",
-        "name2": "Dakhla"
-      },
-      {
-        "Latitude": 27.0567,
-        "Longitude": 27.9703,
-        "name1": "الفرافرة، الوادي الجديد",
-        "name2": "Farafra"
-      },
-      {
-        "Latitude": 25.5625,
-        "Longitude": 29.2644,
-        "name1": "بلاط، الوادي الجديد",
-        "name2": "Balat"
-      },
-      {
-        "Latitude": 25.4950,
-        "Longitude": 28.9795,
-        "name1": "مدينة موط، الوادي الجديد",
-        "name2": "Mut"
-      }
-    ]
-  },
-  {
-    "Latitude": 29.0661,
-    "Longitude": 31.0994,
-    "name1": "بني سويف",
-    "name2": "Beni Suef",
-    "cities": [
-      {
-        "Latitude": 29.0934,
-        "Longitude": 31.0206,
-        "name1": "إهناسيا، بني سويف",
-        "name2": "Ihnasiyah"
-      },
-      {
-        "Latitude": 28.8234,
-        "Longitude": 30.8988,
-        "name1": "الفشن، بني سويف",
-        "name2": "Al Fashn"
-      },
-      {
-        "Latitude": 29.3480,
-        "Longitude": 31.2101,
-        "name1": "الواسطى، بني سويف",
-        "name2": "El Wasta"
-      },
-      {
-        "Latitude": 28.9216,
-        "Longitude": 30.9807,
-        "name1": "ببا، بني سويف",
-        "name2": "Biba"
-      },
-      {
-        "Latitude": 28.9914,
-        "Longitude": 31.1481,
-        "name1": "بني سويف الجديدة، بني سويف",
-        "name2": "New Beni Suef"
-      },
-      {
-        "Latitude": 28.9187,
-        "Longitude": 30.8154,
-        "name1": "سمسطا، بني سويف",
-        "name2": "Sumusta"
-      },
-      {
-        "Latitude": 29.1493,
-        "Longitude": 31.1294,
-        "name1": "ناصر، بني سويف",
-        "name2": "Naser"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.2653,
-    "Longitude": 32.3019,
-    "name1": "بورسعيد",
-    "name2": "port-Said",
-    "cities": [
-      {
-        "Latitude": 31.253947,
-        "Longitude": 32.274525,
-        "name1": "حي الجنوب، بورسعيد",
-        "name2": "Gharb District"
-      },
-      {
-        "Latitude": 31.2626,
-        "Longitude": 32.2586,
-        "name1": "حي الزهور، بورسعيد",
-        "name2": "Al-Zohour District"
-      },
-      {
-        "Latitude": 31.2575,
-        "Longitude": 32.3022,
-        "name1": "حي الشرق، بورسعيد",
-        "name2": "Al-Sharq District"
-      },
-      {
-        "Latitude": 31.2522,
-        "Longitude": 32.2818,
-        "name1": "حي الضواحي، بورسعيد",
-        "name2": "Al-Dawahy District"
-      },
-      {
-        "Latitude": 31.2448,
-        "Longitude": 32.2694,
-        "name1": "حي العرب، بورسعيد",
-        "name2": "Al-Arab District"
-      },
-      {
-        "Latitude": 31.2674,
-        "Longitude": 32.2852,
-        "name1": "حي المناخ، بورسعيد",
-        "name2": "Al-Manakh District"
-      },
-      {
-        "Latitude": 31.2488,
-        "Longitude": 32.3170,
-        "name1": "مدينة بورفؤاد، بورسعيد",
-        "name2": "Port Fuad"
-      }
-    ]
-  },
-  {
-    "Latitude": 29.3102,
-    "Longitude": 34.1532,
-    "name1": "جنوب سيناء",
-    "name2": "South Sinai",
-    "cities": [
-      {
-        "Latitude": 28.8907,
-        "Longitude": 33.1887,
-        "name1": "أبو رديس، جنوب سيناء",
-        "name2": "Abu Rudeis"
-      },
-      {
-        "Latitude": 29.0474,
-       "Longitude": 33.1063,
-        "name1": "أبو زنيمة، جنوب سيناء",
-        "name2": "Abu Zenima"
-      },
-      {
-        "Latitude": 28.5091,
-        "Longitude": 34.5136,
-        "name1": "دهب، جنوب سيناء",
-        "name2": "Dahab"
-      },
-      {
-        "Latitude": 29.5933,
-        "Longitude": 32.7178,
-        "name1": "رأس سدر، جنوب سيناء",
-        "name2": "Ras Sedr" 
-      },
-      {
-        "Latitude": 28.5609,
-        "Longitude": 33.9480,
-        "name1": "سانت كاترين، جنوب سيناء",
-        "name2": "Saint Catherine"
-      },
-      {
-        "Latitude": 27.9654,
-        "Longitude": 34.3618,
-        "name1": "شرم الشيخ، جنوب سيناء",
-        "name2": "Sharm El-Sheikh"
-      },
-      {
-        "Latitude": 29.4925,
-        "Longitude": 34.8969,
-        "name1": "طابا، جنوب سيناء",
-        "name2": "Taba"
-      },
-      {
-        "Latitude": 28.2410,
-        "Longitude": 33.6230,
-        "name1": "طور سيناء، جنوب سيناء",
-        "name2": "El Tor"
-      },
-      {
-        "Latitude": 28.9734,
-        "Longitude": 34.6534,
-        "name1": "نويبع، جنوب سيناء",
-        "name2": "Nuweibaa"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.4175,
-    "Longitude": 31.8144,
-    "name1": "دمياط",
-    "name2": "Damietta",
-    "cities": [
-      {
-        "Latitude": 31.322612,
-        "Longitude": 31.758833,
-        "name1": "الروضة، دمياط",
-        "name2": "El-Rawda"
-      },
-      {
-        "Latitude": 31.2088,
-        "Longitude": 31.6358,
-        "name1": "الزرقا، دمياط",
-        "name2": "AZ Zarqa"
-      },
-      {
-        "Latitude": 31.23867,
-        "Longitude": 31.65379,
-        "name1": "السرو، دمياط",
-        "name2": "Assarw"
-      },
-      {
-        "Latitude": 31.5043,
-        "Longitude": 31.8282,
-        "name1": "رأس البر، دمياط",
-        "name2": "Ras El-Bar"
-      },
-      {
-        "Latitude": 31.5039,
-        "Longitude": 31.8385,
-        "name1": "عزبة البرج، دمياط",
-        "name2": "Izbat Al Burj"
-      },
-      {
-        "Latitude": 31.2956,
-        "Longitude": 31.7309,
-        "name1": "فارسكور، دمياط",
-        "name2": "Fareskour"
-      },
-      {
-        "Latitude": 31.4008,
-        "Longitude": 31.7299,
-        "name1": "كفر البطيخ، دمياط",
-        "name2": "Kafr Al Battikh"
-      },
-      {
-        "Latitude": 31.3540,
-        "Longitude": 31.6841,
-        "name1": "كفر سعد، دمياط",
-        "name2": "Kafr Saad"
-      },
-      {
-        "Latitude": 31.2884,
-        "Longitude": 31.6772,
-        "name1": "ميت أبوغالب، دمياط",
-        "name2": "Mit Abu Ghaleb"
-      }
-    ]
-  },
-  {
-    "Latitude": 26.5591,
-    "Longitude": 31.6957,
-    "name1": "سوهاج",
-    "name2": "Sohag",
-    "cities": [
-      {
-        "Latitude": 26.5626,
-        "Longitude": 31.7449,
-        "name1": "أخميم، سوهاج",
-        "name2": "Akhmim"
-      },
-      {
-        "Latitude": 26.2354,
-        "Longitude": 32.0030,
-        "name1": "البلينا، سوهاج",
-        "name2": "Al Balyana"
-      },
-      {
-        "Latitude": 26.3937,
-        "Longitude": 31.8218,
-        "name1": "العسيرات، سوهاج",
-        "name2": "El-Usayrat"
-      },
-      {
-        "Latitude": 26.6985,
-        "Longitude": 31.6020,
-        "name1": "المراغة، سوهاج",
-        "name2": "El Maragha"
-      },
-      {
-        "Latitude": 26.4790,
-        "Longitude": 31.8022,
-        "name1": "المنشاة، سوهاج",
-        "name2": "Al Minshah"
-      },
-      {
-        "Latitude": 26.3419,
-        "Longitude": 31.8876,
-        "name1": "جرجا، سوهاج",
-        "name2": "Girga"
-      },
-      {
-        "Latitude": 26.6794,
-        "Longitude": 31.4905,
-        "name1": "جهينة، سوهاج",
-        "name2": "Juhaynah"
-      },
-      {
-        "Latitude": 26.2737,
-        "Longitude": 32.0667,
-        "name1": "دارالسلام، سوهاج",
-        "name2": "Dar El-Salam"
-      },
-      {
-        "Latitude": 26.664926,
-        "Longitude": 31.671143,
-        "name1": "ساقلتة، سوهاج",
-        "name2": "Saqultah"
-      },
-      {
-        "Latitude": 26.8896,
-        "Longitude": 31.4428,
-        "name1": "طما، سوهاج",
-        "name2": "Tama"
-      },
-      {
-        "Latitude": 26.7640,
-        "Longitude": 31.4982,
-        "name1": "طهطا، سوهاج",
-        "name2": "Tahta"
-      }
-    ]
-  },
-  {
-    "Latitude": 30.2824,
-    "Longitude": 33.6176,
-    "name1": "شمال سيناء",
-    "name2": "North Sinai",
-    "cities": [
-      {
-        "Latitude": 30.4585,
-        "Longitude": 33.7755,
-        "name1": "الحسنة، شمال سيناء",
-        "name2": "Hasna"
-      },
-      {
-        "Latitude": 31.211944,
-        "Longitude": 34.110556,
-        "name1": "الشيخ زويد، شمال سيناء",
-        "name2": "Sheikh Zuweid"
-      },
-      {
-        "Latitude": 31.1321,
-        "Longitude": 33.8033,
-        "name1": "العريش، شمال سيناء",
-        "name2": "Arish"
-      },
-      {
-        "Latitude": 31.018056,
-        "Longitude": 33.011111,
-        "name1": "بئر العبد، شمال سيناء",
-        "name2": "Bir al-Abd"
-      },
-      {
-        "Latitude": 31.2803,
-        "Longitude": 34.2402,
-        "name1": "رفح، شمال سيناء",
-        "name2": "Rafah"
-      },
-      {
-        "Latitude": 29.9093,
-        "Longitude": 33.7448,
-        "name1": "نخل، شمال سيناء",
-        "name2": "Nekhel"
-      }
-    ]
-  },
-  {
-    "Latitude": 26.1551,
-    "Longitude": 32.7160,
-    "name1": "قنا",
-    "name2": "Qena",
-    "cities": [
-      {
-        "Latitude": 26.1209,
-        "Longitude": 32.0956,
-        "name1": "أبو تشت، قنا",
-        "name2": "Abu Tisht"
-      },
-      {
-        "Latitude": 26.0873,
-        "Longitude": 32.4230,
-        "name1": "الوقف، قنا",
-        "name2": "Al Waqf"
-      },
-      {
-        "Latitude": 26.128815,
-        "Longitude": 32.467799,
-        "name1": "دشنا. قنا",
-        "name2": "Dishna"
-      },
-      {
-        "Latitude": 26.0556,
-        "Longitude": 32.1675,
-        "name1": "فرشوط، قنا",
-        "name2": "Farshut"
-      },
-      {
-        "Latitude": 26.0002,
-        "Longitude": 32.8159,
-        "name1": "قفط، قنا",
-        "name2": "Qift"
-      },
-      {
-        "Latitude": 25.9181,
-        "Longitude": 32.7597,
-        "name1": "قوص، قنا",
-        "name2": "Qus"
-      },
-      {
-        "Latitude": 26.0452,
-        "Longitude": 32.2428,
-        "name1": "نجع حمادي، قنا",
-        "name2": "Nagaa Hammadi"
-      },
-      {
-        "Latitude": 25.9005,
-        "Longitude": 32.7227,
-        "name1": "نقادة، قنا",
-        "name2": "Naqadah"
-      }
-    ]
-  },
-  {
-    "Latitude": 31.1107,
-    "Longitude": 30.9388,
-    "name1": "كفر الشيخ",
-    "name2": "Kafr El-Shaikh",
-    "cities": [
-      {
-        "Latitude": 31.5672,
-        "Longitude": 31.1481,
-        "name1": "البرلس، كفر الشيخ",
-        "name2": "Burullus"
-      },
-      {
-        "Latitude": 31.3113,
-        "Longitude": 31.1463,
-        "name1": "الحامول، كفر الشيخ",
-        "name2": "El-Hamoul"
-      },
-      {
-        "Latitude": 31.2368,
-        "Longitude": 30.9454,
-        "name1": "الرياض، كفر الشيخ",
-        "name2": "El-Reyad"
-      },
-      {
-        "Latitude": 31.5555,
-        "Longitude": 31.0944,
-        "name1": "بلطيم، كفر الشيخ",
-        "name2": "Baltim"
-      },
-      {
-        "Latitude": 31.1724,
-        "Longitude": 31.2215,
-        "name1": "بيلا، كفر الشيخ",
-        "name2": "Biyala"
-      },
-      {
-        "Latitude": 31.1341,
-        "Longitude": 30.6460,
-        "name1": "دسوق، كفر الشيخ",
-        "name2": "Desouk"
-      },
-      {
-        "Latitude": 31.2693,
-        "Longitude": 30.7873,
-        "name1": "سيدى سالم، كفر الشيخ",
-        "name2": "Sidi Salem" 
-      },
-      {
-        "Latitude": 31.2031,
-        "Longitude": 30.5468,
-        "name1": "فوه، كفر الشيخ",
-        "name2": "Fouh"
-      },
-      {
-        "Latitude": 31.0481,
-        "Longitude": 30.8534,
-        "name1": "قلين، كفر الشيخ",
-        "name2": "Qillin"
-      },
-      {
-        "Latitude": 31.3025,
-        "Longitude": 30.5213,
-        "name1": "مطوبس، كفر الشيخ",
-        "name2": "Motobas"
-      }
-    ]
-  },
-  {
-    "Latitude": 25.6872,
-    "Longitude": 32.6396,
-    "name1": "الأقصر",
-    "name2": "Luxor",
-    "cities": [
-      {
-        "Latitude": 25.6207,
-        "Longitude": 32.5453,
-        "name1": "أرمنت، الأقصر",
-        "name2": "Armant"
-      },
-      {
-        "Latitude": 25.2941,
-        "Longitude": 32.5477,
-        "name1": "إسنا، الأقصر",
-        "name2": "Esna"
-      },
-      {
-        "Latitude": 25.6639,
-        "Longitude": 32.6314,
-        "name1": "البياضية، الأقصر",
-        "name2": "Bayadeya"
-      },
-      {
-        "Latitude": 25.74766094,
-        "Longitude": 32.67350712,
-        "name1": "الزينية، الأقصر",
-        "name2": "AZ Zayniyyah"
-      },
-      {
-        "Latitude": 25.5825,
-        "Longitude": 32.5326,
-        "name1": "الطود، الأقصر",
-        "name2": "Al Toud City"
-      },
-      {
-        "Latitude": 25.7297,
-        "Longitude": 32.6447,
-        "name1": "القرنه، الأقصر",
-        "name2": "Al Qarnah"
-      }
-    ]
-  }
+[
+   {
+      "Latitude":30.0444,
+      "Longitude":31.2357,
+      "NameInArabic":"القاهرة",
+      "NameInEnglish":"Cairo",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.1071,
+            "Longitude":31.2912,
+            "NameInArabic":"الأميرية، القاهرة",
+            "NameInEnglish":"Amiriyyah"
+         },
+         {
+            "Latitude":29.9793,
+            "Longitude":31.3027,
+            "NameInArabic":"البساتين، القاهرة",
+            "NameInEnglish":"Basateen"
+         },
+         {
+            "Latitude":29.7756,
+            "Longitude":31.3256,
+            "NameInArabic":"التبين، القاهرة",
+            "NameInEnglish":"Tebeen"
+         },
+         {
+            "Latitude":29.9801,
+            "Longitude":31.4328,
+            "NameInArabic":"التجمع الثالث، القاهرة",
+            "NameInEnglish":"The 3rd District"
+         },
+         {
+            "Latitude":30.05274,
+            "Longitude":31.26376,
+            "NameInArabic":"الجمالية، القاهرة",
+            "NameInEnglish":"Gamaleya"
+         },
+         {
+            "Latitude":31.1967431589,
+            "Longitude":29.9269059458,
+            "NameInArabic":"الحلمية، القاهرة",
+            "NameInEnglish":"Helmeya"
+         },
+         {
+            "Latitude":30.0812558,
+            "Longitude":31.2511902,
+            "NameInArabic":"الحلمية الجديدة، القاهرة",
+            "NameInEnglish":"Alhelmeya Algadeda"
+         },
+         {
+            "Latitude":25.1972,
+            "Longitude":55.2744,
+            "NameInArabic":"الخليفة، القاهرة",
+            "NameInEnglish":"Khalifa"
+         },
+         {
+            "Latitude":30.0560,
+            "Longitude":31.2719,
+            "NameInArabic":"الدراسة، القاهرة",
+            "NameInEnglish":"Darrasa"
+         },
+         {
+            "Latitude":30.0400,
+            "Longitude":31.2598,
+            "NameInArabic":"الدرب الأحمر، القاهرة",
+            "NameInEnglish":"Darb Al-ahmar"
+         },
+         {
+            "Latitude":30.0945910011,
+            "Longitude":31.2707329126,
+            "NameInArabic":"الزاوية الحمراء، القاهرة",
+            "NameInEnglish":"Alzawya Al-hamra"
+         },
+         {
+            "Latitude":30.0609,
+            "Longitude":31.2197,
+            "NameInArabic":"الزمالك، القاهرة",
+            "NameInEnglish":"Zamalek"
+         },
+         {
+            "Latitude":30.1074,
+            "Longitude":31.3157,
+            "NameInArabic":"الزيتون، القاهرة",
+            "NameInEnglish":"Zaytoun"
+         },
+         {
+            "Latitude":30.082779,
+            "Longitude":31.252253,
+            "NameInArabic":"الساحل، القاهرة",
+            "NameInEnglish":"Al-sahel"
+         },
+         {
+            "Latitude":33.4430,
+            "Longitude":36.3336,
+            "NameInArabic":"السيدة زينب، القاهرة",
+            "NameInEnglish":"Al-sayeda Zeinab"
+         },
+         {
+            "Latitude":30.0838813154,
+            "Longitude":31.2577555846,
+            "NameInArabic":"الشرابية، القاهرة",
+            "NameInEnglish":"Al-sharabeya"
+         },
+         {
+            "Latitude":30.2927,
+            "Longitude":31.7423,
+            "NameInArabic":"العاشر من رمضان، القاهرة",
+            "NameInEnglish":"10th Ramadan City"
+         },
+         {
+            "Latitude":30.0116,
+            "Longitude":31.6979,
+            "NameInArabic":"العاصمة الإدارية الجديدة، القاهرة",
+            "NameInEnglish":"New Capital City"
+         },
+         {
+            "Latitude":30.5349,
+            "Longitude":31.7171,
+            "NameInArabic":"العباسية، القاهرة",
+            "NameInEnglish":"Abasiya"
+         },
+         {
+            "Latitude":30.2283,
+            "Longitude":31.4799,
+            "NameInArabic":"العبور، القاهرة",
+            "NameInEnglish":"Obour City"
+         },
+         {
+            "Latitude":30.00419,
+            "Longitude":31.43849,
+            "NameInArabic":"العتبة، القاهرة",
+            "NameInEnglish":"Ataba"
+         },
+         {
+            "Latitude":30.0646,
+            "Longitude":31.4479,
+            "NameInArabic":"القاهرة الجديدة -  التجمع الأول، القاهرة",
+            "NameInEnglish":"First Settlement"
+         },
+         {
+            "Latitude":30.1178,
+            "Longitude":31.6171,
+            "NameInArabic":"القاهرة الجديدة - الأندلس، القاهرة",
+            "NameInEnglish":"New Cairo Andalous"
+         },
+         {
+            "Latitude":30.0085,
+            "Longitude":31.4285,
+            "NameInArabic":"القاهرة الجديدة - التجمع الخامس، القاهرة",
+            "NameInEnglish":"Fifth Settlement"
+         },
+         {
+            "Latitude":30.005493,
+            "Longitude":31.477898,
+            "NameInArabic":"القاهرة الجديدة - لوتس، القاهرة",
+            "NameInEnglish":"New Cairo Lotus"
+         },
+         {
+            "Latitude":30.0660,
+            "Longitude":31.4856,
+            "NameInArabic":"القاهرة الجديدة - مدينة الرحاب، القاهرة",
+            "NameInEnglish":"Rehab City"
+         },
+         {
+            "Latitude":29.9916,
+            "Longitude":31.4071,
+            "NameInArabic":"القطامية، القاهرة",
+            "NameInEnglish":"Katameya"
+         },
+         {
+            "Latitude":30.0833,
+            "Longitude":31.3500,
+            "NameInArabic":"الماظة، القاهرة",
+            "NameInEnglish":"Almazah"
+         },
+         {
+            "Latitude":30.1521,
+            "Longitude":31.3357,
+            "NameInArabic":"المرج، القاهرة",
+            "NameInEnglish":"Al-marj"
+         },
+         {
+            "Latitude":30.1254,
+            "Longitude":31.3181,
+            "NameInArabic":"المطرية، القاهرة",
+            "NameInEnglish":"Matareya"
+         },
+         {
+            "Latitude":29.9602,
+            "Longitude":31.2569,
+            "NameInArabic":"المعادي، القاهرة",
+            "NameInEnglish":"Maadi"
+         },
+         {
+            "Latitude":31.6583,
+            "Longitude":35.1900,
+            "NameInArabic":"المعصره، القاهرة",
+            "NameInEnglish":"Ma-sara"
+         },
+         {
+            "Latitude":30.0217,
+            "Longitude":31.3033,
+            "NameInArabic":"المقطم، القاهرة",
+            "NameInEnglish":"Al-Mokattam"
+         },
+         {
+            "Latitude":30.0313374167,
+            "Longitude":31.2344195176,
+            "NameInArabic":"المنيرة الجديدة، القاهرة",
+            "NameInEnglish":"Al-mounira Al-gadeda"
+         },
+         {
+            "Latitude":30.0214,
+            "Longitude":31.2269,
+            "NameInArabic":"المنيل، القاهرة",
+            "NameInEnglish":"Al-manial"
+         },
+         {
+            "Latitude":30.0488477,
+            "Longitude":31.2561819,
+            "NameInArabic":"الموسكي، القاهرة",
+            "NameInEnglish":"Moski"
+         },
+         {
+            "Latitude":30.043917,
+            "Longitude":31.010492,
+            "NameInArabic":"النزهة، القاهرة",
+            "NameInEnglish":"Nozha Cairo"
+         },
+         {
+            "Latitude":30.0704,
+            "Longitude":31.2827,
+            "NameInArabic":"الوايلي، القاهرة",
+            "NameInEnglish":"Waili"
+         },
+         {
+            "Latitude":30.0541,
+            "Longitude":31.2559,
+            "NameInArabic":"باب الشعرية، القاهرة",
+            "NameInEnglish":"Bab Al-shereia"
+         },
+         {
+            "Latitude":30.0631,
+            "Longitude":31.2312,
+            "NameInArabic":"بولاق، القاهرة",
+            "NameInEnglish":"Boulaq"
+         },
+         {
+            "Latitude":30.0607,
+            "Longitude":31.5514,
+            "NameInArabic":"بيت الوطن، القاهرة",
+            "NameInEnglish":"Bait El-watan"
+         },
+         {
+            "Latitude":30.0381,
+            "Longitude":31.2326,
+            "NameInArabic":"جاردن سيتي، القاهرة",
+            "NameInEnglish":"Garden City"
+         },
+         {
+            "Latitude":30.0858,
+            "Longitude":31.2784,
+            "NameInArabic":"حدائق القبة، القاهرة",
+            "NameInEnglish":"Hadayek Al-kobba"
+         },
+         {
+            "Latitude":29.8971,
+            "Longitude":31.3040,
+            "NameInArabic":"حدائق حلوان، القاهرة",
+            "NameInEnglish":"Hadayek Helwan"
+         },
+         {
+            "Latitude":29.8403,
+            "Longitude":31.2982,
+            "NameInArabic":"حلوان، القاهرة",
+            "NameInEnglish":"Helwan"
+         },
+         {
+            "Latitude":29.9906171,
+            "Longitude":31.2316763,
+            "NameInArabic":"دار السلام، القاهرة",
+            "NameInEnglish":"Dar Al-salaam"
+         },
+         {
+            "Latitude":30.058166434,
+            "Longitude":31.2416657,
+            "NameInArabic":"رمسيس و امتداد رمسيس، القاهرة",
+            "NameInEnglish":"Ramses Ramses Extension"
+         },
+         {
+            "Latitude":30.0772,
+            "Longitude":31.2369,
+            "NameInArabic":"روض الفرج، القاهرة",
+            "NameInEnglish":"Rod Al-farag"
+         },
+         {
+            "Latitude":29.9632427,
+            "Longitude":31.3177059,
+            "NameInArabic":"زهراء المعادى، القاهرة",
+            "NameInEnglish":"Zahraa Al-maadi"
+         },
+         {
+            "Latitude":30.1234,
+            "Longitude":31.2609,
+            "NameInArabic":"شبرا، القاهرة",
+            "NameInEnglish":"Shubra"
+         },
+         {
+            "Latitude":30.1033,
+            "Longitude":30.1033,
+            "NameInArabic":"شيراتون، القاهرة",
+            "NameInEnglish":"Sheraton"
+         },
+         {
+            "Latitude":29.9384,
+            "Longitude":31.3198,
+            "NameInArabic":"طرة، القاهرة",
+            "NameInEnglish":"Tura"
+         },
+         {
+            "Latitude":30.1451,
+            "Longitude":31.3187,
+            "NameInArabic":"عزبة النخل، القاهرة",
+            "NameInEnglish":"Izbat An-nakhl"
+         },
+         {
+            "Latitude":30.2071,
+            "Longitude":31.4475,
+            "NameInArabic":"عين شمس، القاهرة",
+            "NameInEnglish":"Ain Shams"
+         },
+         {
+            "Latitude":30.0438,
+            "Longitude":31.2296,
+            "NameInArabic":"قصر النيل، القاهرة",
+            "NameInEnglish":"Qasr Al-nil"
+         },
+         {
+            "Latitude":29.8579,
+            "Longitude":31.3885,
+            "NameInArabic":"مدينة 15 مايو، القاهرة",
+            "NameInEnglish":"15 May City"
+         },
+         {
+            "Latitude":30.1718,
+            "Longitude":31.4065,
+            "NameInArabic":"مدينة السلام، القاهرة",
+            "NameInEnglish":"Salam City"
+         },
+         {
+            "Latitude":30.1419,
+            "Longitude":31.6285,
+            "NameInArabic":"مدينة الشروق، القاهرة",
+            "NameInEnglish":"Shorouk City"
+         },
+         {
+            "Latitude":30.1653,
+            "Longitude":31.5513,
+            "NameInArabic":"مدينة المستقبل، القاهرة",
+            "NameInEnglish":"Future City"
+         },
+         {
+            "Latitude":30.1422,
+            "Longitude":31.7414,
+            "NameInArabic":"مدينة بدر، القاهرة",
+            "NameInEnglish":"Badr-City"
+         },
+         {
+            "Latitude":30.0511,
+            "Longitude":31.3656,
+            "NameInArabic":"مدينة نصر، القاهرة",
+            "NameInEnglish":"Nasr City"
+         },
+         {
+            "Latitude":30.0956,
+            "Longitude":31.6349,
+            "NameInArabic":"مدينتي، القاهرة",
+            "NameInEnglish":"Madinaty"
+         },
+         {
+            "Latitude":30.1412,
+            "Longitude":31.2869,
+            "NameInArabic":"مسطرد، القاهرة",
+            "NameInEnglish":"Musturad"
+         },
+         {
+            "Latitude":30.1123,
+            "Longitude":31.3439,
+            "NameInArabic":"مصر الجديدة، القاهرة",
+            "NameInEnglish":"Heliopolis"
+         },
+         {
+            "Latitude":30.0011,
+            "Longitude":31.2316,
+            "NameInArabic":"مصر القديمة، القاهرة",
+            "NameInEnglish":"Masr Al-kadema"
+         },
+         {
+            "Latitude":30.1659,
+            "Longitude":31.6890,
+            "NameInArabic":"هليوبوليس الجديدة، القاهرة",
+            "NameInEnglish":"New Heliopolis"
+         },
+         {
+            "Latitude":30.0467,
+            "Longitude":31.2347,
+            "NameInArabic":"وسط القاهرة، القاهرة",
+            "NameInEnglish":"Downtown Cairo"
+         }
+      ]
+   },
+   {
+      "Latitude":24.0889,
+      "Longitude":32.8998,
+      "NameInArabic":"أسوان",
+      "NameInEnglish":"Aswan",
+      "CitiesAndVillages":[
+         {
+            "Latitude":24.1319,
+            "Longitude":32.8902,
+            "NameInArabic":"ابو الريش، أسوان",
+            "NameInEnglish":"Abou Al-reish"
+         },
+         {
+            "Latitude":22.3460,
+            "Longitude":31.6156,
+            "NameInArabic":"ابو سمبل، أسوان",
+            "NameInEnglish":"Abou Simbel"
+         },
+         {
+            "Latitude":24.9792,
+            "Longitude":32.8758,
+            "NameInArabic":"ادفو، أسوان",
+            "NameInEnglish":"Edfu"
+         },
+         {
+            "Latitude":25.1380318853,
+            "Longitude":32.722533904,
+            "NameInArabic":"البصيلية، أسوان",
+            "NameInEnglish":"Basiliah"
+         },
+         {
+            "Latitude":24.907478,
+            "Longitude":32.885047,
+            "NameInArabic":"الرديسية، أسوان",
+            "NameInEnglish":"Rdesiah"
+         },
+         {
+            "Latitude":25.1941,
+            "Longitude":32.6798,
+            "NameInArabic":"السباعية، أسوان",
+            "NameInEnglish":"Sebaeiah"
+         },
+         {
+            "Latitude":24.4079,
+            "Longitude":32.9229,
+            "NameInArabic":"دراو، أسوان",
+            "NameInEnglish":"Daraw"
+         },
+         {
+            "Latitude":23.9643605,
+            "Longitude":32.8355147296,
+            "NameInArabic":"صحارى، أسوان",
+            "NameInEnglish":"Sahara"
+         },
+         {
+            "Latitude":3523.96095,
+            "Longitude":32.8674,
+            "NameInArabic":"كلابشة، أسوان",
+            "NameInEnglish":"Kalabsha"
+         },
+         {
+            "Latitude":24.4698,
+            "Longitude":32.9381,
+            "NameInArabic":"كوم امبو، أسوان",
+            "NameInEnglish":"Kom Ombo"
+         },
+         {
+            "Latitude":24.545056,
+            "Longitude":33.046379,
+            "NameInArabic":"نصر النوبة، أسوان",
+            "NameInEnglish":"Nasr Al-noba"
+         }
+      ]
+   },
+   {
+      "Latitude":27.1783,
+      "Longitude":31.1859,
+      "NameInArabic":"أسيوط",
+      "NameInEnglish":"Asyut",
+      "CitiesAndVillages":[
+         {
+            "Latitude":27.2674,
+            "Longitude":31.1519,
+            "NameInArabic":"أبنوب، أسيوط",
+            "NameInEnglish":"Abnub"
+         },
+         {
+            "Latitude":27.04595,
+            "Longitude":31.32115,
+            "NameInArabic":"أبو تيج، أسيوط",
+            "NameInEnglish":"Abu Teeg"
+         },
+         {
+            "Latitude":27.2811003,
+            "Longitude":31.293368,
+            "NameInArabic":"أسيوط الجديدة، أسيوط",
+            "NameInEnglish":"New Assiut"
+         },
+         {
+            "Latitude":26.9887,
+            "Longitude":31.3942,
+            "NameInArabic":"البدارى، أسيوط",
+            "NameInEnglish":"Badari"
+         },
+         {
+            "Latitude":26.8735,
+            "Longitude":31.3260,
+            "NameInArabic":"الفتح، أسيوط",
+            "NameInEnglish":"Fateh"
+         },
+         {
+            "Latitude":27.4393,
+            "Longitude":30.8171,
+            "NameInArabic":"القوصيه، أسيوط",
+            "NameInEnglish":"Qusiya"
+         },
+         {
+            "Latitude":27.5541,
+            "Longitude":30.8084,
+            "NameInArabic":"ديروط، أسيوط",
+            "NameInEnglish":"Dairut"
+         },
+         {
+            "Latitude":27.0451,
+            "Longitude":31.3370,
+            "NameInArabic":"ساحل سليم، أسيوط",
+            "NameInEnglish":"Sahel-selim"
+         },
+         {
+            "Latitude":26.9635,
+            "Longitude":31.3790,
+            "NameInArabic":"صدفا، أسيوط",
+            "NameInEnglish":"Sedfa"
+         },
+         {
+            "Latitude":27.3114,
+            "Longitude":30.9715,
+            "NameInArabic":"منفلوط، أسيوط",
+            "NameInEnglish":"Manfalut"
+         }
+      ]
+   },
+   {
+      "Latitude":31.2001,
+      "Longitude":29.9187,
+      "NameInArabic":"الإسكندرية",
+      "NameInEnglish":"Alexandria",
+      "CitiesAndVillages":[
+         {
+            "Latitude":31.3114,
+            "Longitude":30.0603,
+            "NameInArabic":"أبو قير، الإسكندرية",
+            "NameInEnglish":"Abu Qir"
+         },
+         {
+            "Latitude":31.2051,
+            "Longitude":29.9054,
+            "NameInArabic":"الأزاريطة، الإسكندرية",
+            "NameInEnglish":"El Azarita"
+         },
+         {
+            "Latitude":31.2116,
+            "Longitude":29.9261,
+            "NameInArabic":"الإبراهيمية، الإسكندرية",
+            "NameInEnglish":"Al Ibrahimiyyah"
+         },
+         {
+            "Latitude":31.2529,
+            "Longitude":29.9773,
+            "NameInArabic":"الجمرك، الإسكندرية",
+            "NameInEnglish":"El Gomrok"
+         },
+         {
+            "Latitude":31.1975,
+            "Longitude":29.9286,
+            "NameInArabic":"الحضرة، الإسكندرية",
+            "NameInEnglish":"Al Hadrah"
+         },
+         {
+            "Latitude":31.1230,
+            "Longitude":29.8179,
+            "NameInArabic":"الدخيلة، الإسكندرية",
+            "NameInEnglish":"Ad Dakhilah"
+         },
+         {
+            "Latitude":31.2388,
+            "Longitude":29.9926,
+            "NameInArabic":"السيوف، الإسكندرية",
+            "NameInEnglish":"El Soyof"
+         },
+         {
+            "Latitude":30.63183,
+            "Longitude":31.93902,
+            "NameInArabic":"الصالحية، الإسكندرية",
+            "NameInEnglish":"Salehia"
+         },
+         {
+            "Latitude":31.22483425,
+            "Longitude":29.967981782361,
+            "NameInArabic":"الظاهرية، الإسكندرية",
+            "NameInEnglish":"Al Zaherya"
+         },
+         {
+            "Latitude":31.1042,
+            "Longitude":29.7663,
+            "NameInArabic":"العامرية، الإسكندرية",
+            "NameInEnglish":"Amreya"
+         },
+         {
+            "Latitude":31.2050,
+            "Longitude":29.9064,
+            "NameInArabic":"العصافرة، الإسكندرية",
+            "NameInEnglish":"Asafra"
+         },
+         {
+            "Latitude":31.1980,
+            "Longitude":29.9018,
+            "NameInArabic":"العطارين، الإسكندرية",
+            "NameInEnglish":"Al Attarin"
+         },
+         {
+            "Latitude":31.2186,
+            "Longitude":29.9939,
+            "NameInArabic":"العوايد، الإسكندرية",
+            "NameInEnglish":"awayed"
+         },
+         {
+            "Latitude":31.2007,
+            "Longitude":29.9304,
+            "NameInArabic":"القباري، الإسكندرية",
+            "NameInEnglish":"Kabbary"
+         },
+         {
+            "Latitude":31.1819,
+            "Longitude":29.9059,
+            "NameInArabic":"اللبان، الإسكندرية",
+            "NameInEnglish":"Labban"
+         },
+         {
+            "Latitude":31.2884,
+            "Longitude":30.0306,
+            "NameInArabic":"المعمورة، الإسكندرية",
+            "NameInEnglish":"Al Mamurah"
+         },
+         {
+            "Latitude":31.1447,
+            "Longitude":29.8472,
+            "NameInArabic":"المكس، الإسكندرية",
+            "NameInEnglish":"Al Max"
+         },
+         {
+            "Latitude":31.2885,
+            "Longitude":30.0160,
+            "NameInArabic":"المنتزه، الإسكندرية",
+            "NameInEnglish":"Montaza"
+         },
+         {
+            "Latitude":31.2748,
+            "Longitude":30.0062,
+            "NameInArabic":"المندرة، الإسكندرية",
+            "NameInEnglish":"El-Mandara"
+         },
+         {
+            "Latitude":31.1975,
+            "Longitude":29.8888,
+            "NameInArabic":"المنشية، الإسكندرية",
+            "NameInEnglish":"Mansheya"
+         },
+         {
+            "Latitude":31.13699,
+            "Longitude":29.82318,
+            "NameInArabic":"النخيل، الإسكندرية",
+            "NameInEnglish":"El-Nakheel"
+         },
+         {
+            "Latitude":31.1986,
+            "Longitude":31.1986,
+            "NameInArabic":"النزهة، الإسكندرية",
+            "NameInEnglish":"Nozha"
+         },
+         {
+            "Latitude":31.1665,
+            "Longitude":29.8688,
+            "NameInArabic":"الورديان، الإسكندرية",
+            "NameInEnglish":"Wardian"
+         },
+         {
+            "Latitude":31.2384,
+            "Longitude":29.9670,
+            "NameInArabic":"باكوس، الإسكندرية",
+            "NameInEnglish":"Bacos"
+         },
+         {
+            "Latitude":31.2049074,
+            "Longitude":29.8748668,
+            "NameInArabic":"بحرى والأنفوشى، الإسكندرية",
+            "NameInEnglish":"Al-Anfoushy"
+         },
+         {
+            "Latitude":30.9150,
+            "Longitude":29.5456,
+            "NameInArabic":"برج العرب، الإسكندرية",
+            "NameInEnglish":"Borg Al Arab"
+         },
+         {
+            "Latitude":31.2343,
+            "Longitude":29.9601,
+            "NameInArabic":"بولكلي، الإسكندرية",
+            "NameInEnglish":"Bolkly"
+         },
+         {
+            "Latitude":31.2396,
+            "Longitude":29.9603,
+            "NameInArabic":"جليم، الإسكندرية",
+            "NameInEnglish":"Glim"
+         },
+         {
+            "Latitude":31.2428,
+            "Longitude":29.9694,
+            "NameInArabic":"جناكليس، الإسكندرية",
+            "NameInEnglish":"Gianaclis"
+         },
+         {
+            "Latitude":31.1992,
+            "Longitude":29.8686,
+            "NameInArabic":"رأس التين، الإسكندرية",
+            "NameInEnglish":"Ras el-Tin"
+         },
+         {
+            "Latitude":31.2240,
+            "Longitude":29.9396,
+            "NameInArabic":"رشدي، الإسكندرية",
+            "NameInEnglish":"Roshdy"
+         },
+         {
+            "Latitude":31.2381,
+            "Longitude":29.9679,
+            "NameInArabic":"زيزينيا، الإسكندرية",
+            "NameInEnglish":"Zezenia"
+         },
+         {
+            "Latitude":31.235665,
+            "Longitude":29.957221,
+            "NameInArabic":"سابا باشا، الإسكندرية",
+            "NameInEnglish":"Saba Pasha"
+         },
+         {
+            "Latitude":31.2470,
+            "Longitude":29.9697,
+            "NameInArabic":"سان ستيفانو، الإسكندرية",
+            "NameInEnglish":"San Stefano"
+         },
+         {
+            "Latitude":31.2216,
+            "Longitude":29.9343,
+            "NameInArabic":"سبورتنج، الإسكندرية",
+            "NameInEnglish":"Sporting"
+         },
+         {
+            "Latitude":31.23435,
+            "Longitude":29.94974,
+            "NameInArabic":"ستانلي، الإسكندرية",
+            "NameInEnglish":"Stanley"
+         },
+         {
+            "Latitude":31.2155,
+            "Longitude":29.9420,
+            "NameInArabic":"سموحة، الإسكندرية",
+            "NameInEnglish":"Smouha"
+         },
+         {
+            "Latitude":31.252066,
+            "Longitude":29.994464,
+            "NameInArabic":"سيدي بشر، الإسكندرية",
+            "NameInEnglish":"Sidi Bishr"
+         },
+         {
+            "Latitude":31.2213,
+            "Longitude":29.9379,
+            "NameInArabic":"سيدي جابر، الإسكندرية",
+            "NameInEnglish":"Sidi Gabir"
+         },
+         {
+            "Latitude":31.2088,
+            "Longitude":29.9129,
+            "NameInArabic":"شاطبي، الإسكندرية",
+            "NameInEnglish":"Shatby"
+         },
+         {
+            "Latitude":31.240325,
+            "Longitude":29.972405,
+            "NameInArabic":"شدس، الإسكندرية",
+            "NameInEnglish":"Shods"
+         },
+         {
+            "Latitude":31.2725234823,
+            "Longitude":30.0085400417,
+            "NameInArabic":"طوسون، الإسكندرية",
+            "NameInEnglish":"Tosson"
+         },
+         {
+            "Latitude":31.0988,
+            "Longitude":29.7667,
+            "NameInArabic":"عجمي، الإسكندرية",
+            "NameInEnglish":"El-Agamy"
+         },
+         {
+            "Latitude":31.2290,
+            "Longitude":29.9609,
+            "NameInArabic":"فلمنج، الإسكندرية",
+            "NameInEnglish":"Flemig"
+         },
+         {
+            "Latitude":31.248617,
+            "Longitude":29.969745,
+            "NameInArabic":"فيكتوريا، الإسكندرية",
+            "NameInEnglish":"Victoria"
+         },
+         {
+            "Latitude":31.220289,
+            "Longitude":29.942107,
+            "NameInArabic":"كامب شيزار، الإسكندرية",
+            "NameInEnglish":"Camp Shezar"
+         },
+         {
+            "Latitude":31.177266,
+            "Longitude":29.896874,
+            "NameInArabic":"كرموز، الإسكندرية",
+            "NameInEnglish":"Karmoz"
+         },
+         {
+            "Latitude":31.224876,
+            "Longitude":29.954585,
+            "NameInArabic":"كفر عبدو، الإسكندرية",
+            "NameInEnglish":"afr Abdu"
+         },
+         {
+            "Latitude":31.2244,
+            "Longitude":29.9355,
+            "NameInArabic":"كليوباترا، الإسكندرية",
+            "NameInEnglish":"Cleopatra"
+         },
+         {
+            "Latitude":31.196687,
+            "Longitude":29.90564,
+            "NameInArabic":"كوم الدكة، الإسكندرية",
+            "NameInEnglish":"Kom El Deka"
+         },
+         {
+            "Latitude":31.0330597,
+            "Longitude":30.4673339,
+            "NameInArabic":"لوران، الإسكندرية",
+            "NameInEnglish":"Louran"
+         },
+         {
+            "Latitude":31.1840,
+            "Longitude":29.9365,
+            "NameInArabic":"محرّم بيك، الإسكندرية",
+            "NameInEnglish":"Moharam Bek"
+         },
+         {
+            "Latitude":31.201459,
+            "Longitude":29.901005,
+            "NameInArabic":"محطة الرمل، الإسكندرية",
+            "NameInEnglish":"Mahatet El Raml"
+         },
+         {
+            "Latitude":31.2681,
+            "Longitude":29.9898,
+            "NameInArabic":"ميامي، الإسكندرية",
+            "NameInEnglish":"Miami"
+         },
+         {
+            "Latitude":31.1880,
+            "Longitude":29.8862,
+            "NameInArabic":"مينا البصل، الإسكندرية",
+            "NameInEnglish":"Mina Al Basal"
+         }
+      ]
+   },
+   {
+      "Latitude":30.5965,
+      "Longitude":32.2715,
+      "NameInArabic":"الإسماعيلية",
+      "NameInEnglish":"Ismailia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.496352,
+            "Longitude":32.166182,
+            "NameInArabic":"أبوصوير، الإسماعيلية",
+            "NameInEnglish":"Abu Swear"
+         },
+         {
+            "Latitude":30.4644,
+            "Longitude":31.9473,
+            "NameInArabic":"التل الكبير، الإسماعيلية",
+            "NameInEnglish":"Tell El Kebir"
+         },
+         {
+            "Latitude":30.569398,
+            "Longitude":31.936177,
+            "NameInArabic":"القصاصين، الإسماعيلية",
+            "NameInEnglish":"Qassaseen"
+         },
+         {
+            "Latitude":30.861265,
+            "Longitude":32.343197,
+            "NameInArabic":"القنطرة شرق، الإسماعيلية",
+            "NameInEnglish":"Kantara East"
+         },
+         {
+            "Latitude":30.859202,
+            "Longitude":32.338991,
+            "NameInArabic":"القنطرة غرب، الإسماعيلية",
+            "NameInEnglish":"Kantara West"
+         },
+         {
+            "Latitude":30.295447,
+            "Longitude":32.314695,
+            "NameInArabic":"فايد، الإسماعيلية",
+            "NameInEnglish":"Fayed"
+         }
+      ]
+   },
+   {
+      "Latitude":20.2802,
+      "Longitude":38.5126,
+      "NameInArabic":"البحر الأحمر",
+      "NameInEnglish":"Red Sea",
+      "CitiesAndVillages":[
+         {
+            "Latitude":27.2579,
+            "Longitude":33.8116,
+            "NameInArabic":"الغردقة - أخرى، البحر الأحمر",
+            "NameInEnglish":"Hurghada"
+         },
+         {
+            "Latitude":27.4025,
+            "Longitude":33.6511,
+            "NameInArabic":"الغردقة - الجونة، البحر الأحمر",
+            "NameInEnglish":"El Gouna"
+         },
+         {
+            "Latitude":26.1014,
+            "Longitude":34.2803,
+            "NameInArabic":"القصير، البحر الأحمر",
+            "NameInEnglish":"Quseer"
+         },
+         {
+            "Latitude":28.3627,
+            "Longitude":33.0795,
+            "NameInArabic":"رأس غارب، البحر الأحمر",
+            "NameInEnglish":"Ras Ghareb"
+         },
+         {
+            "Latitude":26.7500,
+            "Longitude":33.9360,
+            "NameInArabic":"سفاجا، البحر الأحمر",
+            "NameInEnglish":"Safaga"
+         },
+         {
+            "Latitude":27.0370,
+            "Longitude":33.8523,
+            "NameInArabic":"سهل حشيش، البحر الأحمر",
+            "NameInEnglish":"Sahl Hasheesh"
+         },
+         {
+            "Latitude":23.1088,
+            "Longitude":35.5626,
+            "NameInArabic":"شلاتين، البحر الأحمر",
+            "NameInEnglish":"Shalateen"
+         },
+         {
+            "Latitude":25.0676,
+            "Longitude":34.8790,
+            "NameInArabic":"مرسى علم، البحر الأحمر",
+            "NameInEnglish":"Marsa Alam"
+         }
+      ]
+   },
+   {
+      "Latitude":30.8481,
+      "Longitude":30.3436,
+      "NameInArabic":"البحيرة",
+      "NameInEnglish":"El Beheira",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.9118,
+            "Longitude":30.1719,
+            "NameInArabic":"أبو المطامير، البحيرة",
+            "NameInEnglish":"Abu Al Matamir"
+         },
+         {
+            "Latitude":31.1008,
+            "Longitude":30.3159,
+            "NameInArabic":"أبو حمص، البحيرة",
+            "NameInEnglish":"Abu Hummus"
+         },
+         {
+            "Latitude":31.3040,
+            "Longitude":30.3065,
+            "NameInArabic":"إدكو، البحيرة",
+            "NameInEnglish":"Idku"
+         },
+         {
+            "Latitude":30.8272,
+            "Longitude":30.8272,
+            "NameInArabic":"الدلنجات، البحيرة",
+            "NameInEnglish":"Ad Dilinjat"
+         },
+         {
+            "Latitude":31.0952,
+            "Longitude":30.6315,
+            "NameInArabic":"الرحمانية، البحيرة",
+            "NameInEnglish":"AR Rahmaneyah"
+         },
+         {
+            "Latitude":31.1826,
+            "Longitude":30.5250,
+            "NameInArabic":"المحمودية، البحيرة",
+            "NameInEnglish":"El-Mahmoudeya"
+         },
+         {
+            "Latitude":30.7150,
+            "Longitude":30.7454,
+            "NameInArabic":"النوبارية الجديدة، البحيرة",
+            "NameInEnglish":"Nubaria Canal"
+         },
+         {
+            "Latitude":30.8860,
+            "Longitude":30.8860,
+            "NameInArabic":"ايتاي البارود، البحيرة",
+            "NameInEnglish":"Itay Al Barud"
+         },
+         {
+            "Latitude":30.5826,
+            "Longitude":30.5826,
+            "NameInArabic":"بدر، البحيرة",
+            "NameInEnglish":"Badr"
+         },
+         {
+            "Latitude":30.9138,
+            "Longitude":30.2947,
+            "NameInArabic":"حوش عيسى، البحيرة",
+            "NameInEnglish":"Housh Eissa"
+         },
+         {
+            "Latitude":31.0425,
+            "Longitude":30.4728,
+            "NameInArabic":"دمنهور، البحيرة",
+            "NameInEnglish":"Damanhour"
+         },
+         {
+            "Latitude":31.3940,
+            "Longitude":31.3940,
+            "NameInArabic":"رشيد، البحيرة",
+            "NameInEnglish":"Rasheed"
+         },
+         {
+            "Latitude":31.0283,
+            "Longitude":30.7130,
+            "NameInArabic":"شبراخيت، البحيرة",
+            "NameInEnglish":"Shubrakhit"
+         },
+         {
+            "Latitude":31.1340,
+            "Longitude":30.1336,
+            "NameInArabic":"كفر الدوار، البحيرة",
+            "NameInEnglish":"Kafr El-Dawar"
+         },
+         {
+            "Latitude":30.7634,
+            "Longitude":30.6968,
+            "NameInArabic":"كوم حمادة، البحيرة",
+            "NameInEnglish":"Kawm Hamadah"
+         },
+         {
+            "Latitude":30.4698,
+            "Longitude":30.2743,
+            "NameInArabic":"وادي النطرون، البحيرة",
+            "NameInEnglish":"Natrn Valley"
+         }
+      ]
+   },
+   {
+      "Latitude":31.3543,
+      "Longitude":27.2373,
+      "NameInArabic":"مرسي مطروح",
+      "NameInEnglish":"Marsa Matruh",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.8421,
+            "Longitude":29.3941,
+            "NameInArabic":"الحمام، مطروح",
+            "NameInEnglish":"El-Hamam"
+         },
+         {
+            "Latitude":31.333333,
+            "Longitude":27.216667,
+            "NameInArabic":"الساحل الشمالي، مطروح",
+            "NameInEnglish":"North-Coast"
+         },
+         {
+            "Latitude":31.5750,
+            "Longitude":25.1593,
+            "NameInArabic":"السلوم، مطروح",
+            "NameInEnglish":"El Salloum"
+         },
+         {
+            "Latitude":31.0275,
+            "Longitude":28.4429,
+            "NameInArabic":"الضبعة، مطروح",
+            "NameInEnglish":"El Dabaa"
+         },
+         {
+            "Latitude":30.8225,
+            "Longitude":28.9543,
+            "NameInArabic":"العلمين، مطروح",
+            "NameInEnglish":"El-Alamein"
+         },
+         {
+            "Latitude":31.4060,
+            "Longitude":26.5862,
+            "NameInArabic":"النجيلة، مطروح",
+            "NameInEnglish":"El Negaila"
+         },
+         {
+            "Latitude":31.6104,
+            "Longitude":25.9249,
+            "NameInArabic":"براني، مطروح",
+            "NameInEnglish":"Sidi Barrani"
+         },
+         {
+            "Latitude":29.2032,
+            "Longitude":25.5195,
+            "NameInArabic":"سيوة، مطروح",
+            "NameInEnglish":"Siwa Oasis"
+         },
+         {
+            "Latitude":30.8260,
+            "Longitude":28.9936,
+            "NameInArabic":"مارينا العلمين، مطروح",
+            "NameInEnglish":"Marina El-Alamein"
+         }
+      ]
+   },
+   {
+      "Latitude":30.0131,
+      "Longitude":31.2089,
+      "NameInArabic":"الجيزة",
+      "NameInEnglish":"Giza",
+      "CitiesAndVillages":[
+         {
+            "Latitude":29.9285,
+            "Longitude":30.9188,
+            "NameInArabic":"6 أكتوبر، الجيزة",
+            "NameInEnglish":"6th of October"
+         },
+         {
+            "Latitude":29.9773,
+            "Longitude":31.1325,
+            "NameInArabic":"أبو رواش، الجيزة",
+            "NameInEnglish":"Abu Rawash"
+         },
+         {
+            "Latitude":30.0544,
+            "Longitude":31.1854,
+            "NameInArabic":"أرض اللواء، الجيزة",
+            "NameInEnglish":"Ard El-Lewa"
+         },
+         {
+            "Latitude":30.1175,
+            "Longitude":31.1383,
+            "NameInArabic":"أوسيم، الجيزة",
+            "NameInEnglish":"Ausim"
+         },
+         {
+            "Latitude":30.0816,
+            "Longitude":31.1950,
+            "NameInArabic":"إمبابة، الجيزة",
+            "NameInEnglish":"Imbabah"
+         },
+         {
+            "Latitude":29.8504,
+            "Longitude":31.2767,
+            "NameInArabic":"البدرشين، الجيزة",
+            "NameInEnglish":"Badrshein"
+         },
+         {
+            "Latitude":30.0793,
+            "Longitude":31.1591,
+            "NameInArabic":"البراجيل، الجيزة",
+            "NameInEnglish":"El-Baragil"
+         },
+         {
+            "Latitude":29.9675,
+            "Longitude":31.1729,
+            "NameInArabic":"الحرانية، الجيزة",
+            "NameInEnglish":"El Haraneya"
+         },
+         {
+            "Latitude":29.8977,
+            "Longitude":31.2569,
+            "NameInArabic":"الحوامدية، الجيزة",
+            "NameInEnglish":"El-Hawamdeya"
+         },
+         {
+            "Latitude":30.0395,
+            "Longitude":31.2025,
+            "NameInArabic":"الدقى، الجيزة",
+            "NameInEnglish":"Ad Doqi"
+         },
+         {
+            "Latitude":29.9888933,
+            "Longitude":31.1297881,
+            "NameInArabic":"الرماية، الجيزة",
+            "NameInEnglish":"Al Remaya"
+         },
+         {
+            "Latitude":30.0492,
+            "Longitude":30.9762,
+            "NameInArabic":"الشيخ زايد، الجيزة",
+            "NameInEnglish":"Sheikh Zayed"
+         },
+         {
+            "Latitude":30.066111,
+            "Longitude":31.202778,
+            "NameInArabic":"الصحفيين، الجيزة",
+            "NameInEnglish":"sahafieen"
+         },
+         {
+            "Latitude":29.5750,
+            "Longitude":31.2816,
+            "NameInArabic":"الصف، الجيزة",
+            "NameInEnglish":"El-Saf"
+         },
+         {
+            "Latitude":30.0511,
+            "Longitude":31.2126,
+            "NameInArabic":"العجوزة، الجيزة",
+            "NameInEnglish":"Al Agouzah"
+         },
+         {
+            "Latitude":29.8769,
+            "Longitude":31.2569,
+            "NameInArabic":"العزيزية، الجيزة",
+            "NameInEnglish":"Al Azizeyah"
+         },
+         {
+            "Latitude":29.9971,
+            "Longitude":31.2060,
+            "NameInArabic":"العمرانية، الجيزة",
+            "NameInEnglish":"Omrania"
+         },
+         {
+            "Latitude":29.6235,
+            "Longitude":31.2598,
+            "NameInArabic":"العياط، الجيزة",
+            "NameInEnglish":"Al-Ayat"
+         },
+         {
+            "Latitude":29.997576,
+            "Longitude":31.215628,
+            "NameInArabic":"القرية الفرعونية، الجيزة",
+            "NameInEnglish":"pharaonic-village"
+         },
+         {
+            "Latitude":30.0729,
+            "Longitude":31.2138,
+            "NameInArabic":"الكيت كات، الجيزة",
+            "NameInEnglish":"Kit Kat"
+         },
+         {
+            "Latitude":30.1375,
+            "Longitude":31.0712,
+            "NameInArabic":"المنصورية، الجيزة",
+            "NameInEnglish":"Al Mansouria"
+         },
+         {
+            "Latitude":29.981055,
+            "Longitude":31.212333,
+            "NameInArabic":"المنيب، الجيزة",
+            "NameInEnglish":"El-Monib"
+         },
+         {
+            "Latitude":30.0480,
+            "Longitude":31.1997,
+            "NameInArabic":"المهندسين، الجيزة",
+            "NameInEnglish":"Mohandessin"
+         },
+         {
+            "Latitude":29.9773,
+            "Longitude":31.1325,
+            "NameInArabic":"الهرم، الجيزة",
+            "NameInEnglish":"El-Haram"
+         },
+         {
+            "Latitude":30.1147,
+            "Longitude":31.2226,
+            "NameInArabic":"الوراق، الجيزة",
+            "NameInEnglish":"El Warraq"
+         },
+         {
+            "Latitude":30.0856,
+            "Longitude":31.1820,
+            "NameInArabic":"بشتيل، الجيزة",
+            "NameInEnglish":"Bashtil"
+         },
+         {
+            "Latitude":30.3177,
+            "Longitude":30.8403,
+            "NameInArabic":"بني سلامة، الجيزة",
+            "NameInEnglish":"Bani Salamah"
+         },
+         {
+            "Latitude":30.0373,
+            "Longitude":31.1911,
+            "NameInArabic":"بولاق الدكرور، الجيزة",
+            "NameInEnglish":"Boulaq Ad Dakrour"
+         },
+         {
+            "Latitude":29.9648,
+            "Longitude":31.1997,
+            "NameInArabic":"ترسا، الجيزة",
+            "NameInEnglish":"Tersa"
+         },
+         {
+            "Latitude":29.982,
+            "Longitude":31.224,
+            "NameInArabic":"جزيرة الدهب، الجيزة",
+            "NameInEnglish":"Dahab Island"
+         },
+         {
+            "Latitude":29.965937,
+            "Longitude":31.097488,
+            "NameInArabic":"حدائق الاهرام، الجيزة",
+            "NameInEnglish":"Pyramids Gardens"
+         },
+         {
+            "Latitude":29.7971,
+            "Longitude":31.2433,
+            "NameInArabic":"دهشور، الجيزة",
+            "NameInEnglish":"Dahshur"
+         },
+         {
+            "Latitude":29.9965,
+            "Longitude":31.2126,
+            "NameInArabic":"ساقية مكى، الجيزة",
+            "NameInEnglish":"Saqiyet Mekki"
+         },
+         {
+            "Latitude":29.8685,
+            "Longitude":31.2168,
+            "NameInArabic":"سقارة، الجيزة",
+            "NameInEnglish":"Saqqara"
+         },
+         {
+            "Latitude":30.0258,
+            "Longitude":31.1653,
+            "NameInArabic":"صفط، الجيزة",
+            "NameInEnglish":"Saft Al Laban"
+         },
+         {
+            "Latitude":29.984893,
+            "Longitude":30.960609,
+            "NameInArabic":"غرب سوميد، الجيزة",
+            "NameInEnglish":"West Somid"
+         },
+         {
+            "Latitude":30.017437,
+            "Longitude":31.203758,
+            "NameInArabic":"فيصل، الجيزة",
+            "NameInEnglish":"Faisal"
+         },
+         {
+            "Latitude":30.0309,
+            "Longitude":31.1112,
+            "NameInArabic":"كرداسة، الجيزة",
+            "NameInEnglish":"Kirdasah"
+         },
+         {
+            "Latitude":30.0152,
+            "Longitude":31.1811,
+            "NameInArabic":"كفر طهرمس، الجيزة",
+            "NameInEnglish":"Kafr Tohormos"
+         },
+         {
+            "Latitude":29.6262638,
+            "Longitude":31.2258766,
+            "NameInArabic":"مريوطية، الجيزة",
+            "NameInEnglish":"Al Maryotaya"
+         },
+         {
+            "Latitude":30.0608,
+            "Longitude":31.1954,
+            "NameInArabic":"ميت عقبة، الجيزة",
+            "NameInEnglish":"Mit Akaba"
+         },
+         {
+            "Latitude":30.0489,
+            "Longitude":31.1367,
+            "NameInArabic":"ناهيا، الجيزة",
+            "NameInEnglish":"Nahia"
+         },
+         {
+            "Latitude":30.3187,
+            "Longitude":30.9065,
+            "NameInArabic":"وردان، الجيزة",
+            "NameInEnglish":"Wardan"
+         }
+      ]
+   },
+   {
+      "Latitude":31.1656,
+      "Longitude":31.4913,
+      "NameInArabic":"الدقهلية",
+      "NameInEnglish":"Dakahlia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.9421,
+            "Longitude":31.2924,
+            "NameInArabic":"أجا، الدقهلية",
+            "NameInEnglish":"Aga"
+         },
+         {
+            "Latitude":30.8414,
+            "Longitude":31.3142,
+            "NameInArabic":"أخطاب، الدقهلية",
+            "NameInEnglish":"Ikhtab"
+         },
+         {
+            "Latitude":31.1768,
+            "Longitude":31.8639,
+            "NameInArabic":"الجمالية، الدقهلية",
+            "NameInEnglish":"Al Jamaliyah"
+         },
+         {
+            "Latitude":30.8829,
+            "Longitude":31.4599,
+            "NameInArabic":"السنبلاوين، الدقهلية",
+            "NameInEnglish":"El-Senbellawein"
+         },
+         {
+            "Latitude":31.183333,
+            "Longitude":32.033333,
+            "NameInArabic":"المطرية، الدقهلية",
+            "NameInEnglish":"El Matareya"
+         },
+         {
+            "Latitude":31.1195,
+            "Longitude":31.9416,
+            "NameInArabic":"المنزلة، الدقهلية",
+            "NameInEnglish":"Al Manzalah"
+         },
+         {
+            "Latitude":31.0409,
+            "Longitude":31.3785,
+            "NameInArabic":"المنصورة، الدقهلية",
+            "NameInEnglish":"Mansoura"
+         },
+         {
+            "Latitude":31.2164,
+            "Longitude":31.3605,
+            "NameInArabic":"بلقاس، الدقهلية",
+            "NameInEnglish":"Belkas"
+         },
+         {
+            "Latitude":31.0192,
+            "Longitude":31.6511,
+            "NameInArabic":"بني عبيد، الدقهلية",
+            "NameInEnglish":"Beni Ebeid"
+         },
+         {
+            "Latitude":30.94384,
+            "Longitude":31.52926,
+            "NameInArabic":"تمى الامديد، الدقهلية",
+            "NameInEnglish":"Temay El Amdeed"
+         },
+         {
+            "Latitude":31.4412,
+            "Longitude":31.5364,
+            "NameInArabic":"جمصه، الدقهلية",
+            "NameInEnglish":"Gamasa"
+         },
+         {
+            "Latitude":31.0857,
+            "Longitude":31.5888,
+            "NameInArabic":"دكرنس، الدقهلية",
+            "NameInEnglish":"dikirnis"
+         },
+         {
+            "Latitude":31.0857,
+            "Longitude":31.5888,
+            "NameInArabic":"شربين، الدقهلية",
+            "NameInEnglish":"Dikirnis"
+         },
+         {
+            "Latitude":31.0549,
+            "Longitude":31.3802,
+            "NameInArabic":"طلخا، الدقهلية",
+            "NameInEnglish":"talkha"
+         },
+         {
+            "Latitude":31.1714,
+            "Longitude":31.6967,
+            "NameInArabic":"منية النصر، الدقهلية",
+            "NameInEnglish":"Menyet El Nasr"
+         },
+         {
+            "Latitude":31.164994,
+            "Longitude":31.797021,
+            "NameInArabic":"ميت سلسيل، الدقهلية",
+            "NameInEnglish":"Mit Salsil"
+         },
+         {
+            "Latitude":30.708340,
+            "Longitude":31.261998,
+            "NameInArabic":"ميت غمر، الدقهلية",
+            "NameInEnglish":"Mit Ghamr"
+         },
+         {
+            "Latitude":31.103699,
+            "Longitude":31.300904,
+            "NameInArabic":"نبروه، الدقهلية",
+            "NameInEnglish":"Nabaruh"
+         }
+      ]
+   },
+   {
+      "Latitude":29.9668,
+      "Longitude":32.5498,
+      "NameInArabic":"السويس",
+      "NameInEnglish":"Suez",
+      "CitiesAndVillages":[
+         {
+            "Latitude":29.6725,
+            "Longitude":32.3370,
+            "NameInArabic":"العين السخنة، السويس",
+            "NameInEnglish":"Ain Sokhna"
+         },
+         {
+            "Latitude":30.091361,
+            "Longitude":32.644646,
+            "NameInArabic":"حى الجناين، السويس",
+            "NameInEnglish":"Al Ganayen"
+         },
+         {
+            "Latitude":29.984376,
+            "Longitude":32.537502,
+            "NameInArabic":"حي الأربعين، السويس",
+            "NameInEnglish":"Arbaeen"
+         },
+         {
+            "Latitude":29.447257,
+            "Longitude":32.400830,
+            "NameInArabic":"حي عتاقة، السويس",
+            "NameInEnglish":"Attaka"
+         },
+         {
+            "Latitude":30.119330,
+            "Longitude":32.147295,
+            "NameInArabic":"فيصل، السويس",
+            "NameInEnglish":"Faisal Suez"
+         }
+      ]
+   },
+   {
+      "Latitude":30.7327,
+      "Longitude":31.7195,
+      "NameInArabic":"الشرقية",
+      "NameInEnglish":"Ash Sharqia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.5442,
+            "Longitude":31.6799,
+            "NameInArabic":"أبو حماد، الشرقية",
+            "NameInEnglish":"Abou Hammad"
+         },
+         {
+            "Latitude":30.7209,
+            "Longitude":31.6716,
+            "NameInArabic":"أبو كبير، الشرقية",
+            "NameInEnglish":"Abu Kibir"
+         },
+         {
+            "Latitude":30.9319,
+            "Longitude":31.6983,
+            "NameInArabic":"أولاد صقر، الشرقية",
+            "NameInEnglish":"Awlad Saqr"
+         },
+         {
+            "Latitude":30.7200,
+            "Longitude":31.5650,
+            "NameInArabic":"الإبراهيمية، الشرقية",
+            "NameInEnglish":"El Ibrahimiya"
+         },
+         {
+            "Latitude":30.8611,
+            "Longitude":31.9198,
+            "NameInArabic":"الحسينية، الشرقية",
+            "NameInEnglish":"El Husseiniya"
+         },
+         {
+            "Latitude":30.5765,
+            "Longitude":31.5041,
+            "NameInArabic":"الزقازيق، الشرقية",
+            "NameInEnglish":"Zagazig"
+         },
+         {
+            "Latitude":30.6361,
+            "Longitude":31.9416,
+            "NameInArabic":"الصالحية الجديدة، الشرقية",
+            "NameInEnglish":"New Salhia"
+         },
+         {
+            "Latitude":30.2927,
+            "Longitude":31.7423,
+            "NameInArabic":"العاشر من رمضان، الشرقية",
+            "NameInEnglish":"10th of Ramadan"
+         },
+         {
+            "Latitude":30.6115,
+            "Longitude":30.6115,
+            "NameInArabic":"القرين، الشرقية",
+            "NameInEnglish":"Al Qorin"
+         },
+         {
+            "Latitude":30.6151,
+            "Longitude":31.4596,
+            "NameInArabic":"القنايات، الشرقية",
+            "NameInEnglish":"Alqnayat"
+         },
+         {
+            "Latitude":30.4196,
+            "Longitude":31.5619,
+            "NameInArabic":"بلبيس، الشرقية",
+            "NameInEnglish":"Belbes"
+         },
+         {
+            "Latitude":30.7532,
+            "Longitude":31.4428,
+            "NameInArabic":"ديرب نجم، الشرقية",
+            "NameInEnglish":"Dyarb Negm"
+         },
+         {
+            "Latitude":30.7293,
+            "Longitude":30.7293,
+            "NameInArabic":"فاقوس، الشرقية",
+            "NameInEnglish":"Faqus"
+         },
+         {
+            "Latitude":30.7926,
+            "Longitude":31.6235,
+            "NameInArabic":"كفر صقر، الشرقية",
+            "NameInEnglish":"Kafr Saqr"
+         },
+         {
+            "Latitude":30.3585,
+            "Longitude":31.3803,
+            "NameInArabic":"مشتول السوق، الشرقية",
+            "NameInEnglish":"Mashtul as Suq"
+         },
+         {
+            "Latitude":30.5131,
+            "Longitude":31.3460,
+            "NameInArabic":"منيا القمح، الشرقية",
+            "NameInEnglish":"Minya Al Qamh"
+         },
+         {
+            "Latitude":30.6719,
+            "Longitude":31.5914,
+            "NameInArabic":"ههيا، الشرقية",
+            "NameInEnglish":"Hihya"
+         }
+      ]
+   },
+   {
+      "Latitude":30.8754,
+      "Longitude":31.0335,
+      "NameInArabic":"الغربية",
+      "NameInEnglish":"Gharbia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.7536,
+            "Longitude":31.1023,
+            "NameInArabic":"السنطة، الغربية",
+            "NameInEnglish":"El Santa"
+         },
+         {
+            "Latitude":30.9697,
+            "Longitude":31.1681,
+            "NameInArabic":"المحلة الكبرى، الغربية",
+            "NameInEnglish":"El-Mahalla El-Kubra"
+         },
+         {
+            "Latitude":30.9399,
+            "Longitude":30.8176,
+            "NameInArabic":"بسيون، الغربية",
+            "NameInEnglish":"Basioun"
+         },
+         {
+            "Latitude":30.7127,
+            "Longitude":31.2400,
+            "NameInArabic":"زفتى، الغربية",
+            "NameInEnglish":"Zifta"
+         },
+         {
+            "Latitude":30.9606,
+            "Longitude":31.2438,
+            "NameInArabic":"سمنود، الغربية",
+            "NameInEnglish":"Samanoud"
+         },
+         {
+            "Latitude":30.7865,
+            "Longitude":31.0004,
+            "NameInArabic":"طنطا، الغربية",
+            "NameInEnglish":"Tanta"
+         },
+         {
+            "Latitude":30.9697,
+            "Longitude":30.9572,
+            "NameInArabic":"قطور، الغربية",
+            "NameInEnglish":"Qutur"
+         },
+         {
+            "Latitude":30.8285,
+            "Longitude":30.8138,
+            "NameInArabic":"كفر الزيات، الغربية",
+            "NameInEnglish":"kafr-al-zayat"
+         }
+      ]
+   },
+   {
+      "Latitude":29.3565,
+      "Longitude":30.6200,
+      "NameInArabic":"الفيوم",
+      "NameInEnglish":"Faiyum",
+      "CitiesAndVillages":[
+         {
+            "Latitude":29.2379,
+            "Longitude":30.7913,
+            "NameInArabic":"أطسا، الفيوم",
+            "NameInEnglish":"ITSA"
+         },
+         {
+            "Latitude":29.3523,
+            "Longitude":30.6693,
+            "NameInArabic":"إبشواي، الفيوم",
+            "NameInEnglish":"Ibshway"
+         },
+         {
+            "Latitude":29.2312,
+            "Longitude":30.9028,
+            "NameInArabic":"الفيوم الجديدة، الفيوم",
+            "NameInEnglish":"New fayoum"
+         },
+         {
+            "Latitude":30.866667,
+            "Longitude":29.407222,
+            "NameInArabic":"سنورس، الفيوم",
+            "NameInEnglish":"Sinnuras"
+         },
+         {
+            "Latitude":29.4765,
+            "Longitude":30.9596,
+            "NameInArabic":"طامية، الفيوم",
+            "NameInEnglish":"Tamiyyah"
+         },
+         {
+            "Latitude":29.3619184,
+            "Longitude":30.4447615,
+            "NameInArabic":"يوسف الصديق، الفيوم",
+            "NameInEnglish":"Yousef El Seddik"
+         }
+      ]
+   },
+   {
+      "Latitude":30.3292,
+      "Longitude":31.2168,
+      "NameInArabic":"القليوبية",
+      "NameInEnglish":"Al Qalyubia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.2201,
+            "Longitude":31.3689,
+            "NameInArabic":"الخانكة، القليوبية",
+            "NameInEnglish":"Al Khankah"
+         },
+         {
+            "Latitude":30.1616,
+            "Longitude":31.3112,
+            "NameInArabic":"الخصوص، القليوبية",
+            "NameInEnglish":"Al Khosous"
+         },
+         {
+            "Latitude":30.2283,
+            "Longitude":31.4799,
+            "NameInArabic":"العبور، القليوبية",
+            "NameInEnglish":"El Obour"
+         },
+         {
+            "Latitude":30.193583,
+            "Longitude":31.132064,
+            "NameInArabic":"القناطر الخيرية، القليوبية",
+            "NameInEnglish":"El Qanater El Khayreya"
+         },
+         {
+            "Latitude":30.4660,
+            "Longitude":31.1848,
+            "NameInArabic":"بنها، القليوبية",
+            "NameInEnglish":"Banha"
+         },
+         {
+            "Latitude":30.1367,
+            "Longitude":31.2745,
+            "NameInArabic":"بهتيم، القليوبية",
+            "NameInEnglish":"Bahtim"
+         },
+         {
+            "Latitude":30.1782,
+            "Longitude":31.2941,
+            "NameInArabic":"زاويه النجار، القليوبية",
+            "NameInEnglish":"Zawya El-Naggar"
+         },
+         {
+            "Latitude":30.1234,
+            "Longitude":31.2609,
+            "NameInArabic":"شبرا الخيمة، القليوبية",
+            "NameInEnglish":"Shubra Al Khaymah"
+         },
+         {
+            "Latitude":30.2977,
+            "Longitude":31.2970,
+            "NameInArabic":"شبين القناطر، القليوبية",
+            "NameInEnglish":"Shibin el-Qanater"
+         },
+         {
+            "Latitude":30.3534,
+            "Longitude":31.2018,
+            "NameInArabic":"طوخ، القليوبية",
+            "NameInEnglish":"Toukh"
+         },
+         {
+            "Latitude":30.1798,
+            "Longitude":31.2068,
+            "NameInArabic":"قليوب، القليوبية",
+            "NameInEnglish":"Qalyub"
+         },
+         {
+            "Latitude":30.2826,
+            "Longitude":31.2086,
+            "NameInArabic":"قها، القليوبية",
+            "NameInEnglish":"Qaha"
+         },
+         {
+            "Latitude":30.5490,
+            "Longitude":31.2655,
+            "NameInArabic":"كفر شكر، القليوبية",
+            "NameInEnglish":"Kafr Shukr"
+         }
+      ]
+   },
+   {
+      "Latitude":30.5972,
+      "Longitude":30.9876,
+      "NameInArabic":"المنوفية",
+      "NameInEnglish":"Menofia",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.2944,
+            "Longitude":31.0335,
+            "NameInArabic":"أشمون، المنوفية",
+            "NameInEnglish":"Ashmoun"
+         },
+         {
+            "Latitude":30.4301,
+            "Longitude":31.0364,
+            "NameInArabic":"الباجور، المنوفية",
+            "NameInEnglish":"El-Bagour"
+         },
+         {
+            "Latitude":30.3594,
+            "Longitude":30.5327,
+            "NameInArabic":"السادات، المنوفية",
+            "NameInEnglish":"El Sadat"
+         },
+         {
+            "Latitude":30.5921,
+            "Longitude":30.9008,
+            "NameInArabic":"الشهداء، المنوفية",
+            "NameInEnglish":"Shuhada"
+         },
+         {
+            "Latitude":31.084785,
+            "Longitude":30.63385,
+            "NameInArabic":"بركة السبع، المنوفية",
+            "NameInEnglish":"Berket El-Sabaa"
+         },
+         {
+            "Latitude":30.6792,
+            "Longitude":30.9419,
+            "NameInArabic":"تلا، المنوفية",
+            "NameInEnglish":"Tala"
+         },
+         {
+            "Latitude":30.969167,
+            "Longitude":30.442222,
+            "NameInArabic":"سرس الليان، المنوفية",
+            "NameInEnglish":"Sers Al-Lyan"
+         },
+         {
+            "Latitude":30.5503,
+            "Longitude":31.0106,
+            "NameInArabic":"شبين الكوم، المنوفية",
+            "NameInEnglish":"Shebeen El-Kom"
+         },
+         {
+            "Latitude":30.5625,
+            "Longitude":31.1599,
+            "NameInArabic":"قويسنا، المنوفية",
+            "NameInEnglish":"Quwaysna"
+         },
+         {
+            "Latitude":30.4641,
+            "Longitude":30.9358,
+            "NameInArabic":"منوف، المنوفية",
+            "NameInEnglish":"Minuf"
+         },
+         {
+            "Latitude":30.5254,
+            "Longitude":31.0945,
+            "NameInArabic":"ميت العز، المنوفية",
+            "NameInEnglish":"Mit El-Ezz"
+         }
+      ]
+   },
+   {
+      "Latitude":28.0871,
+      "Longitude":30.7618,
+      "NameInArabic":"المنيا",
+      "NameInEnglish":"Minya",
+      "CitiesAndVillages":[
+         {
+            "Latitude":27.9305,
+            "Longitude":30.8385,
+            "NameInArabic":"أبو قرقاص، المنيا",
+            "NameInEnglish":"Abu Qurqas"
+         },
+         {
+            "Latitude":28.7182,
+            "Longitude":30.7350,
+            "NameInArabic":"العدوة، المنيا",
+            "NameInEnglish":"El Idwa"
+         },
+         {
+            "Latitude":28.0976,
+            "Longitude":30.8154,
+            "NameInArabic":"المنيا الجديدة، المنيا",
+            "NameInEnglish":"New Minya"
+         },
+         {
+            "Latitude":28.4917,
+            "Longitude":30.8026,
+            "NameInArabic":"بني مزار، المنيا",
+            "NameInEnglish":"Bani Mazar"
+         },
+         {
+            "Latitude":27.6403,
+            "Longitude":30.8517,
+            "NameInArabic":"دير مواس، المنيا",
+            "NameInEnglish":"Dayr Mawas"
+         },
+         {
+            "Latitude":28.3140,
+            "Longitude":30.7101,
+            "NameInArabic":"سمالوط، المنيا",
+            "NameInEnglish":"Samalut"
+         },
+         {
+            "Latitude":28.4173,
+            "Longitude":30.7818,
+            "NameInArabic":"مطاي، المنيا",
+            "NameInEnglish":"Matay"
+         },
+         {
+            "Latitude":28.6485,
+            "Longitude":30.8375,
+            "NameInArabic":"مغاغة، المنيا",
+            "NameInEnglish":"Maghagha"
+         },
+         {
+            "Latitude":27.7359,
+            "Longitude":30.8448,
+            "NameInArabic":"ملوي، المنيا",
+            "NameInEnglish":"Mallawi"
+         }
+      ]
+   },
+   {
+      "Latitude":24.5456,
+      "Longitude":27.1735,
+      "NameInArabic":"الوادي الجديد",
+      "NameInEnglish":"New Valley",
+      "CitiesAndVillages":[
+         {
+            "Latitude":25.4390,
+            "Longitude":30.5586,
+            "NameInArabic":"الخارجة، الوادي الجديد",
+            "NameInEnglish":"Kharga"
+         },
+         {
+            "Latitude":25.5444,
+            "Longitude":28.9288,
+            "NameInArabic":"الداخلة، الوادي الجديد",
+            "NameInEnglish":"Dakhla"
+         },
+         {
+            "Latitude":27.0567,
+            "Longitude":27.9703,
+            "NameInArabic":"الفرافرة، الوادي الجديد",
+            "NameInEnglish":"Farafra"
+         },
+         {
+            "Latitude":25.5625,
+            "Longitude":29.2644,
+            "NameInArabic":"بلاط، الوادي الجديد",
+            "NameInEnglish":"Balat"
+         },
+         {
+            "Latitude":25.4950,
+            "Longitude":28.9795,
+            "NameInArabic":"مدينة موط، الوادي الجديد",
+            "NameInEnglish":"Mut"
+         }
+      ]
+   },
+   {
+      "Latitude":29.0661,
+      "Longitude":31.0994,
+      "NameInArabic":"بني سويف",
+      "NameInEnglish":"Beni Suef",
+      "CitiesAndVillages":[
+         {
+            "Latitude":29.0934,
+            "Longitude":31.0206,
+            "NameInArabic":"إهناسيا، بني سويف",
+            "NameInEnglish":"Ihnasiyah"
+         },
+         {
+            "Latitude":28.8234,
+            "Longitude":30.8988,
+            "NameInArabic":"الفشن، بني سويف",
+            "NameInEnglish":"Al Fashn"
+         },
+         {
+            "Latitude":29.3480,
+            "Longitude":31.2101,
+            "NameInArabic":"الواسطى، بني سويف",
+            "NameInEnglish":"El Wasta"
+         },
+         {
+            "Latitude":28.9216,
+            "Longitude":30.9807,
+            "NameInArabic":"ببا، بني سويف",
+            "NameInEnglish":"Biba"
+         },
+         {
+            "Latitude":28.9914,
+            "Longitude":31.1481,
+            "NameInArabic":"بني سويف الجديدة، بني سويف",
+            "NameInEnglish":"New Beni Suef"
+         },
+         {
+            "Latitude":28.9187,
+            "Longitude":30.8154,
+            "NameInArabic":"سمسطا، بني سويف",
+            "NameInEnglish":"Sumusta"
+         },
+         {
+            "Latitude":29.1493,
+            "Longitude":31.1294,
+            "NameInArabic":"ناصر، بني سويف",
+            "NameInEnglish":"Naser"
+         }
+      ]
+   },
+   {
+      "Latitude":31.2653,
+      "Longitude":32.3019,
+      "NameInArabic":"بورسعيد",
+      "NameInEnglish":"port-Said",
+      "CitiesAndVillages":[
+         {
+            "Latitude":31.253947,
+            "Longitude":32.274525,
+            "NameInArabic":"حي الجنوب، بورسعيد",
+            "NameInEnglish":"Gharb District"
+         },
+         {
+            "Latitude":31.2626,
+            "Longitude":32.2586,
+            "NameInArabic":"حي الزهور، بورسعيد",
+            "NameInEnglish":"Al-Zohour District"
+         },
+         {
+            "Latitude":31.2575,
+            "Longitude":32.3022,
+            "NameInArabic":"حي الشرق، بورسعيد",
+            "NameInEnglish":"Al-Sharq District"
+         },
+         {
+            "Latitude":31.2522,
+            "Longitude":32.2818,
+            "NameInArabic":"حي الضواحي، بورسعيد",
+            "NameInEnglish":"Al-Dawahy District"
+         },
+         {
+            "Latitude":31.2448,
+            "Longitude":32.2694,
+            "NameInArabic":"حي العرب، بورسعيد",
+            "NameInEnglish":"Al-Arab District"
+         },
+         {
+            "Latitude":31.2674,
+            "Longitude":32.2852,
+            "NameInArabic":"حي المناخ، بورسعيد",
+            "NameInEnglish":"Al-Manakh District"
+         },
+         {
+            "Latitude":31.2488,
+            "Longitude":32.3170,
+            "NameInArabic":"مدينة بورفؤاد، بورسعيد",
+            "NameInEnglish":"Port Fuad"
+         }
+      ]
+   },
+   {
+      "Latitude":29.3102,
+      "Longitude":34.1532,
+      "NameInArabic":"جنوب سيناء",
+      "NameInEnglish":"South Sinai",
+      "CitiesAndVillages":[
+         {
+            "Latitude":28.8907,
+            "Longitude":33.1887,
+            "NameInArabic":"أبو رديس، جنوب سيناء",
+            "NameInEnglish":"Abu Rudeis"
+         },
+         {
+            "Latitude":29.0474,
+            "Longitude":33.1063,
+            "NameInArabic":"أبو زنيمة، جنوب سيناء",
+            "NameInEnglish":"Abu Zenima"
+         },
+         {
+            "Latitude":28.5091,
+            "Longitude":34.5136,
+            "NameInArabic":"دهب، جنوب سيناء",
+            "NameInEnglish":"Dahab"
+         },
+         {
+            "Latitude":29.5933,
+            "Longitude":32.7178,
+            "NameInArabic":"رأس سدر، جنوب سيناء",
+            "NameInEnglish":"Ras Sedr"
+         },
+         {
+            "Latitude":28.5609,
+            "Longitude":33.9480,
+            "NameInArabic":"سانت كاترين، جنوب سيناء",
+            "NameInEnglish":"Saint Catherine"
+         },
+         {
+            "Latitude":27.9654,
+            "Longitude":34.3618,
+            "NameInArabic":"شرم الشيخ، جنوب سيناء",
+            "NameInEnglish":"Sharm El-Sheikh"
+         },
+         {
+            "Latitude":29.4925,
+            "Longitude":34.8969,
+            "NameInArabic":"طابا، جنوب سيناء",
+            "NameInEnglish":"Taba"
+         },
+         {
+            "Latitude":28.2410,
+            "Longitude":33.6230,
+            "NameInArabic":"طور سيناء، جنوب سيناء",
+            "NameInEnglish":"El Tor"
+         },
+         {
+            "Latitude":28.9734,
+            "Longitude":34.6534,
+            "NameInArabic":"نويبع، جنوب سيناء",
+            "NameInEnglish":"Nuweibaa"
+         }
+      ]
+   },
+   {
+      "Latitude":31.4175,
+      "Longitude":31.8144,
+      "NameInArabic":"دمياط",
+      "NameInEnglish":"Damietta",
+      "CitiesAndVillages":[
+         {
+            "Latitude":31.322612,
+            "Longitude":31.758833,
+            "NameInArabic":"الروضة، دمياط",
+            "NameInEnglish":"El-Rawda"
+         },
+         {
+            "Latitude":31.2088,
+            "Longitude":31.6358,
+            "NameInArabic":"الزرقا، دمياط",
+            "NameInEnglish":"AZ Zarqa"
+         },
+         {
+            "Latitude":31.23867,
+            "Longitude":31.65379,
+            "NameInArabic":"السرو، دمياط",
+            "NameInEnglish":"Assarw"
+         },
+         {
+            "Latitude":31.5043,
+            "Longitude":31.8282,
+            "NameInArabic":"رأس البر، دمياط",
+            "NameInEnglish":"Ras El-Bar"
+         },
+         {
+            "Latitude":31.5039,
+            "Longitude":31.8385,
+            "NameInArabic":"عزبة البرج، دمياط",
+            "NameInEnglish":"Izbat Al Burj"
+         },
+         {
+            "Latitude":31.2956,
+            "Longitude":31.7309,
+            "NameInArabic":"فارسكور، دمياط",
+            "NameInEnglish":"Fareskour"
+         },
+         {
+            "Latitude":31.4008,
+            "Longitude":31.7299,
+            "NameInArabic":"كفر البطيخ، دمياط",
+            "NameInEnglish":"Kafr Al Battikh"
+         },
+         {
+            "Latitude":31.3540,
+            "Longitude":31.6841,
+            "NameInArabic":"كفر سعد، دمياط",
+            "NameInEnglish":"Kafr Saad"
+         },
+         {
+            "Latitude":31.2884,
+            "Longitude":31.6772,
+            "NameInArabic":"ميت أبوغالب، دمياط",
+            "NameInEnglish":"Mit Abu Ghaleb"
+         }
+      ]
+   },
+   {
+      "Latitude":26.5591,
+      "Longitude":31.6957,
+      "NameInArabic":"سوهاج",
+      "NameInEnglish":"Sohag",
+      "CitiesAndVillages":[
+         {
+            "Latitude":26.5626,
+            "Longitude":31.7449,
+            "NameInArabic":"أخميم، سوهاج",
+            "NameInEnglish":"Akhmim"
+         },
+         {
+            "Latitude":26.2354,
+            "Longitude":32.0030,
+            "NameInArabic":"البلينا، سوهاج",
+            "NameInEnglish":"Al Balyana"
+         },
+         {
+            "Latitude":26.3937,
+            "Longitude":31.8218,
+            "NameInArabic":"العسيرات، سوهاج",
+            "NameInEnglish":"El-Usayrat"
+         },
+         {
+            "Latitude":26.6985,
+            "Longitude":31.6020,
+            "NameInArabic":"المراغة، سوهاج",
+            "NameInEnglish":"El Maragha"
+         },
+         {
+            "Latitude":26.4790,
+            "Longitude":31.8022,
+            "NameInArabic":"المنشاة، سوهاج",
+            "NameInEnglish":"Al Minshah"
+         },
+         {
+            "Latitude":26.3419,
+            "Longitude":31.8876,
+            "NameInArabic":"جرجا، سوهاج",
+            "NameInEnglish":"Girga"
+         },
+         {
+            "Latitude":26.6794,
+            "Longitude":31.4905,
+            "NameInArabic":"جهينة، سوهاج",
+            "NameInEnglish":"Juhaynah"
+         },
+         {
+            "Latitude":26.2737,
+            "Longitude":32.0667,
+            "NameInArabic":"دارالسلام، سوهاج",
+            "NameInEnglish":"Dar El-Salam"
+         },
+         {
+            "Latitude":26.664926,
+            "Longitude":31.671143,
+            "NameInArabic":"ساقلتة، سوهاج",
+            "NameInEnglish":"Saqultah"
+         },
+         {
+            "Latitude":26.8896,
+            "Longitude":31.4428,
+            "NameInArabic":"طما، سوهاج",
+            "NameInEnglish":"Tama"
+         },
+         {
+            "Latitude":26.7640,
+            "Longitude":31.4982,
+            "NameInArabic":"طهطا، سوهاج",
+            "NameInEnglish":"Tahta"
+         }
+      ]
+   },
+   {
+      "Latitude":30.2824,
+      "Longitude":33.6176,
+      "NameInArabic":"شمال سيناء",
+      "NameInEnglish":"North Sinai",
+      "CitiesAndVillages":[
+         {
+            "Latitude":30.4585,
+            "Longitude":33.7755,
+            "NameInArabic":"الحسنة، شمال سيناء",
+            "NameInEnglish":"Hasna"
+         },
+         {
+            "Latitude":31.211944,
+            "Longitude":34.110556,
+            "NameInArabic":"الشيخ زويد، شمال سيناء",
+            "NameInEnglish":"Sheikh Zuweid"
+         },
+         {
+            "Latitude":31.1321,
+            "Longitude":33.8033,
+            "NameInArabic":"العريش، شمال سيناء",
+            "NameInEnglish":"Arish"
+         },
+         {
+            "Latitude":31.018056,
+            "Longitude":33.011111,
+            "NameInArabic":"بئر العبد، شمال سيناء",
+            "NameInEnglish":"Bir al-Abd"
+         },
+         {
+            "Latitude":31.2803,
+            "Longitude":34.2402,
+            "NameInArabic":"رفح، شمال سيناء",
+            "NameInEnglish":"Rafah"
+         },
+         {
+            "Latitude":29.9093,
+            "Longitude":33.7448,
+            "NameInArabic":"نخل، شمال سيناء",
+            "NameInEnglish":"Nekhel"
+         }
+      ]
+   },
+   {
+      "Latitude":26.1551,
+      "Longitude":32.7160,
+      "NameInArabic":"قنا",
+      "NameInEnglish":"Qena",
+      "CitiesAndVillages":[
+         {
+            "Latitude":26.1209,
+            "Longitude":32.0956,
+            "NameInArabic":"أبو تشت، قنا",
+            "NameInEnglish":"Abu Tisht"
+         },
+         {
+            "Latitude":26.0873,
+            "Longitude":32.4230,
+            "NameInArabic":"الوقف، قنا",
+            "NameInEnglish":"Al Waqf"
+         },
+         {
+            "Latitude":26.128815,
+            "Longitude":32.467799,
+            "NameInArabic":"دشنا. قنا",
+            "NameInEnglish":"Dishna"
+         },
+         {
+            "Latitude":26.0556,
+            "Longitude":32.1675,
+            "NameInArabic":"فرشوط، قنا",
+            "NameInEnglish":"Farshut"
+         },
+         {
+            "Latitude":26.0002,
+            "Longitude":32.8159,
+            "NameInArabic":"قفط، قنا",
+            "NameInEnglish":"Qift"
+         },
+         {
+            "Latitude":25.9181,
+            "Longitude":32.7597,
+            "NameInArabic":"قوص، قنا",
+            "NameInEnglish":"Qus"
+         },
+         {
+            "Latitude":26.0452,
+            "Longitude":32.2428,
+            "NameInArabic":"نجع حمادي، قنا",
+            "NameInEnglish":"Nagaa Hammadi"
+         },
+         {
+            "Latitude":25.9005,
+            "Longitude":32.7227,
+            "NameInArabic":"نقادة، قنا",
+            "NameInEnglish":"Naqadah"
+         }
+      ]
+   },
+   {
+      "Latitude":31.1107,
+      "Longitude":30.9388,
+      "NameInArabic":"كفر الشيخ",
+      "NameInEnglish":"Kafr El-Shaikh",
+      "CitiesAndVillages":[
+         {
+            "Latitude":31.5672,
+            "Longitude":31.1481,
+            "NameInArabic":"البرلس، كفر الشيخ",
+            "NameInEnglish":"Burullus"
+         },
+         {
+            "Latitude":31.3113,
+            "Longitude":31.1463,
+            "NameInArabic":"الحامول، كفر الشيخ",
+            "NameInEnglish":"El-Hamoul"
+         },
+         {
+            "Latitude":31.2368,
+            "Longitude":30.9454,
+            "NameInArabic":"الرياض، كفر الشيخ",
+            "NameInEnglish":"El-Reyad"
+         },
+         {
+            "Latitude":31.5555,
+            "Longitude":31.0944,
+            "NameInArabic":"بلطيم، كفر الشيخ",
+            "NameInEnglish":"Baltim"
+         },
+         {
+            "Latitude":31.1724,
+            "Longitude":31.2215,
+            "NameInArabic":"بيلا، كفر الشيخ",
+            "NameInEnglish":"Biyala"
+         },
+         {
+            "Latitude":31.1341,
+            "Longitude":30.6460,
+            "NameInArabic":"دسوق، كفر الشيخ",
+            "NameInEnglish":"Desouk"
+         },
+         {
+            "Latitude":31.2693,
+            "Longitude":30.7873,
+            "NameInArabic":"سيدى سالم، كفر الشيخ",
+            "NameInEnglish":"Sidi Salem"
+         },
+         {
+            "Latitude":31.2031,
+            "Longitude":30.5468,
+            "NameInArabic":"فوه، كفر الشيخ",
+            "NameInEnglish":"Fouh"
+         },
+         {
+            "Latitude":31.0481,
+            "Longitude":30.8534,
+            "NameInArabic":"قلين، كفر الشيخ",
+            "NameInEnglish":"Qillin"
+         },
+         {
+            "Latitude":31.3025,
+            "Longitude":30.5213,
+            "NameInArabic":"مطوبس، كفر الشيخ",
+            "NameInEnglish":"Motobas"
+         }
+      ]
+   },
+   {
+      "Latitude":25.6872,
+      "Longitude":32.6396,
+      "NameInArabic":"الأقصر",
+      "NameInEnglish":"Luxor",
+      "CitiesAndVillages":[
+         {
+            "Latitude":25.6207,
+            "Longitude":32.5453,
+            "NameInArabic":"أرمنت، الأقصر",
+            "NameInEnglish":"Armant"
+         },
+         {
+            "Latitude":25.2941,
+            "Longitude":32.5477,
+            "NameInArabic":"إسنا، الأقصر",
+            "NameInEnglish":"Esna"
+         },
+         {
+            "Latitude":25.6639,
+            "Longitude":32.6314,
+            "NameInArabic":"البياضية، الأقصر",
+            "NameInEnglish":"Bayadeya"
+         },
+         {
+            "Latitude":25.74766094,
+            "Longitude":32.67350712,
+            "NameInArabic":"الزينية، الأقصر",
+            "NameInEnglish":"AZ Zayniyyah"
+         },
+         {
+            "Latitude":25.5825,
+            "Longitude":32.5326,
+            "NameInArabic":"الطود، الأقصر",
+            "NameInEnglish":"Al Toud City"
+         },
+         {
+            "Latitude":25.7297,
+            "Longitude":32.6447,
+            "NameInArabic":"القرنه، الأقصر",
+            "NameInEnglish":"Al Qarnah"
+         }
+      ]
+   }
 ]
